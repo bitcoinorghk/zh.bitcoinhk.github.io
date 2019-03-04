@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+
+
+<title>The Bitcoin Association of Hong Kong</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll v3.1.2</generator>
+<icon>https://www.bitcoin.org.hk/images/apple-touch-icon-precomposed.png</icon>
+<subtitle>Fostering and promoting Bitcoin and its technology in Hong Kong.</subtitle>
+<link href="https://www.bitcoin.org.hk/atom.xml" rel="self"/>
+<link href="https://www.bitcoin.org.hk/" rel="alternate" type="text/html"/>
+<updated>2019-02-26T12:34:16+08:00</updated>
+<id>https://www.bitcoin.org.hk/</id>
+<author>
+  <name>The Bitcoin Association of Hong Kong</name>
+  <uri>https://www.bitcoin.org.hk/</uri>
+</author>
+
+
+<entry>
+  <title>Genesis Block</title>
+  <link href="https://www.bitcoin.org.hk/corporate/2019/02/25/genesisblock/"/>
+  <updated>2019-02-25T00:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/corporate/2019/02/25/genesisblock</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/corporate/2019/02/25/genesisblock/&quot; rel=&quot;nofollow&quot;&gt;Genesis Block&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Buy Bitcoin in Hong Kong</title>
+  <link href="https://www.bitcoin.org.hk/buy-bitcoin-in-hong-kong/"/>
+  <updated>2018-11-22T02:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/buy-bitcoin-in-hong-kong</id>
+  
+  <author>
+    <name>liongrass</name>
+    <uri>https://r.nametiles.co/liongrass</uri>
+  </author>
+  
+  <content type="html">
+    &lt;p&gt;last updated: 2018-11-22 &lt;a href=&quot;https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md&quot;&gt;version history&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;buying-bitcoin-in-hong-kong&quot;&gt;Buying Bitcoin in Hong Kong&lt;/h2&gt;
+
+&lt;p&gt;The options on how to buy Bitcoin can be overwhelming at first. Unlike with centralized systems like Alipay or Paypal there is no ‘official’ way to fund your accounts, and fees vary across services and locations. As a rule of thumb, the more convenient and fast a HKD -&amp;gt; Bitcoin exchange is, the higher the fees are.&lt;/p&gt;
+
+&lt;p&gt;Compared with selling Bitcoin, there is little fraud risk associated with buying.
+Unfortunately Bitcoin still does not have the legal status in Hong Kong that it deserves, and banks are reluctant to deal with companies and individuals associated with Bitcoin. In this environment it is easy for scammers to attempt to defraud you of your Dollars or Bitcoin in certain kinds of transactions.&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;a href=&quot;http://hkbitcoinatm.com/&quot;&gt;&lt;img src=&quot;http://hkbitcoinatm.com/wp-content/uploads/2018/07/HKBITCOINATM_LOGO.jpg&quot; alt=&quot;HK Bitcoin ATM&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;Advertisement&lt;/p&gt;
+
+&lt;h3 id=&quot;in-person&quot;&gt;In Person&lt;/h3&gt;
+
+&lt;p&gt;As banks are more aggressively acting against Bitcoin companies, trading bitcoin in person has become more popular again in Hong Kong recently. The website &lt;a href=&quot;https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings&quot;&gt;localbitcoins.com&lt;/a&gt; as well as the Android app &lt;a href=&quot;https://mycelium.com/lt/help.html&quot;&gt;Mycelium&lt;/a&gt; can be used to find people in Hong Kong to meet up with.
+If you just need a few dollars worth to ‘try it out’ or ‘play with’ or need help setting up or operating your wallet, you will likely find somebody to trade at the regular &lt;a href=&quot;http://www.meetup.com/Bitcoin-HK/&quot;&gt;Bitcoin meetups&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The exchange &lt;a href=&quot;https://www.igniteotc.com/&quot;&gt;Ignite OTC&lt;/a&gt; recently opened an in-person trading desk at G/F, Chungking Mansions, Tsim Sha Tsui. Bitcoin can safely be bought and sold against HKD at a reasonable spread.&lt;/p&gt;
+
+&lt;p&gt;Some OTC exchanges (see below) also deal with cash deposits and withdrawals. Clarify with your exchange or traders beforehand what currencies, notes and payment forms they accept.&lt;/p&gt;
+
+&lt;h3 id=&quot;bitcoin-atms&quot;&gt;Bitcoin ATMs&lt;/h3&gt;
+
+&lt;p&gt;The most convenient way to buy Bitcoin is an ATM. Usually you only need to show the ATM the QR code of your Bitcoin address, insert bank notes and confirm the exchange rate. The process takes less than 30 seconds, is anonymous but can cost up to 5% in fees. Prepare your wallet ahead of time, and bring exact change. ATMs generally accept only HKD bank notes.&lt;/p&gt;
+
+&lt;p&gt;Bitcoin ATMs are located at:&lt;/p&gt;
+
+&lt;h4 id=&quot;kowloon&quot;&gt;Kowloon&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://hkbitcoinatm.com/&quot;&gt;President Commercial Centre&lt;/a&gt;&lt;/strong&gt;, Shop 322, 3/F, 608 Nathan Road, &lt;strong&gt;Mong Kok&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://www.instagram.com/s.tattoostudio/&quot;&gt;S Tattoo Studio&lt;/a&gt;&lt;/strong&gt;, 1/F, Reclamation Street 470F,  &lt;strong&gt;Mong Kok&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://nitroswap.com/#location&quot;&gt;Presidential Commercial Centre&lt;/a&gt;&lt;/strong&gt;, W Plaza, CHIC之堡, Shop 113, 602-608 , Nathan Road, &lt;strong&gt;Mong Kok&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://nitroswap.com/#location&quot;&gt;Metro Sham Shui(深之都)&lt;/a&gt;&lt;/strong&gt;, Shop 038, 3/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, &lt;strong&gt;Sham Shui Po&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;http://bitmac.org/&quot;&gt;Metro Sham Shui(深之都)&lt;/a&gt;&lt;/strong&gt;, Shop 160, 2/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, &lt;strong&gt;Sham Shui Po&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;http://ncxnet.com/&quot;&gt;Nathan Hotel&lt;/a&gt;&lt;/strong&gt;, 387 Nathan Road, Starbucks Coffee, &lt;strong&gt;Yau Ma Tei&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;http://ncxnet.com/&quot;&gt;Prudential Hotel&lt;/a&gt;&lt;/strong&gt;, The Lobby, 222 Nathan Road, &lt;strong&gt;Jordan&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://www.genesisblockhk.com/atm/&quot;&gt;Golden Luzon Agency&lt;/a&gt;&lt;/strong&gt;, G/F, 15 Tit Shu Street, &lt;strong&gt;Tai Kok Tsui&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://genesisblockhk.com/atm/&quot;&gt;Bitwork&lt;/a&gt;&lt;/strong&gt;, Unit 01-04, 7/F, FTLife Tower, No. 18 Sheung Yuet Road, &lt;strong&gt;Kowloon Bay&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;http://ncxnet.com/&quot;&gt;FunTower&lt;/a&gt;&lt;/strong&gt;, 29/F, 35 Hung To Road, &lt;strong&gt;Kwun Tong&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://www.genesisblockhk.com/atm/&quot;&gt;Tencent WeStart&lt;/a&gt;&lt;/strong&gt;, 6/F, KOHO, 75 Hung To Road, &lt;strong&gt;Kwun Tong&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;hong-kong&quot;&gt;Hong Kong&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.genesisblockhk.com/atm/&quot;&gt;Kwong Kee Building&lt;/a&gt;&lt;/strong&gt;, G/F, , 54-56 Jervois Street, &lt;strong&gt;Sheung Wan&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://www.genesisblockhk.com/atm/&quot;&gt;Naked Hub&lt;/a&gt;&lt;/strong&gt;, G/F, 40-44 Bonham Strand, &lt;strong&gt;Sheung Wan&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;http://ncxnet.com/&quot;&gt;LBP Hotel&lt;/a&gt;&lt;/strong&gt;, Hollywood Centre 77-91 Queen’s Road West, &lt;strong&gt;Sheung Wan&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;http://hkbitcoinatm.com/&quot;&gt;Shing Lee Shopping Arcade&lt;/a&gt;&lt;/strong&gt;, Shop 19, 1/F, 6 Wing Kut Street, &lt;strong&gt;Central&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;http://kryptokiosk.com/&quot;&gt;On Lok House&lt;/a&gt;&lt;/strong&gt;, G/F, 39 Hollywood Road, &lt;strong&gt;Central&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://www.genesisblockhk.com/atm/&quot;&gt;Lotus&lt;/a&gt;&lt;/strong&gt;, 5 Staunton Street, Soho, &lt;strong&gt;Central&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://genesisblockhk.com/atm/&quot;&gt;PMQ&lt;/a&gt;&lt;/strong&gt;, Garden Meow, 35 Aberdeen Street, HG01-HG05, G/F, Block B, &lt;strong&gt;Central&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://nitroswap.com/#location&quot;&gt;Zenon Cafe&lt;/a&gt;&lt;/strong&gt;, G/F, 86 Wellington Street, &lt;strong&gt;Central&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;http://ncxnet.com/&quot;&gt;Larry Jewelry&lt;/a&gt;&lt;/strong&gt;Shop G5, G/F, Bank of America Tower, 12 Harcourt Road, &lt;strong&gt;Admiralty&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://anxintl.com/contact-us/&quot;&gt;CNT Tower&lt;/a&gt;&lt;/strong&gt;, Room F, 19/F, 338 Hennessy Road, &lt;strong&gt;Wan Chai&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://www.genesisblockhk.com/atm/&quot;&gt;Genesis Block&lt;/a&gt;&lt;/strong&gt;, U/G, 273 Hennessy Road, &lt;strong&gt;Wan Chai&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;http://ncxnet.com/&quot;&gt;VELA Hotel&lt;/a&gt;&lt;/strong&gt;, 86 Morrison Hill Rd, Morrison Hill, &lt;strong&gt;Causeway Bay&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;http://bitmac.org/&quot;&gt;City Garden&lt;/a&gt;&lt;/strong&gt;, Shop 31, Maxibase, Block 1-3, 233 Electric Road, &lt;strong&gt;North Point&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://coinatmradar.com/bitcoin_atm/5437/bitcoin-atm-general-bytes-hong-kong-7f-sino-favour-centre/&quot;&gt;Tidebit&lt;/a&gt;&lt;/strong&gt;, 7/F Sino Favour Centre, 1 On Yip Street, &lt;strong&gt;Chai Wan&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;new-territories&quot;&gt;New Territories&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://hkbitcoinatm.com/&quot;&gt;T.Mark&lt;/a&gt;&lt;/strong&gt;, Shop 329, 3/F, 18 Tai Ho Road, &lt;strong&gt;Tsuen Wan&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://www.genesisblockhk.com/atm/&quot;&gt;23 Mei Wan St&lt;/a&gt;&lt;/strong&gt;, G/F, &lt;strong&gt;Tsuen Wan&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://nitroswap.com/#location&quot;&gt;One Terminal(壹號總站)&lt;/a&gt;&lt;/strong&gt;, Shop 14,2 Tsing Shan Square, &lt;strong&gt;Tuen Mun&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://www.genesisblockhk.com/atm/&quot;&gt;Hang Wai Industrial Centre&lt;/a&gt;&lt;/strong&gt;, G/F, 6 Kin Tai Street, (Entrance at A2 Lift Lobby), &lt;strong&gt;Tuen Mun&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;http://hkbitcoinatm.com/fanling-shop/&quot;&gt;HK Bitcoin ATM&lt;/a&gt;&lt;/strong&gt;, G/F, 17D Wo Tai Street, Luen Wo Market, &lt;strong&gt;Fanling&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You may also browse &lt;a href=&quot;http://coinatmradar.com/&quot;&gt;coinatmradar.com&lt;/a&gt; for more or less up to date information on the location, uptime and rates of Bitcoin ATMs.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/d/u/0/embed?mid=1bQBtLOmBUyg372DEkpIQFe3Ql3KwnRnz&quot; width=&quot;100%&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;bitcoin-exchanges&quot;&gt;Bitcoin Exchanges&lt;/h3&gt;
+
+&lt;p&gt;Buying Bitcoin on exchanges is usually the cheapest option in terms of fees and is relatively fast and convenient too. But it often requires a few days to set up an account and get verified, and you can expect exchanges based in Hong Kong to ask for your personal information like ID or address proof before you can start using their accounts.
+Please note that Bitcoin exchanges are not to be treated as banks. We recommend you to withdraw your coins quickly after your purchase to a wallet you control, and never keep any funds on an exchange for a longer time.&lt;/p&gt;
+
+&lt;h4 id=&quot;hong-kong-exchanges&quot;&gt;Hong Kong Exchanges&lt;/h4&gt;
+
+&lt;p&gt;There are currently four exchanges with local Hong Kong bank accounts. Some of these exchanges also accept cash deposits and cheques.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://anxpro.com/&quot;&gt;ANX&lt;/a&gt;&lt;/strong&gt;
+Once you are signed up and verified, depositing your Hong Kong dollars with ANX is easy. You can hand it over in cash at their main office in Wan Chai and it will be credited quickly to your account, where you can exchange them to Bitcoin and withdraw to your wallet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://gatecoin.com/&quot;&gt;Gatecoin&lt;/a&gt;&lt;/strong&gt;
+Gatecoin is one of the older continuous running exchanges in Hong Kong. After focusing on their crypto-to-crypto platform, Gatecoin is once again available for buyers and sellers of BTC through HKD and USD wiretransfers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.tidebit.com/&quot;&gt;Tidebit&lt;/a&gt;&lt;/strong&gt;
+Tidebit is the newest of Hong Kong Bitcoin exchanges. You can deposit cash for free or via wire transfer for a 2% fee.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.coinsuper.com/&quot;&gt;Coinsuper&lt;/a&gt;&lt;/strong&gt;
+The youngest of Hong Kong’s Bitcoin exchanges accepts only USD deposits into their bank account.&lt;/p&gt;
+
+&lt;h4 id=&quot;otc-exchanges&quot;&gt;OTC Exchanges&lt;/h4&gt;
+
+&lt;p&gt;For larger amounts, you can go to an OTC Exchange, or broker. A broker will give you a quick quote for a single trade, usually upwards of 50 BTC. You will be able to sell or buy Bitcoin against a wire transfer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://gatecoin.com/&quot;&gt;Gatecoin&lt;/a&gt;&lt;/strong&gt;
+The international Hong Kong-based exchange Gatecoin also offers OTC trading.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.osl.com/&quot;&gt;OSL&lt;/a&gt;&lt;/strong&gt;
+Affiliated with ANX as mentioned above.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.genesisblockhk.com/&quot;&gt;Genesis Block&lt;/a&gt;&lt;/strong&gt;
+Opened in September 2017 in Wan Chai, the Genesis Block functions as an OTC trading hub as well as a co-working and event space.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.circletrading.com/&quot;&gt;Circle Trading&lt;/a&gt;&lt;/strong&gt;
+Circle is a Boston-based financial services firm most popular for their money transfer app. They opened a Bitcoin OTC trading desk in Hong Kong in November 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://bitinsighthk.com/&quot;&gt;BitInsightHK&lt;/a&gt;&lt;/strong&gt;
+Located in Central and was opened in February 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.igniteotc.com/&quot;&gt;Ignite OTC&lt;/a&gt;&lt;/strong&gt;
+Hong Kong’s newest OTC exchange has a shop in Chungking Mansions, but larger trades can be conducted remotely.&lt;/p&gt;
+
+&lt;h4 id=&quot;overseas-exchanges&quot;&gt;Overseas Exchanges&lt;/h4&gt;
+
+&lt;p&gt;Some exchanges overseas serve the Hong Kong market. Wire transfers to these exchanges are more expensive, but often more reliable and there is significantly more market depth. Disputes however cannot easily be resolved through the Hong Kong legal system and can quickly become complicated and expensive to resolve.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.quoine.com/&quot;&gt;Quoine&lt;/a&gt;&lt;/strong&gt;
+Quoine is a Japanese exchange that offers HKD deposits into their Japanese bank accounts and HKD trading.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://gemini.com/&quot;&gt;Gemini&lt;/a&gt;&lt;/strong&gt;
+Gemini is a New York exchange that specializes on large volumes. It only accepts USD deposits and trading.&lt;/p&gt;
+
+&lt;h4 id=&quot;decentralized-exchanges&quot;&gt;Decentralized Exchanges&lt;/h4&gt;
+
+&lt;p&gt;Decentralized Exchanges don’t have their own bank accounts. Instead, buyers and sellers interact directly with each other when transfering money. It is up to the user to follow the appropriate Anti-Money-Laundering and Know-Your-Customer rules. The Bitcoin are held in escrow by the exchange. It’s very important to make use of these escrow options and be careful who you interact with.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://localbitcoins.com/country/HK&quot;&gt;Localbitcoins&lt;/a&gt;&lt;/strong&gt;
+Localbitcoins is a decentralized exchange managed from Finland.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://bisq.network/&quot;&gt;Bisq&lt;/a&gt;&lt;/strong&gt;
+Bisq (formerly Bitsquare) is not a company, and is not run by anybody. Instead it acts as a network of users, which you can join by downloading the Bitsquare software. This software might be experimental at times, but shows promise in leading the way to a truly decentralized future.&lt;/p&gt;
+
+&lt;h3 id=&quot;earn-bitcoin&quot;&gt;Earn Bitcoin&lt;/h3&gt;
+
+&lt;p&gt;The by far cheapest way to get Bitcoin is to accept them as payment. No matter if you run a business, are employed, do freelance work or your friends owe you money, it may be a good idea to ask for these payments to be made in Bitcoin. Especially online and in international transfers the instantaneous and near-free Bitcoin transactions are far superior to other means.&lt;/p&gt;
+
+&lt;p&gt;If you have a business, you can consider accepting Bitcoin as a form of payment. &lt;a href=&quot;https://www.bitcoinhk.org/accept-bitcoin-now/&quot;&gt;Learn all about it here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Feel free to comment about your experiences, thoughts and additions.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/buy-bitcoin-in-hong-kong/&quot; rel=&quot;nofollow&quot;&gt;Buy Bitcoin in Hong Kong&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;liongrass&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Hong Kong Bitcoin Regulation</title>
+  <link href="https://www.bitcoin.org.hk/hong-kong-bitcoin-regulation/"/>
+  <updated>2018-11-14T10:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/hong-kong-bitcoin-regulation</id>
+  
+  <author>
+    <name>liongrass</name>
+    <uri>https://r.nametiles.co/liongrass</uri>
+  </author>
+  
+  <content type="html">
+    &lt;h1 id=&quot;hong-kong-rule-of-law-and-the-free-market&quot;&gt;Hong Kong, rule of law and the free market&lt;/h1&gt;
+
+&lt;p&gt;Updated: 2018-11-14 &lt;a href=&quot;https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2017-08-27-hong-kong-bitcoin-regulation.md&quot;&gt;version history&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In general, Hong Kong has a reputation as a reliable and predictable non-interventionist regulator. Most rules are clearly laid out and easy to comprehend and follow for people with little legal training (like me).&lt;/p&gt;
+
+&lt;p&gt;Rules rarely contradict each other and while government agencies do not closely coordinate with each other or share common goals, there are few power plays and power grabs between different agencies and departments.&lt;/p&gt;
+
+&lt;p&gt;However, some license regimes are restrictive and tied to control over real estate, which makes them only accessible to an oligopolistic cartel of property developers. Other licenses are no longer given out and have to be bought from existing license holders.&lt;/p&gt;
+
+&lt;p&gt;The result of this means that while &lt;strong&gt;Rule of Law&lt;/strong&gt; and &lt;strong&gt;Free Market Principles&lt;/strong&gt; prevail in Hong Kong, markets are highly duopolized and uncompetitive.&lt;/p&gt;
+
+&lt;p&gt;While Bitcoin in general is &lt;strong&gt;not specifically regulated&lt;/strong&gt; other existing regulations might apply and the above mentioned realities shape Bitcoin markets and businesses in Hong Kong. It is important to understand the political and economical limitations and obscurities of Hong Kong to understand how Bitcoin fits in. Sadly this greatly exceeds the scope of this article.&lt;/p&gt;
+
+&lt;h2 id=&quot;hong-kong-bitcoin-regulation&quot;&gt;Hong Kong Bitcoin Regulation&lt;/h2&gt;
+
+&lt;p&gt;Bitcoin did not get onto the radar of the Hong Kong regulators until late 2013. Until then there was little Bitcoin activity in Hong Kong. Bitfinex was likely the first exchange to open bank accounts in Hong Kong and offering exchange and trading services largely to international customers in 2012.&lt;/p&gt;
+
+&lt;p&gt;ANX and Bitcashout followed in 2013, and Bitcoin prices continued to rally throughout November 2013, reaching a high of US$1153.27 on European exchange Bitstamp on December 4, 2013.&lt;/p&gt;
+
+&lt;p&gt;The then Financial Secretary John Tsang 曾俊華 mentioned Bitcoin for the first time in a &lt;a href=&quot;http://www.fso.gov.hk/chi/blog/blog011213.htm&quot;&gt;blog post&lt;/a&gt; on December 1, 2013 (&lt;a href=&quot;http://www.scmp.com/business/banking-finance/article/1396917/virtual-currency-entrepreneurs-fight-future-bitcoin-hong&quot;&gt;referenced here&lt;/a&gt;). In this article Tsang gives a good summary of how Bitcoin works and warns about its volatile nature and the lack of support from a state or issuer. He warns of a bubble bursting and sees many opportunities for software developers.&lt;/p&gt;
+
+&lt;p&gt;On December 4, 2014 the issue was &lt;a href=&quot;http://library.legco.gov.hk:1080/record=b1162178&quot;&gt;picked up by Hong Kong’s parliament&lt;/a&gt;, the Legislative Council.&lt;/p&gt;
+
+&lt;p&gt;Legislator Christopher Cheung 張華峰, representing the financial services asks: “Will the Government state its position on the Bitcoin clearly and openly, so that the industry can have something to go by?”&lt;/p&gt;
+
+&lt;p&gt;John Tsang ultimately defines Bitcoin as “&lt;strong&gt;a commodity generated in the cyber world&lt;/strong&gt;” and “&lt;strong&gt;neither electronic money nor a stored value payment facility&lt;/strong&gt;.”&lt;/p&gt;
+
+&lt;p&gt;This policy, likely developed in coordination with Hong Kong Monetary Authority (HKMA), Securities and Futures Commission (SFC), Financial Treasuries Bureau (FTB), the Customs and Excise Department (C&amp;amp;ED) in consultation with their Mainland Chinese counterparts, has become the cornerstone of Hong Kong’s Bitcoin regulation and is unlikely to change.&lt;/p&gt;
+
+&lt;p&gt;The stance was repeated in a &lt;a href=&quot;http://library.legco.gov.hk:1080/record=b1163993&quot;&gt;meeting of the Legislative Council on January 2014&lt;/a&gt; (&lt;a href=&quot;http://www.info.gov.hk/gia/general/201401/08/P201401080357.htm&quot;&gt;Press Release from January 8, 2013&lt;/a&gt;), adding “We have branded bitcoins as a highly speculative product and we call upon the public to be very careful.”&lt;/p&gt;
+
+&lt;h3 id=&quot;bitcoin-as-a-virtual-commodity&quot;&gt;Bitcoin as a Virtual Commodity&lt;/h3&gt;
+
+&lt;p&gt;Being defined as a virtual commodity rather than a currency, Bitcoin is per se not regulated by any of the financial regulatory bodies, such as the HKMA or the SFC.&lt;/p&gt;
+
+&lt;p&gt;Trading activities are &lt;a href=&quot;http://www.customs.gov.hk/en/trade_controls/control/index.html&quot;&gt;controlled by the Customs and Excise Department&lt;/a&gt;, including commodities trading. Being a “&lt;a href=&quot;http://tid.gov.hk/english/aboutus/tradepolicy/trpolicy.html&quot;&gt;free port&lt;/a&gt;” Hong Kong places little restriction on imports and exports and does not charge tariffs.&lt;/p&gt;
+
+&lt;p&gt;Some financial regulatory principles such as “Know Your Customer” may still apply to &lt;a href=&quot;https://www.stc.tid.gov.hk/english/bsg/BestPractice.html&quot;&gt;commotities trading&lt;/a&gt;. What this means precisely for Bitcoin trading remains unknown.&lt;/p&gt;
+
+&lt;p&gt;The only guidance available is &lt;a href=&quot;http://www.customs.gov.hk/filemanager/common/pdf/circular_VC_30012014_en.pdf&quot;&gt;a document from the Customs and Excise Department from January 30, 2014&lt;/a&gt;. In short, people dealing with Bitcoin might have a duty to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;obtain information on the customer and keeping it up to date&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;obtain information on the business relationship,&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;the source of wealth and source of funds&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;monitor the business relationship&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;make reports to the Financial Intelligence Unit about suspicious activity&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While not carrying legal status, the Joint Financial Intelligence Unit (JFIU) &lt;a href=&quot;http://www.jfiu.gov.hk/info/doc/Virtual-currency-key-definitions-and-potential-aml-cft-risks.pdf&quot;&gt;references a 2014 report by the Paris-based Financial Action Task Force (FATF) on cryptocurrencies&lt;/a&gt;. The document may be interesting as a reference point.&lt;/p&gt;
+
+&lt;p&gt;In March 2015 the Secretary for Financial Services &amp;amp; the Treasury, Prof KC Chan 陳家強 &lt;a href=&quot;https://www.news.gov.hk/en/categories/finance/html/2015/03/20150325_150920.shtml&quot;&gt;reiterated the government’s stance&lt;/a&gt; that Bitcoin regulation is “not needed”.&lt;/p&gt;
+
+&lt;p&gt;In September 2018 the HKMA reiterated their stance that Bitcoin is not money, but instead a type of commodity, in a &lt;a href=&quot;https://www.hkma.gov.hk/eng/key-information/speech-speakers/ntlchan/20180921-1.shtml&quot;&gt;speech given by its Chief Executive, Norman Chan&lt;/a&gt;. The speech mimicks that of &lt;a href=&quot;https://www.bis.org/speeches/sp180206.pdf&quot;&gt;Agustín Carstens&lt;/a&gt; of the Bank of International Settlements in February 2018.&lt;/p&gt;
+
+&lt;h3 id=&quot;bitcoin-as-a-virtual-currency&quot;&gt;Bitcoin as a Virtual Currency&lt;/h3&gt;
+
+&lt;p&gt;Recently, various Hong Kong institutions departments have become less consistent in refering to Bitcoin as a virtual commodity, and instead mention the term ‘virtual currency’ more frequently.&lt;/p&gt;
+
+&lt;p&gt;Most notably, &lt;a href=&quot;https://www.legco.gov.hk/research-publications/english/essentials-1516ise15-blockchain-technology.htm&quot;&gt;the Legislative Council&lt;/a&gt; refers to Bitcoin as a virtual currency in their research publication. Councillors requently (e.g. &lt;a href=&quot;https://www.info.gov.hk/gia/general/201706/21/P2017062100532.htm&quot;&gt;June 2017&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.info.gov.hk/gia/general/201711/08/P2017110800405.htm&quot;&gt;November 2017&lt;/a&gt;). In its “Money Laundering and Terrorist Financing Risk Assessment Report” the Financial Services and Treasury Bureay writes &lt;a href=&quot;https://www.fstb.gov.hk/fsb/aml/en/doc/hk-risk-assessment-report_e.pdf&quot;&gt;“Virtual currencies (“VCs”) are virtual commodities”&lt;/a&gt; and refers to Bitcoin primarily as a virtual currency. The HKMA refers to Bitcoin mainly as a “cryptocurrency” in their November 2016 &lt;a href=&quot;https://www.hkma.gov.hk/media/eng/doc/key-functions/finanical-infrastructure/Whitepaper_On_Distributed_Ledger_Technology.pdf&quot;&gt;“Whitepaper on Distributed Ledger Technology.”&lt;/a&gt; The same goes for the &lt;a href=&quot;https://www.hkma.gov.hk/media/eng/doc/key-functions/finanical-infrastructure/infrastructure/20171025e1a1.pdf&quot;&gt;“Whitepaper 2.0”&lt;/a&gt; published October 2017.&lt;/p&gt;
+
+&lt;p&gt;This terminology puts it more in line with international organizations and in our opinion does not represent a policy shift.&lt;/p&gt;
+
+&lt;h3 id=&quot;bitcoin-as-a-virtual-asset&quot;&gt;Bitcoin as a Virtual Asset&lt;/h3&gt;
+
+&lt;p&gt;On November 1, 2018, the Chief Executive Officer of the SFC, Ashley Alder, announced in &lt;a href=&quot;https://www.sfc.hk/web/EN/files/ER/PDF/Speeches/Ashley%20HK%20FinTech%20Week.pdf&quot;&gt;a keynote speech&lt;/a&gt; at Fintech Week the strict enforcement and clarification of existing rules, as well as a sandboxing arrangement for cryptocurrency exchanges. He groups cryptocurrencies like Bitcoin, security and utility tokens together into the term ‘virtual assets or crypto-assets’.&lt;/p&gt;
+
+&lt;p&gt;Together with this speech, the SFC released two appendices that attempt to govern the rules of cryptocurrency &lt;a href=&quot;https://www.sfc.hk/web/EN/files/ER/PDF/App%201%20-%20Reg%20standards%20for%20VA%20portfolio%20mgrs_eng.pdf&quot;&gt;funds&lt;/a&gt; and &lt;a href=&quot;https://www.sfc.hk/web/EN/files/ER/PDF/App%202_%20Conceptual%20framework%20for%20VA%20trading%20platform_eng.pdf&quot;&gt;exchanges&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The intention of these rules and publications are difficult to understand, as they appeared relatively abruptly and without a clear goal.&lt;/p&gt;
+
+&lt;h4 id=&quot;funds&quot;&gt;Funds&lt;/h4&gt;
+
+&lt;p&gt;Whether a fund needs a license from the SFC is independent of whether it holds these ‘virtual assets.’&lt;/p&gt;
+
+&lt;p&gt;A fund that only invests in cryptocurrencies (and not in futures or securities) does not need a type 9 license (asset management). If it however distributes such a fund in Hong Kong it requires a type 1 license. The SFC however expects that a fund holding cryptocurrencies behaves as if  it held securities or futures.&lt;/p&gt;
+
+&lt;p&gt;All licensed funds that hold more than 10% of their funds in cryptocurrencies are now subject to special Terms and Conditions which may differ from fund to fund.&lt;/p&gt;
+
+&lt;p&gt;Any fund that invests in ‘virtual assets’ may &lt;strong&gt;only be available to professional investors&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The SFC will also be interested in the security arrangements of such a fund, custodial arrangements or insurance.&lt;/p&gt;
+
+&lt;p&gt;The clarifications are trying to limit the cryptocurrency exposure of funds, and keep it off limits for retail investors. It is also trying to heavily disincentivize funds from holding too much cryptocurrency. For example, if due to appreciation the cryptocurrencies in a portfolio increase above 10%, the SFC requires a fund to divest or else see themselves tied to the restrictive terms of conditions.&lt;/p&gt;
+
+&lt;p&gt;If you are running a fund, consult a lawyer about whether you need a license to operate in Hong Kong.&lt;/p&gt;
+
+&lt;h4 id=&quot;exchanges&quot;&gt;Exchanges&lt;/h4&gt;
+
+&lt;p&gt;As explained above, trading activity is regulated by the Customs &amp;amp; Excise Department of the Hong Kong Police Force. The SFC only regulates those exchanges that give investment advice, trade futures or on margin.&lt;/p&gt;
+
+&lt;p&gt;Under the new interpretations, the SFC will allow certain cryptocurrency exchanges into a ‘sandbox’ regime, where the exchanges have to behave as if they were license holders without receiving a license.&lt;/p&gt;
+
+&lt;p&gt;Exempt from this sandbox are all currently viable business models, including spot exchanges, Bitcoin ATM providers, OTC exchanges that deal with non-professional investors, margin, derivatives and futures exchanges and those trading ICO tokens.&lt;/p&gt;
+
+&lt;p&gt;The only type of exchange qualifying for the sandbox is an OTC exchange serving institutional customers. Such an exchange doesn’t require a license, but whether or not it is a sustainable business model to enter the sandbox depends on how many licensed funds require access to the OTC markets.&lt;/p&gt;
+
+&lt;p&gt;If you are running a fund offering investment advice, futures, derivatives, margin or trading ICO tokens, consult a lawyer about whether you need a license to operate in Hong Kong. If you do need a license, the SFC won’t give it to you and you will not qualify for the sandbox.&lt;/p&gt;
+
+&lt;h3 id=&quot;taxation&quot;&gt;Taxation&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;/hong-kong-bitcoin-taxation/&quot;&gt;For a more comprehensive article about Bitcoin Taxation, please refer to this article.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hong Kong’s tax regime remains simple and taxes are generally low. There is no Value Added Tax (VAT) or Capital Gains tax, making many of the taxation nightmares around Bitcoin known from other countries non-existent.&lt;/p&gt;
+
+&lt;p&gt;Income tax needs to be paid independent of whether payments are made in cash, cheque or Bitcoin and it is generally up to a business if they want to do their accounting in Hong Kong Dollars or Bitcoin.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-right-to-exchange-hkd&quot;&gt;The Right to Exchange HKD&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.basiclaw.gov.hk/en/basiclawtext/chapter_5.html&quot;&gt;Article 112 of the Basic Law&lt;/a&gt; states:&lt;/p&gt;
+
+&lt;p&gt;“No foreign exchange control policies shall be applied in the Hong Kong Special Administrative Region. The Hong Kong dollar shall be freely convertible. &lt;strong&gt;Markets for foreign exchange, gold, securities, futures and the like shall continue.&lt;/strong&gt;”&lt;/p&gt;
+
+&lt;p&gt;This relatively unusual constitutional provision makes it unlikely that we will ever see significant restrictions or even a “ban” on Bitcoin. The article however does not prevent the government from creating licensing regimes that favor monopolies and allow for significant rent seeking.&lt;/p&gt;
+
+&lt;h4 id=&quot;bitcoin-exchanges-forex-and-atms&quot;&gt;Bitcoin Exchanges, Forex and ATMS&lt;/h4&gt;
+
+&lt;p&gt;As &lt;a href=&quot;https://eservices.customs.gov.hk/MSOS/downloadFile?id=41214&quot;&gt;clarified by the Customs and Excise Department in January 2014&lt;/a&gt;, Bitcoin exchanges, forex booths or Bitcoin ATMs do not require a Money Service Operator License (MSO).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“Bitcoin is not “money” and does not fall within the regulatory regime administered by the C&amp;amp;ED”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The concern behind this is that Bitcoin exchanges might apply for MSO licenses and use them to create an illusion of legitimacy or government sanction.&lt;/p&gt;
+
+&lt;p&gt;However, there are strong concerns that &lt;em&gt;do not require a MSO&lt;/em&gt; is interpreted as &lt;em&gt;must not obtain a MSO&lt;/em&gt;. Regulated and licensed businesses have complained to us about being prevented from offering Bitcoin products, and Bitcoin ATMs have been removed from the premises of such businesses at the “suggestion” of the C&amp;amp;ED.&lt;/p&gt;
+
+&lt;p&gt;This puts police intimidation as the number one legal barrier to offering Bitcoin products. Note however that this only applies to companies under the C&amp;amp;ED licensing regime. Companies outside of that regime do not feel restricted or intimidated in offering Bitcoin products.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-hkma-and-banks&quot;&gt;The HKMA and banks&lt;/h4&gt;
+
+&lt;p&gt;The HKMA has no jurisdiction over Bitcoin. There is little information and no public documents that detail the HKMA’s position on Bitcoin outside of &lt;a href=&quot;http://www.info.gov.hk/gia/general/201502/11/P201502110879.htm&quot;&gt;repeated&lt;/a&gt; &lt;a href=&quot;http://www.hkma.gov.hk/eng/key-information/press-releases/2015/20150211-3.shtml&quot;&gt;warnings&lt;/a&gt; over its lack of state backing and volatile nature.&lt;/p&gt;
+
+&lt;p&gt;While it probably isn’t exactly a secret that the HKMA is highly skeptical and even dismissive of Bitcoin as a decentralized global currency, it’s guidence towards banks is publicly unknown.&lt;/p&gt;
+
+&lt;p&gt;It is likely that confidential notes, minutes and verbal instructions exist that limit the banks’ ability to engage with Bitcoin businesses.&lt;/p&gt;
+
+&lt;p&gt;In reality banks are highly hesitant to open accounts to financial services companies, and even more so cryptocurrency businesses. There are few reports of private banks accounts being shut down due to involvement with Bitcoin trading, but for company accounts this remains common.&lt;/p&gt;
+
+&lt;h4 id=&quot;payment-processors&quot;&gt;Payment Processors&lt;/h4&gt;
+
+&lt;p&gt;Currently there is no dedicated Bitcoin payment processor active in Hong Kong. While some processors like Coingate, Globee, Bitpay and Coinbase are serving Hong Kong businesses, few are exchanging Bitcoins into Hong Kong or U.S. dollars for them. Hong Kong exchanges offer such services only on a limited on-demand basis.&lt;/p&gt;
+
+&lt;p&gt;While a payment processor’s services would be similar to that of an exchange or broker, it is possible the HKMA could attempt to claim jurisdiction over payment processors, for example as part of the &lt;a href=&quot;http://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-svf-and-rps/regulation-of-svf.shtml&quot;&gt;Stored Value Facility (SVF) license&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;money-lending&quot;&gt;Money Lending&lt;/h4&gt;
+
+&lt;p&gt;Advertising money lending services requires a Money Lenders’ license issued by the Companies Registry. Whether Bitcoins are used or not is not relevant to the issuance of a license, and money lenders using Bitcoin have successfully obtained licenses.&lt;/p&gt;
+
+&lt;h4 id=&quot;tokens&quot;&gt;Tokens&lt;/h4&gt;
+
+&lt;p&gt;Securities law is incredibly complicated and Blockchain-based product are not excempt. Whether a cryptocurrency is a commodity or security, and whether a security is a legal security requires very careful examination.&lt;/p&gt;
+
+&lt;p&gt;Some tokens, especially those derived from “Token Creation Events” or “Initial Coin Offerings” &lt;a href=&quot;http://www.sfc.hk/web/EN/news-and-announcements/policy-statements-and-announcements/statement-on-initial-coin-offerings.html&quot;&gt;are very likely securities&lt;/a&gt;, and their offering to unqualified investors in Hong Kong is illegal. It however currently seems unlikely that the SFC will go after securities not specifically offered or advertised to Hong Kong investors.&lt;/p&gt;
+
+&lt;p&gt;On February 9, 2018 the SFC &lt;a href=&quot;http://www.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=18PR13&quot;&gt;contacted Hong Kong exchanges&lt;/a&gt; urging them to delist tokens deemed securities. ICO issuers were also contacted. They either stopped their ICO or promised to comply with securities regulation.&lt;/p&gt;
+
+&lt;p&gt;Advising on token offerings, brokering tokens and letting customers trade them &lt;a href=&quot;https://www.sfc.hk/web/EN/regulatory-functions/intermediaries/licensing/guide-to-licence-application/regulated-activities.html&quot;&gt;may require a license from the SFC&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;future-outlook&quot;&gt;Future Outlook&lt;/h4&gt;
+
+&lt;p&gt;Bitcoin will likely become more regulated as it becomes more popular. I expect concern over Bitcoin to remain with the C&amp;amp;ED, either through the creation of a “Virtual Currencies/Cryptocurrencies Dealer” license (VCD)” or the inclusion of provisions for cryptocurrencies into the MSO license.&lt;/p&gt;
+
+&lt;p&gt;Cryptocurrencies brokers, exchanges and ATM operators and anybody engaging in or facilitating the exchange of cryptocurrencies will have to apply with the C&amp;amp;ED and prove residency, physical locations, sufficient capitalization and a clean criminal record.&lt;/p&gt;
+
+&lt;p&gt;The SFC will further relax its rules towards funds, and later also derivatives and futures trading and enable its existing license holders to offer these products based on cryptocurrencies. Possibly ETFs and other funds will become possible and even listed.&lt;/p&gt;
+
+&lt;p&gt;I expect it to take a long time until the Hong Kong government reclassifies Bitcoin as a currency, which will allow the HKMA to clarify its rules, allow banks to offer Bitcoin-based investment products as well as allow SVF license holders to include Bitcoin into their products.&lt;/p&gt;
+
+&lt;h4 id=&quot;notes&quot;&gt;Notes&lt;/h4&gt;
+
+&lt;p&gt;This post was written by Leonhard Weese, and for obvious reasons does not constitute legal advise. For corrections, suggestions and inquiries contact the author via &lt;a href=&quot;https://twitter.com/leoaw&quot;&gt;@LeoAW&lt;/a&gt; or leo (at) bitcoin (dot) org (dot) hk&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/hong-kong-bitcoin-regulation/&quot; rel=&quot;nofollow&quot;&gt;Hong Kong Bitcoin Regulation&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;liongrass&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Monthly Central Meetup</title>
+  <link href="https://www.bitcoin.org.hk/2018-12-monthly-central-meetup/"/>
+  <updated>2018-11-06T19:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/monthly-central-meetup</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup in Central. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.8672653007984!2d114.15697035106373!3d22.283017349079806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404006386e51539%3A0xb73d9832bf547093!2zR3JhcHBhJ3MgQ2VsbGFyIOatjOafj-e1suaEj-Wkp-WIqemkkOW7sw!5e0!3m2!1sen!2sus!4v1484392008275&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-12-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Monthly Central Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>SFC Statement Comments</title>
+  <link href="https://www.bitcoin.org.hk/sfc-regulation-comments/"/>
+  <updated>2018-11-05T02:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/sfc-comments</id>
+  
+  <author>
+    <name>liongrass</name>
+    <uri>https://r.nametiles.co/liongrass</uri>
+  </author>
+  
+  <content type="html">
+    &lt;p&gt;last updated: 2018-11-05 &lt;a href=&quot;https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2018-11-05-sfc-comments.md&quot;&gt;version history&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-sfc&quot;&gt;The SFC&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Securities_and_Futures_Commission&quot;&gt;From Wikipedia:&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;“The Securities and Futures Commission (SFC) of Hong Kong is the independent statutory body charged with regulating the securities and futures markets in Hong Kong. The SFC is responsible for fostering an orderly securities and futures markets, to protect investors and to help promote Hong Kong as an international financial centre and a key financial market in China. Even though it is considered to be a branch of the government, it is run independently under the authorisation of the laws relating to Securities and Futures.”&lt;/p&gt;
+
+&lt;p&gt;On November 1, 2018, the Chief Executive Officer of the SFC, Ashley Alder, announced in his keynote the strict enforcement and clarification of existing rules, as well as a sandboxing arrangement for cryptocurrency exchanges.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sfc.hk/web/EN/files/ER/PDF/Speeches/Ashley%20HK%20FinTech%20Week.pdf&quot;&gt;You can find the keynote here in full.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sfc.hk/web/EN/files/ER/PDF/App%201%20-%20Reg%20standards%20for%20VA%20portfolio%20mgrs_eng.pdf&quot;&gt;You can find Appendix I (on funds) here in full.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sfc.hk/web/EN/files/ER/PDF/App%202_%20Conceptual%20framework%20for%20VA%20trading%20platform_eng.pdf&quot;&gt;You can find Appendix II (on exchanges) here in full.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;comments-from-the-international-bitcoin-community&quot;&gt;Comments from the International Bitcoin Community&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.bitcoin.org.hk/sfc-regulates-crypto-exchanges-party-over-in-hong-kong-bc081100863a&quot;&gt;Leo Weese: “SFC Regulates Crypto-exchanges — Party Over in Hong Kong?”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bitquant.wordpress.com/2018/11/02/why-regulatory-sandboxes-make-no-sense-in-hong-kong/&quot;&gt;Joseph Wang: “Why regulatory sandboxes make no sense in Hong Kong”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/media/2018/11/181106K_HYU_News_re_SFC_Conceptual.pdf&quot;&gt;Henry Yu &amp;amp; Associates: “RE: STATEMENT FROM SFC ON CONCEPTUAL FRAMEWORK FOR REGULATING CRYPTO-EXCHANGES”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/OSLBrokerage/status/1058313293448675328&quot;&gt;OSL Brokerage: “A regulatory framework is a prudent approach to the development of this market”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.pwchk.com/en/financial-services/financial-services-risk-and-regulations/overview-hk-new-crypto-exchange-framework-nov2018.pdf&quot;&gt;PWC: “Overview over Hong Kong’s New Crypto Exchange Framework”&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;media-coverage&quot;&gt;Media coverage&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2018-11-01/hong-kong-reveals-crypto-rules-joining-push-to-tame-wild-market&quot;&gt;Bloomberg: “Hong Kong Reveals Crypto Rules in Push to Tame Wild Market”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.reuters.com/article/us-hongkong-regulator-crypto/hong-kong-securities-regulator-to-propose-sandbox-for-crypto-exchanges-idUSKCN1N63DU&quot;&gt;Reuters: “Hong Kong securities regulator to propose ‘sandbox’ for crypto exchanges”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://invest.hket.com/article/2199400/%E8%AD%89%E7%9B%A3%E9%99%90%E8%99%9B%E6%93%AC%E8%B3%87%E7%94%A2%E5%9F%BA%E9%87%91%20%E5%94%AE%E5%B0%88%E6%A5%AD%E6%8A%95%E8%B3%87%E8%80%85&quot;&gt;HKET: “證監限虛擬資產基金 售專業投資者”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www1.hkej.com/dailynews/article/id/1981943&quot;&gt;HKEJ: “證監發牌規管虛擬幣投資”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Feel free to send us your articles and opinion pieces.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/sfc-regulation-comments/&quot; rel=&quot;nofollow&quot;&gt;SFC Statement Comments&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;liongrass&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>SPOT Light</title>
+  <link href="https://www.bitcoin.org.hk/2018-11-spot-light/"/>
+  <updated>2018-11-01T09:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/spot-light</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;spot-conference&quot;&gt;SPOT Conference&lt;/h2&gt;
+
+&lt;p&gt;How are people in Hong Kong buying and selling cryptocurrencies? What options are there, and what are the risks and costs? How do banks interact with exchanges? Is Hong Kong a center of global cryptocurrency trading?&lt;/p&gt;
+
+&lt;p&gt;Speakers:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aurélien Menant, CEO, Gatecoin&lt;/li&gt;
+  &lt;li&gt;Dave Chapman, Chairman, OSL&lt;/li&gt;
+  &lt;li&gt;Ray Youssef, CEO, Paxful&lt;/li&gt;
+  &lt;li&gt;Wincent Hung, Director, Genesis Block&lt;/li&gt;
+  &lt;li&gt;Moderated by: Zheping Huang, Reporter, SCMP&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;a href=&quot;https://www.spotconf.com/&quot;&gt;&lt;img src=&quot;/media/2018/11/spotlight.png&quot; alt=&quot;SPOT Light&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d922.7140036986392!2d114.20980977294694!3d22.321284569181238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340401347a64fd63%3A0x4356f3f216053ef2!2sFTLife+Tower!5e0!3m2!1sen!2shk!4v1541258073617&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-11-spot-light/&quot; rel=&quot;nofollow&quot;&gt;SPOT Light&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Monthly Kowloon Meetup</title>
+  <link href="https://www.bitcoin.org.hk/2018-10-monthly-kowloon-meetup/"/>
+  <updated>2018-10-18T19:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/monthly-kowloon-meetup</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;Bitcoin via Lightning Network Accepted!&lt;br /&gt;
+We meet once a month at The Crescent Moon (yes, they accept Bitcoin!) to hang out, chat and connect.&lt;/p&gt;
+
+&lt;p&gt;The Crescent Moon is located in Tai Kok Tsui, about 5-10 minutes from Olympic Station or Prince Edward.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.8085481562!2d114.15856305106396!3d22.32307924763547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400b0b8620c51%3A0xecf9dbb66038a3!2sThe+Crescent+Moon!5e0!3m2!1sen!2sus!4v1484392144343&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://coingate.com/pay/leonhard&quot; rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;CoinGate Payment Button&quot; src=&quot;/media/2017/01/accepted.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-10-monthly-kowloon-meetup/&quot; rel=&quot;nofollow&quot;&gt;Monthly Kowloon Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Monthly Central Meetup</title>
+  <link href="https://www.bitcoin.org.hk/2018-10-monthly-central-meetup/"/>
+  <updated>2018-10-02T19:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/monthly-central-meetup</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup in Central. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.8672653007984!2d114.15697035106373!3d22.283017349079806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404006386e51539%3A0xb73d9832bf547093!2zR3JhcHBhJ3MgQ2VsbGFyIOatjOafj-e1suaEj-Wkp-WIqemkkOW7sw!5e0!3m2!1sen!2sus!4v1484392008275&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-10-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Monthly Central Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>SALG</title>
+  <link href="https://www.bitcoin.org.hk/corporate/2018/09/19/salg/"/>
+  <updated>2018-09-19T00:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/corporate/2018/09/19/salg</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/corporate/2018/09/19/salg/&quot; rel=&quot;nofollow&quot;&gt;SALG&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Monthly Kowloon Meetup</title>
+  <link href="https://www.bitcoin.org.hk/2018-09-monthly-kowloon-meetup/"/>
+  <updated>2018-09-18T19:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/monthly-kowloon-meetup</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;Bitcoin via Lightning Network Accepted!&lt;br /&gt;
+We meet once a month at The Crescent Moon (yes, they accept Bitcoin!) to hang out, chat and connect.&lt;/p&gt;
+
+&lt;p&gt;The Crescent Moon is located in Tai Kok Tsui, about 5-10 minutes from Olympic Station or Prince Edward.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.8085481562!2d114.15856305106396!3d22.32307924763547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400b0b8620c51%3A0xecf9dbb66038a3!2sThe+Crescent+Moon!5e0!3m2!1sen!2sus!4v1484392144343&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://coingate.com/pay/leonhard&quot; rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;CoinGate Payment Button&quot; src=&quot;/media/2017/01/accepted.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-09-monthly-kowloon-meetup/&quot; rel=&quot;nofollow&quot;&gt;Monthly Kowloon Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Monthly Central Meetup</title>
+  <link href="https://www.bitcoin.org.hk/2018-09-monthly-central-meetup/"/>
+  <updated>2018-09-12T19:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/monthly-central-meetup</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup in Central. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.8672653007984!2d114.15697035106373!3d22.283017349079806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404006386e51539%3A0xb73d9832bf547093!2zR3JhcHBhJ3MgQ2VsbGFyIOatjOafj-e1suaEj-Wkp-WIqemkkOW7sw!5e0!3m2!1sen!2sus!4v1484392008275&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-09-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Monthly Central Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Paxful Summer Party</title>
+  <link href="https://www.bitcoin.org.hk/2018-09-paxful-summer-party/"/>
+  <updated>2018-09-04T19:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/paxful-summer-party</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;It’s been a hot and turbulent summer! Relax and socialize with the community as we reflect on the ups and downs of cryptocurrency.&lt;/p&gt;
+
+&lt;p&gt;Tickets: minimum HK$50
+Members of the Bitcoin Association: FREE&lt;/p&gt;
+
+&lt;p&gt;Get your tickets here:
+&lt;a href=&quot;https://coingate.com/pay/paxful&quot; rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;CoinGate Payment Button&quot; src=&quot;https://static.coingate.com/images/buttons/1.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;All proceeds will go towards financial education of underbanked individuals in Hong Kong. Paxful will match your contributions up to HK$10’000.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://paxful.com/&quot;&gt;Sponsored by Paxful&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2018/08/summer18.jpeg&quot; alt=&quot;Sponsored by Paxful&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Got an invitation? Fill out the form below:&lt;/p&gt;
+
+&lt;iframe src=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdpJEcILHAGoR6ObMi9qqGfBn9u8qYKiXf-zVV22ukxzE2vPw/viewform?embedded=true&quot; width=&quot;100%&quot; height=&quot;1200&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Loading...&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9115625611444!2d114.18171525115626!3d22.28133964914012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34040056f4f00001%3A0x8b9cd06d6c1c00a!2sTOWER+535!5e0!3m2!1sen!2shk!4v1534934763903&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-09-paxful-summer-party/&quot; rel=&quot;nofollow&quot;&gt;Paxful Summer Party&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Scaling Cryptocurrencies via State Channels</title>
+  <link href="https://www.bitcoin.org.hk/2018-state-channels/"/>
+  <updated>2018-08-31T19:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/state-channels</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h3 id=&quot;scaling-cryptocurrencies-via-state-channels&quot;&gt;Scaling Cryptocurrencies via State Channels&lt;/h3&gt;
+
+&lt;p&gt;Date: &lt;strong&gt;August 31, 2018 19:00 - 21:00&lt;/strong&gt;   &lt;br /&gt;
+Location: Kenetic Capital, &lt;strong&gt;10/F, Ruttonjee House, 11 Duddell Street, Central&lt;/strong&gt;, Hong Kong   &lt;br /&gt;
+(Short walk from &lt;strong&gt;Exit G, Central Station&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;p&gt;Speaker: &lt;strong&gt;Patrick McCorry&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Cryptocurrencies do not scale. The community are pursuing two approaches for scaling the network which include changing the underlying consensus/blockchain protocol, or sharding which only requires peers to validate relevant transactions. However, while both approaches can improve the network’s throughput, it still requires all transactions to be validated by the global network to some extent and this requirement may directly harm the network’s public verifiability and its decentralisation (i.e. a home computer lacks the computational resources to verify 5,000 tps).&lt;/p&gt;
+
+&lt;p&gt;An alternative (and promising) scaling approach is so-called Layer 2 which aims to alleviate the global validation requirement and help support the network’s decentralisation. Generally, it allows a group of parties to create a “channel” and transact/execute a smart contract locally amongst themselves. The global blockchain is only used to open the channel, close the channel, or to resolve disputes within the group of parties. In this talk, we will provide an overview of how to construct a channel (in both Bitcoin and Ethereum), some experimental results on this scaling solution and highlight it’s practicality.&lt;/p&gt;
+
+&lt;p&gt;Patrick is an Assistant Professor at King’s College London. His focus is cryptocurrencies, smart contracts, cryptography and decentralised systems. Patrick is the UK’s first PhD graduate in Cryptocurrencies and his work has recently appeared at Devcon3, Scaling Bitcoin 2017, Breaking Bitcoin 2017 and BPASE 2018 alongside numerous academic venues.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.949720142707!2d114.15458385114354!3d22.279894385262146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404006524340001%3A0xe5e001467fbae938!2sKenetic+Captial!5e0!3m2!1sen!2shk!4v1534425052663&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-state-channels/&quot; rel=&quot;nofollow&quot;&gt;Scaling Cryptocurrencies via State Channels&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>The Evolving Landscape of DDoS Attacks</title>
+  <link href="https://www.bitcoin.org.hk/2018-ddos-attacks/"/>
+  <updated>2018-08-30T19:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/ddos-attacks</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h3 id=&quot;the-evolving-landscape-of-ddos-attacks&quot;&gt;The Evolving Landscape of DDoS Attacks&lt;/h3&gt;
+
+&lt;p&gt;Date: &lt;strong&gt;August 30, 2018 19:00 - 21:00&lt;/strong&gt;   &lt;br /&gt;
+Location: WeWork, 21/F, &lt;strong&gt;18 Tai Koo Shing Road, Tai Koo&lt;/strong&gt;, Hong Kong   &lt;br /&gt;
+(Short walk from &lt;strong&gt;Exit E, Tai Koo Station&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;p&gt;Leading service like Github and Telegram are facing massive Distributed Denial-of-Service (DDoS) attacks that can interrupt service for hours. Such attacks originate from a variety of internet-connected clients, including IoT devices like security cameras and baby monitors. Lately, these attacks have increased immensely in size and complexity.&lt;/p&gt;
+
+&lt;p&gt;At this talk, &lt;strong&gt;Stephen Lo&lt;/strong&gt; of Cloudflare talks about the evolution of DDoS attacks and the steps business are taking to mitigate them.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6208.776000531357!2d114.21470695241197!3d22.28706811288895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404017317113e17%3A0x69d7494516e2615a!2sCityplaza!5e0!3m2!1sen!2shk!4v1534424875078&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-ddos-attacks/&quot; rel=&quot;nofollow&quot;&gt;The Evolving Landscape of DDoS Attacks&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Hong Kong Bitcoin Taxation</title>
+  <link href="https://www.bitcoin.org.hk/hong-kong-bitcoin-taxation/"/>
+  <updated>2018-08-26T10:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/hong-kong-bitcoin-taxation</id>
+  
+  <author>
+    <name>liongrass</name>
+    <uri>https://r.nametiles.co/liongrass</uri>
+  </author>
+  
+  <content type="html">
+    &lt;h1 id=&quot;taxation-of-bitcoin-cryptocurrencies-and-tokens-in-hong-kong&quot;&gt;Taxation of Bitcoin, Cryptocurrencies and Tokens in Hong Kong&lt;/h1&gt;
+
+&lt;p&gt;Updated: 2018-08-26&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/hong-kong-bitcoin-regulation/&quot;&gt;Hong Kong officially recognized Bitcoin and Cryptocurrencies as ‘virtual commodities’&lt;/a&gt;, though the term ‘virtual currencies’ is more and more frequently used.&lt;/p&gt;
+
+&lt;p&gt;Taxation issues around Bitcoin are not difficult to understand and generally easy to handle by yourself. When you are accepting, holding or trading cryptocurrencies through a Hong Kong registered company it is most important to find consistent and fair accounting standards, and work with an auditor willing to work with this new type of payment vehicle.&lt;/p&gt;
+
+&lt;p&gt;Please be aware that the below assessment is only an overview over Hong Kong’s tax regime from the viewpoint of cryptocurrencies. This overview will apply to most cases, but your personal position may be more complicated. When in doubt, always talk to a professional!&lt;/p&gt;
+
+&lt;h2 id=&quot;income&quot;&gt;Income&lt;/h2&gt;
+
+&lt;p&gt;Regardless of whether you are a corporation or individual, you owe income tax for profits derived in Hong Kong. If you are selling products, regularly employed or offering your services in exchange for Bitcoin in Hong Kong, you will need to declare this as income in your tax return.&lt;/p&gt;
+
+&lt;p&gt;It is irrelevant whether you or your company is formally registered in Hong Kong as a resident of branch. Income derived in Hong Kong is taxed in Hong Kong, income derived outside of Hong Kong is tax free. The question of where profits are derived can also be complicated due to the borderless nature of Bitcoin. Considerable amount of planning is required if you want to argue that your profits are not coming from Hong Kong if you or your company are registered in Hong Kong.&lt;/p&gt;
+
+&lt;p&gt;When reporting your income, it is acceptable to report it in Hong Kong Dollars. You should be consistent in how you value your cryptocurrency income, for example by always taking the reference price from the same liquid exchange at the time of payment. If your invoice amount or salary is defined in HKD and the payment simply made in Bitcoin, this should be straightforward.&lt;/p&gt;
+
+&lt;p&gt;As a merchant, simply limit yourself to issuing HKD or USD invoices and book the Bitcoin income accordingly. Whether you hold onto your Bitcoin or immediately liquidate it is irrelevant (for professional trading outlets, see below).&lt;/p&gt;
+
+&lt;p&gt;If you are being paid in illiquid tokens instead of a popular cryptocurrency, coming up with a fair market valuation might be more difficult. You generally do owe income tax on income derived from advisory activities (&lt;a href=&quot;https://www.sfc.hk/web/EN/regulatory-functions/intermediaries/licensing/guide-to-licence-application/regulated-activities.html&quot;&gt;you may need a license from the SFC!&lt;/a&gt;). It may be a good idea to sell at least enough of these tokens at the time of payment to cover your tax obligations.&lt;/p&gt;
+
+&lt;h2 id=&quot;gains&quot;&gt;Gains&lt;/h2&gt;
+
+&lt;p&gt;Income from the sale of capital assets is &lt;a href=&quot;https://www.ird.gov.hk/eng/tax/bus_pft.htm&quot;&gt;tax free&lt;/a&gt;. If you buy a cryptocurrency, hold onto it and later sell if for profit, you do not owe any taxes on these profits. Similarly, you cannot deduct losses from your income tax. Furthermore, there are no reporting requirements on how many Bitcoin you bought, sold or own.&lt;/p&gt;
+
+&lt;p&gt;Hong Kong does not have a value added tax (VAT) regime, meaning you do not need to charge or pay a tax.&lt;/p&gt;
+
+&lt;h2 id=&quot;income-from-trading&quot;&gt;Income from Trading&lt;/h2&gt;
+
+&lt;p&gt;If you trade cryptocurrencies professionally, you do owe income tax on your profits. Whether you are trading cryptocurrencies professionally or as a hobbyist can be a difficult question that will require the attention of a specialist. You are likely a professional trader if you:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Live off your trading profits, e.g. there are no or little other steady streams of income&lt;/li&gt;
+  &lt;li&gt;Spend a considerable amount of time on it&lt;/li&gt;
+  &lt;li&gt;Rent an office or hire staff to support your trading activities&lt;/li&gt;
+  &lt;li&gt;Hold assets only for a very short time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;deductions&quot;&gt;Deductions&lt;/h2&gt;
+
+&lt;p&gt;Can only make deductions on costs incurred for which taxable profits are made later. In general, you cannot deduct costs incurred from buying or selling Bitcoin from your profit tax, unless you also pay taxes on the profits of these activities.&lt;/p&gt;
+
+&lt;p&gt;If you are a holder of Bitcoin, or a casual trader you will likely not owe any profits tax if you ever liquidate your holdings for profit. You cannot make any deductions.&lt;/p&gt;
+
+&lt;p&gt;If you are a professional trader and pay profits tax on your trading income, you may deduct expenses.&lt;/p&gt;
+
+&lt;h2 id=&quot;income-from-mining&quot;&gt;Income from Mining&lt;/h2&gt;
+
+&lt;p&gt;As a proof-of-work miner you are be able to consider yourself the producer of a virtual commodity.&lt;/p&gt;
+
+&lt;p&gt;You are required to pay income on your profits (the HKD value of your Bitcoin at the time you are finding a block), but you may also deduct your expenses, such as electricity cost, maintenance fees and the cost of your hardware.&lt;/p&gt;
+
+&lt;p&gt;The tax perspective of a proof-of-stake miner is relatively complicated compared. A proof-of-stake platform may be considered a security, with your staking income similar to a dividend. Dividends are not taxable, but their trade is relatively restricted and you may not be able to openly sell them to the public.&lt;/p&gt;
+
+&lt;h3 id=&quot;hong-kong-tax-advisors-accepting-bitcoin&quot;&gt;Hong Kong Tax Advisors Accepting Bitcoin&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.ck-tax.com/entax&quot;&gt;CK Tax&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.pwchk.com/&quot;&gt;PwC Hong Kong&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;notes&quot;&gt;Notes&lt;/h4&gt;
+
+&lt;p&gt;This post was written by Leonhard Weese, and for obvious reasons does not constitute legal advise. For corrections, suggestions and inquiries contact the author via &lt;a href=&quot;https://twitter.com/leoaw&quot;&gt;@LeoAW&lt;/a&gt; or leo (at) bitcoin (dot) org (dot) hk&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/hong-kong-bitcoin-taxation/&quot; rel=&quot;nofollow&quot;&gt;Hong Kong Bitcoin Taxation&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;liongrass&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Devs Meetup</title>
+  <link href="https://www.bitcoin.org.hk/2018-08-devs-meetup/"/>
+  <updated>2018-08-23T19:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/devs-meetup</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-code&quot;&gt;Let’s Talk About Code&lt;/h2&gt;
+
+&lt;p&gt;The Bitcoin Devs meetup is a technical event intended for programmers, developers and technical people curious, interested and knowledgeable about the Bitcoin protocol to catch up, discuss and socialize.&lt;/p&gt;
+
+&lt;p&gt;Special guest: &lt;a href=&quot;https://twitter.com/larrysalibra/&quot;&gt;&lt;strong&gt;Larry Salibra&lt;/strong&gt;&lt;/a&gt;, engineering partner at &lt;a href=&quot;https://blockstack.org/&quot;&gt;Blockstack&lt;/a&gt;, will explain how to build a name system on top of Bitcoin.&lt;/p&gt;
+
+&lt;p&gt;The Blockstack Name System (BNS) is a replacement for DNS that runs as a layer 2 application on top of Bitcoin. Larry will cover the details of BNS, including its move from Namecoin and its implementation as a state machine on an underlying blockchain.&lt;/p&gt;
+
+&lt;p&gt;BNS finds application in identity and authentication, app discovery and multi-player storage.&lt;/p&gt;
+
+&lt;p&gt;Please be aware that our venue has a very limited capacity. Please RSVP early and don’t forget to update if you cannot make it.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-08-devs-meetup/&quot; rel=&quot;nofollow&quot;&gt;Devs Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Monthly Kowloon Meetup</title>
+  <link href="https://www.bitcoin.org.hk/2018-08-monthly-kowloon-meetup/"/>
+  <updated>2018-08-21T19:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/monthly-kowloon-meetup</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;Bitcoin via Lightning Network Accepted!&lt;br /&gt;
+We meet once a month at The Crescent Moon (yes, they accept Bitcoin!) to hang out, chat and connect.&lt;/p&gt;
+
+&lt;p&gt;The Crescent Moon is located in Tai Kok Tsui, about 5-10 minutes from Olympic Station or Prince Edward.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.8085481562!2d114.15856305106396!3d22.32307924763547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400b0b8620c51%3A0xecf9dbb66038a3!2sThe+Crescent+Moon!5e0!3m2!1sen!2sus!4v1484392144343&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://coingate.com/pay/leonhard&quot; rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;CoinGate Payment Button&quot; src=&quot;/media/2017/01/accepted.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-08-monthly-kowloon-meetup/&quot; rel=&quot;nofollow&quot;&gt;Monthly Kowloon Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Hardware Wallets - What Makes Them Secure?</title>
+  <link href="https://www.bitcoin.org.hk/2018-hardware-wallets/"/>
+  <updated>2018-08-07T19:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/hardware-wallets</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h3 id=&quot;hardware-wallets---what-makes-them-secure&quot;&gt;Hardware Wallets - What Makes Them Secure?&lt;/h3&gt;
+
+&lt;p&gt;Date: &lt;strong&gt;August 07, 2018 19:00 - 21:00&lt;/strong&gt;   &lt;br /&gt;
+Location: Garage Society, 9/F, &lt;strong&gt;33 Des Voeux Central, Central&lt;/strong&gt;, Hong Kong   &lt;br /&gt;
+(Short walk from &lt;strong&gt;Exit B, Central Station&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;p&gt;Cryptocurrency wallets are promoted as easy-to-use and secure alternatives to keeping your coins on a computer or phone. What makes a hardware wallet secure, and under what circumstances can they be broken?&lt;/p&gt;
+
+&lt;p&gt;Tangem co-founder Andrew Pantyukhin will explain how assured microelectronics works, review hypothetical and commonly used attacks and ways to defend against them. Andrew will compare the architecture of popular wallets such as Ledger, Trezor and OpenDime with Tangem.&lt;/p&gt;
+
+&lt;p&gt;About the Speaker: &lt;strong&gt;Andrew Pantyukhin&lt;/strong&gt; comes from a technical background and is focusing on product and growth at Tangem. He was previously in venture capital and helping early-stage startups refine products at scale&lt;/p&gt;
+
+&lt;p&gt;(You can find the slides here](/media/2018/08/hardware.pdf)&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;630&quot; src=&quot;https://www.youtube.com/embed/zxRvzPMorWo&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d388.06037911364206!2d114.15734325906284!3d22.282788377979923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34040064a09d4adf%3A0x12681b7f2253e855!2sGarage+Society+Central!5e0!3m2!1sen!2shk!4v1522846323880&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;a href=&quot;http://www.thegaragesociety.com/&quot;&gt;&lt;img src=&quot;/media/2017/05/garagesociety.png&quot; alt=&quot;Garage Society&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-hardware-wallets/&quot; rel=&quot;nofollow&quot;&gt;Hardware Wallets - What Makes Them Secure?&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>eToro</title>
+  <link href="https://www.bitcoin.org.hk/corporate/2018/08/07/etoro/"/>
+  <updated>2018-08-07T00:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/corporate/2018/08/07/etoro</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/corporate/2018/08/07/etoro/&quot; rel=&quot;nofollow&quot;&gt;eToro&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Monthly Central Meetup</title>
+  <link href="https://www.bitcoin.org.hk/2018-08-monthly-central-meetup/"/>
+  <updated>2018-08-06T19:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/monthly-central-meetup</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup in Central. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.8672653007984!2d114.15697035106373!3d22.283017349079806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404006386e51539%3A0xb73d9832bf547093!2zR3JhcHBhJ3MgQ2VsbGFyIOatjOafj-e1suaEj-Wkp-WIqemkkOW7sw!5e0!3m2!1sen!2sus!4v1484392008275&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-08-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Monthly Central Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Atumchain</title>
+  <link href="https://www.bitcoin.org.hk/corporate/2018/08/01/atumchain/"/>
+  <updated>2018-08-01T00:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/corporate/2018/08/01/atumchain</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/corporate/2018/08/01/atumchain/&quot; rel=&quot;nofollow&quot;&gt;Atumchain&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>HK Bitcoin ATM</title>
+  <link href="https://www.bitcoin.org.hk/corporate/2018/07/30/hkbitcoinatm/"/>
+  <updated>2018-07-30T00:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/corporate/2018/07/30/hkbitcoinatm</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/corporate/2018/07/30/hkbitcoinatm/&quot; rel=&quot;nofollow&quot;&gt;HK Bitcoin ATM&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>BitcoinHK Tangem Note</title>
+  <link href="https://www.bitcoin.org.hk/tangem/"/>
+  <updated>2018-07-27T10:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/tangem</id>
+  
+  <author>
+    <name>liongrass</name>
+    <uri>https://r.nametiles.co/liongrass</uri>
+  </author>
+  
+  <content type="html">
+    &lt;h1 id=&quot;tangem-x-bitcoinhk&quot;&gt;Tangem x BitcoinHK&lt;/h1&gt;
+
+&lt;p&gt;The Bitcoin Association of Hong Kong is proud to announce its partnership with &lt;a href=&quot;https://tangem.com/&quot;&gt;Tangem&lt;/a&gt;, the first digital bank note for digital assets.&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2018/07/tangem-1.jpg&quot; alt=&quot;BitcoinHK Tangem Note&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-a-tangem-note&quot;&gt;What is a Tangem note?&lt;/h2&gt;
+
+&lt;p&gt;Tangem is a NFC hardware wallet. Each tangem note contains a NFC chip with a secure element. While more advanced and secure, it is similar in functionality to your Octopus card. The chip contains the private key to a Bitcoin address. This private key cannot be extracted from the card.&lt;/p&gt;
+
+&lt;p&gt;You can use an NFC-enabled smart phone to verify the authenticity of the Tangem note, check its balance and send or receive Bitcoin. (&lt;a href=&quot;https://itunes.apple.com/app/tangem-lite/id1354868448&quot;&gt;iOS&lt;/a&gt;) (&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.tangem.wallet&quot;&gt;Android&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&quot;what-can-you-do-with-a-tangem-note&quot;&gt;What can you do with a Tangem Note?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Store Bitcoin securely, all you need to do is protect the physical note&lt;/li&gt;
+  &lt;li&gt;Gift Bitcoin to those unfamiliar with it, they only need to keep the physical note safe&lt;/li&gt;
+  &lt;li&gt;Cash out at one of the many stores buying and selling Tangem notes, such as the &lt;a href=&quot;https://www.genesisblockhk.com/&quot;&gt;Genesis Block&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Develop your own functionality on &lt;a href=&quot;https://github.com/TangemCash/tangem-lite&quot;&gt;top of Tangem&lt;/a&gt;, for example to identify guests or members and to give away digital assets&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-do-you-get-a-tangem-note&quot;&gt;How do you get a Tangem Note?&lt;/h2&gt;
+
+&lt;p&gt;You can purchase Tangem Notes with Bitcoin (including Lightning), Ethereum and Litecoin.&lt;/p&gt;
+
+&lt;p&gt;You can pick up your Tangem Note anytime at one of our events or ask for it to be sent to you by mail. The BitcoinHK Tangem Notes come unloaded.&lt;/p&gt;
+
+&lt;p&gt;Click below to buy:&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;a href=&quot;https://store.tangem.com/products/tangem-bitcoin-hk&quot; rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;CoinGate Payment Button&quot; src=&quot;https://static.coingate.com/images/buttons/3.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/tangem/&quot; rel=&quot;nofollow&quot;&gt;BitcoinHK Tangem Note&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;liongrass&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Devs Meetup</title>
+  <link href="https://www.bitcoin.org.hk/2018-07-24-devs-meetup/"/>
+  <updated>2018-07-24T19:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/devs-meetup</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-code&quot;&gt;Let’s Talk About Code&lt;/h2&gt;
+
+&lt;p&gt;The Bitcoin Devs meetup is a technical event intended for programmers, developers and technical people curious, interested and knowledgeable about the Bitcoin protocol to catch up, discuss and socialize.&lt;/p&gt;
+
+&lt;p&gt;Special guest: &lt;strong&gt;Eric Voskuil&lt;/strong&gt;, lead developer of &lt;a href=&quot;https://libbitcoin.org/&quot;&gt;Libbitcoin&lt;/a&gt;, a free and open source high performance Bitcoin developer toolkit. He is also the author of Cryptoeconomics, a comprehensive volume on Bitcoin principles. Eric will discuss the actual forces at work in Bitcoin - why it exists, how it works, and where it is going.&lt;/p&gt;
+
+&lt;p&gt;Please be aware that our venue has a very limited capacity. Please RSVP early and don’t forget to update if you cannot make it.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-07-24-devs-meetup/&quot; rel=&quot;nofollow&quot;&gt;Devs Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>SPOT Social</title>
+  <link href="https://www.bitcoin.org.hk/2018-spot-social/"/>
+  <updated>2018-07-23T20:00:00+08:00</updated>
+  <id>https://www.bitcoin.org.hk/spot-social</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoin.org.hk/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;spot-conference-social&quot;&gt;SPOT Conference Social&lt;/h2&gt;
+
+&lt;p&gt;OUR BIGGEST MEETUP YET!&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;a href=&quot;https://www.spotconf.com/&quot;&gt;&lt;img src=&quot;/media/2018/07/4x3_banner.png&quot; alt=&quot;SPOT Conference&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On July 23 we are proud to welcome the world’s leading Bitcoin exchanges in Hong Kong at SPOT, as well as developers and entrepreneurs to NIFTY, a conference for non-fungible tokens (NFTs), collectibles, and blockchain gaming (July 24-26).&lt;/p&gt;
+
+&lt;p&gt;We’ll invite you all to join us at 8pm to mingle with guests from abroad at Grappa’s Cellar. We’ll have the entire venue to ourselves. Entrance is free. Doors open at 8pm.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.spotconf.com/&quot;&gt;For more information on SPOT&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nifty.gg/&quot;&gt;For more information on NIFTY&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.8672653007984!2d114.15697035106373!3d22.283017349079806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404006386e51539%3A0xb73d9832bf547093!2zR3JhcHBhJ3MgQ2VsbGFyIOatjOafj-e1suaEj-Wkp-WIqemkkOW7sw!5e0!3m2!1sen!2sus!4v1484392008275&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/2018-spot-social/&quot; rel=&quot;nofollow&quot;&gt;SPOT Social&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoin.org.hk&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+
+</feed>

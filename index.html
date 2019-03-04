@@ -1,0 +1,92 @@
+---
+layout: default
+background: "url(/images/bahk-red-skyline.png) #FF0000"
+excerpt: "Fostering and promoting Bitcoin and its technology in Hong Kong."
+---
+
+<header>
+  <div class="c">
+    <h1>The Bitcoin Association of Hong Kong</h1>
+    <p class="lead">香港比特幣協會</p>
+  </div>
+</header>
+
+<!-- END COVER -->
+</div>
+</div>
+
+<section class="home">
+  <div class="c">
+
+      <h2>Upcoming Meetups</h2>
+      <div class="meetups">
+        {% assign curDate = site.time | date: '%s' %}
+        {% for post in site.posts %}
+        {% if post.layout != "members" %}
+            {% assign postStartDate = post.date | date: '%s' %}
+            {% if postStartDate > curDate %}
+              <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
+                <div class="preview" style="background:{{ post.background }}">
+                  <div class="date">
+                      <small>{{ post.date | date: "%b" }}</small>
+                      {{ post.date | date: "%-d" }}
+                  </div>
+                </div>
+                <h3>{{ post.title }}</h3>
+                <p>{{ post.date | date: "%H:%M" }} at {{ post.address }}</p>
+              </a>
+              <br>
+            {% endif %}
+            {% endif %}
+          {% endfor %}
+        </div>
+        <br>
+
+        <h2>Recent happenings</h2>
+        <div class="meetups">
+          {% assign curDate = site.time | date: '%s' %}
+
+          {% assign count = 0 %}
+          {% assign recent_limit = 5 %}
+
+
+            {% for post in site.posts %}
+            {% if post.layout != "members" %}
+
+              {% assign postStartDate = post.date | date: '%s' %}
+              {% if curDate > postStartDate %}
+
+              <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
+                <div class="preview" style="background:{{ post.background }}">
+                  <div class="date">
+                      <small>{{ post.date | date: "%b" }}</small>
+                      {{ post.date | date: "%-d" }}
+                  </div>
+                </div>
+                <h3>{{ post.title }}</h3>
+                {% if post.layout == "meetup" %}
+                <p>{{ post.date | date: "%H:%M" }} HKT {% if post.address %}at {{ post.address }}{% endif %}</p>
+                {% else %}
+
+                {% if post.subtitle %}
+                <p>{{ post.subtitle }}</p>
+                {% else %}
+                <p>{% if post.author %}Written by +{{ post.author }}{% endif %}</p>
+                {% endif %}
+                {% endif %}
+              </a>
+              <br>
+              {% assign count = count | plus: 1 %}
+              {% if count >= recent_limit %}
+              {% break %}
+              {% endif %}
+              {% endif %}
+              {% endif %}
+            {% endfor %}
+          </div>
+
+          <p><a href="/meetups/">All Meetups</a> • <a href="/blog/">All Blog Posts</a> • <a href="/devs/">All Devs Meetups</a></p>
+
+
+  </div>
+</section>

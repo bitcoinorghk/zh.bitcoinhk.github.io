@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Scaling Cryptocurrencies via State Channels</title>
+    <meta name="viewport" content="width=device-width">
+
+    <meta name="description" content="Scaling Cryptocurrencies via State Channels
+
+">
+    
+    <link rel="canonical" href="https://www.bitcoin.org.hk/2018-state-channels/">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/styles/style.css">
+
+    <style>
+    a, .text-accent, .dotted-link, p a, article a { color: #E74C3C; }
+    .bg-accent, .logo, nav a.logo, .cover { background-color: #E74C3C; color: white; }
+    blockquote:hover { border-left-color: #E74C3C; }
+    </style>
+
+    <link rel="stylesheet" href="/styles/editme.css">
+    <link rel="alternate" type="application/atom+xml" title="" href="/atom.xml" >
+
+    <link rel="shortcut icon" href="/favicon.png">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale = 1.0,maximum-scale=2.0,user-scalable=no">
+
+    <!-- Webapp -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <!-- Apple Touch Icon -->
+    <link rel="apple-touch-icon" content="/favicon.png">
+    <link rel="apple-touch-icon-precomposed" href="favicon.png">
+    <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Raleway:400,300,700:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://cdnjs.cloudflare.com/ajax/libs/webfont/1.5.18/webfontloader.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+</head>
+
+
+    <body>
+
+    <span id="top"></span>
+<div class="cover" style="background:url(/media/2018/08/duddell.JPG) #FF0000">
+<div class="cover-overlay">
+  <nav class="site-header" role="navigation">
+    <div class="c">
+      <a href="/" class="logo">
+        <div>
+          <img src="/images/bahk-logo-big-white.svg" alt="BAHK Logo">
+        </div>
+      </a>
+      <a href="#" onclick="$('nav').toggleClass('expanded')" class="menu-button visible-mobile right">
+        <i class="icon-more"></i>
+      </a>
+      <a class="page-link" onclick="$('nav').toggleClass('expanded')" href="/about/">
+        <i class="icon-user"></i>
+        <div>
+          About
+          <small>Learn more</small>
+        </div>
+      </a>
+
+      <a class="page-link" onclick="$('nav').toggleClass('expanded')" href="/join/">
+        <i class="icon-cards"></i>
+        <div>
+          Members
+          <small>Join us</small>
+        </div>
+      </a>
+
+      <a class="page-link" onclick="$('nav').toggleClass('expanded')" href="/meetups/">
+        <i class="icon-direction"></i>
+        <div>
+          Meetups
+          <small>Come</small>
+        </div>
+      </a>
+
+      <a class="page-link" onclick="$('nav').toggleClass('expanded')" href="/contact/">
+        <i class="icon-cards"></i>
+        <div>
+          Contact
+          <small>Follow &amp; Subscribe</small>
+        </div>
+      </a>
+
+    </div>
+  </nav>
+
+  <!-- COVER PHOTO CONTINUES -->
+
+
+        <header class="post-header">
+    <div class="c">
+      <div class="date">
+        <small>Aug</small>
+        31
+      </div>
+      <h1>Scaling Cryptocurrencies via State Channels</h1>
+      <p class="lead">19:00 • Kenetic Capital, 10/F, Ruttonjee House, 11 Duddell Street, Central, Hong Kong </p>
+    </div>
+  </header>
+
+  
+  
+
+  <div id="details">
+    <div class="c">
+      <p class="lead"> Hosted by Bitcoin Association of Hong Kong  • <a href="https://www.meetup.com/Bitcoin-HK/events/253776344/" target="_blank"><i class="icon-board"></i> RSVP</a>  • <a href="https://maps.google.com/?daddr=Kenetic Capital, 10/F, Ruttonjee House, 11 Duddell Street, Central, Hong Kong" target="_blank"><i class="icon-binocular"></i> Get Directions</a></p>
+    </div>
+  </div>
+
+<!-- END COVER -->
+</div>
+</div>
+
+<section class="post">
+  <div class="c">
+  <article class="post-content">
+  <p></p>
+  <h3 id="scaling-cryptocurrencies-via-state-channels">Scaling Cryptocurrencies via State Channels</h3>
+
+<p>Date: <strong>August 31, 2018 19:00 - 21:00</strong>   <br />
+Location: Kenetic Capital, <strong>10/F, Ruttonjee House, 11 Duddell Street, Central</strong>, Hong Kong   <br />
+(Short walk from <strong>Exit G, Central Station</strong>)</p>
+
+<p>Speaker: <strong>Patrick McCorry</strong></p>
+
+<p>Cryptocurrencies do not scale. The community are pursuing two approaches for scaling the network which include changing the underlying consensus/blockchain protocol, or sharding which only requires peers to validate relevant transactions. However, while both approaches can improve the network’s throughput, it still requires all transactions to be validated by the global network to some extent and this requirement may directly harm the network’s public verifiability and its decentralisation (i.e. a home computer lacks the computational resources to verify 5,000 tps).</p>
+
+<p>An alternative (and promising) scaling approach is so-called Layer 2 which aims to alleviate the global validation requirement and help support the network’s decentralisation. Generally, it allows a group of parties to create a “channel” and transact/execute a smart contract locally amongst themselves. The global blockchain is only used to open the channel, close the channel, or to resolve disputes within the group of parties. In this talk, we will provide an overview of how to construct a channel (in both Bitcoin and Ethereum), some experimental results on this scaling solution and highlight it’s practicality.</p>
+
+<p>Patrick is an Assistant Professor at King’s College London. His focus is cryptocurrencies, smart contracts, cryptography and decentralised systems. Patrick is the UK’s first PhD graduate in Cryptocurrencies and his work has recently appeared at Devcon3, Scaling Bitcoin 2017, Breaking Bitcoin 2017 and BPASE 2018 alongside numerous academic venues.</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.949720142707!2d114.15458385114354!3d22.279894385262146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404006524340001%3A0xe5e001467fbae938!2sKenetic+Captial!5e0!3m2!1sen!2shk!4v1534425052663" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+
+  </article>
+
+  </div>
+</section>
+
+
+    
+<section id="notifications" class="bg-accent">
+  <div class="c">
+
+      <h3>Keep in touch</h3>
+      <p class="rss-subscribe">
+        <a href="/atom.xml">Subscribe via <i class="icon-broadcast"></i> Atom</a>
+        •
+        <a href="mailto:info@bitcoin.org.hk" target="_blank"><i class="icon-envelope"></i> info@bitcoin.org.hk</a>
+
+      </p>
+
+  </div>
+</section>
+
+
+<footer>
+
+  <div class="c">
+    <div class="row">
+      <div class="col-33">
+        <h3>BAHK</h3>
+        <p>Fostering and promoting Bitcoin and its technology in Hong Kong. Donations: 1BAHK1Esvn6L1icZREB8SFqTy7bBSRDwaS</p>
+        <p>
+          <a href="/about"><i class="icon-plus"></i> Learn more</a>
+          <br>
+          <a href="/contact"><i class="icon-grid"></i> Contact us</a>
+         </p>
+      </div>
+      <div class="col-33">
+        &nbsp;
+    </div>
+
+    <div class="col-33" style="text-align:center;">
+      <img src="/images/site-logo.png" alt="BAHK Logo">
+  </div>
+  </div>
+
+</footer>
+
+<div class="footnote">
+  <div class="c">
+    <a class="to-the-moon right" href="#top"><i class="icon-pointer-up"></i> Back to Top</a>
+    <p>Made by <i title="collaborating brains" class="icon-collab"></i> in Hong Kong • Contains beautiful <a href="https://nametiles.co">Nametiles</a> • <a href="https://github.com/bitcoinhk/bitcoinhk.github.io/" target="_blank"><i class="icon-github"></i> Fork</a> • <a href="http://prose.io/#bitcoinhk/bitcoinhk.github.io" target="_blank"><i class="icon-pencil"></i> Edit in Prose</a>.</p>
+  </div>
+</div>
+
+<script src="/scripts/site.js"></script>
+
+
+    </body>
+    
+</html>

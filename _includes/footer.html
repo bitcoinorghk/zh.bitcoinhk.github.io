@@ -1,0 +1,48 @@
+{% if site.notifications contains 'visible' %}
+<section id="notifications" class="bg-accent">
+  <div class="c">
+
+      <h3>Keep in touch</h3>
+      <p class="rss-subscribe">
+        <a href="{{ "/atom.xml" | prepend: site.baseurl }}">Subscribe via <i class="icon-broadcast"></i> Atom</a>
+        •
+        <a href="mailto:info@bitcoin.org.hk" target="_blank"><i class="icon-envelope"></i> info@bitcoin.org.hk</a>
+
+      </p>
+
+  </div>
+</section>
+{% endif %}
+
+<footer>
+
+  <div class="c">
+    <div class="row">
+      <div class="col-33">
+        <h3>BAHK</h3>
+        <p>Fostering and promoting Bitcoin and its technology in Hong Kong. Donations: 1BAHK1Esvn6L1icZREB8SFqTy7bBSRDwaS</p>
+        <p>
+          <a href="/about"><i class="icon-plus"></i> Learn more</a>
+          <br>
+          <a href="/contact"><i class="icon-grid"></i> Contact us</a>
+         </p>
+      </div>
+      <div class="col-33">
+        &nbsp;
+    </div>
+
+    <div class="col-33" style="text-align:center;">
+      <img src="/images/site-logo.png" alt="BAHK Logo">
+  </div>
+  </div>
+
+</footer>
+
+<div class="footnote">
+  <div class="c">
+    <a class="to-the-moon right" href="#top"><i class="icon-pointer-up"></i> Back to Top</a>
+    <p>Made by <i title="collaborating brains" class="icon-collab"></i> in Hong Kong • Contains beautiful <a href="https://nametiles.co">Nametiles</a> • <a href="https://github.com/{{ site.github }}/" target="_blank"><i class="icon-github"></i> Fork</a> • <a href="http://prose.io/#{{ site.github }}" target="_blank"><i class="icon-pencil"></i> Edit in Prose</a>.</p>
+  </div>
+</div>
+
+<script src="/scripts/site.js"></script>
