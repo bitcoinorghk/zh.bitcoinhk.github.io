@@ -70,7 +70,7 @@ In September 2018 the HKMA reiterated their stance that Bitcoin is not money, bu
 
 Recently, various Hong Kong institutions departments have become less consistent in refering to Bitcoin as a virtual commodity, and instead mention the term 'virtual currency' more frequently.
 
-Most notably, [the Legislative Council](https://www.legco.gov.hk/research-publications/english/essentials-1516ise15-blockchain-technology.htm) refers to Bitcoin as a virtual currency in their research publication. Councillors requently (e.g. [June 2017](https://www.info.gov.hk/gia/general/201706/21/P2017062100532.htm) & [November 2017](https://www.info.gov.hk/gia/general/201711/08/P2017110800405.htm)). In its "Money Laundering and Terrorist Financing Risk Assessment Report" the Financial Services and Treasury Bureay writes ["Virtual currencies (“VCs”) are virtual commodities"](https://www.fstb.gov.hk/fsb/aml/en/doc/hk-risk-assessment-report_e.pdf) and refers to Bitcoin primarily as a virtual currency. The HKMA refers to Bitcoin mainly as a "cryptocurrency" in their November 2016 ["Whitepaper on Distributed Ledger Technology."](https://www.hkma.gov.hk/media/eng/doc/key-functions/finanical-infrastructure/Whitepaper_On_Distributed_Ledger_Technology.pdf) The same goes for the ["Whitepaper 2.0"](https://www.hkma.gov.hk/media/eng/doc/key-functions/finanical-infrastructure/infrastructure/20171025e1a1.pdf) published October 2017.
+Most notably, [the Legislative Council](https://www.legco.gov.hk/research-publications/english/essentials-1516ise15-blockchain-technology.htm) refers to Bitcoin as a virtual currency in their research publication. Councillors frequently (e.g. [June 2017](https://www.info.gov.hk/gia/general/201706/21/P2017062100532.htm), [November 2017](https://www.info.gov.hk/gia/general/201711/08/P2017110800405.htm) & [April 2019](https://www.info.gov.hk/gia/general/201904/03/P2019040300257.htm)) refer to Bitcoin as a virtual currency or cryptocurrency, a terminology typically rejected by the government. In its "Money Laundering and Terrorist Financing Risk Assessment Report" the Financial Services and Treasury Bureay writes ["Virtual currencies (“VCs”) are virtual commodities"](https://www.fstb.gov.hk/fsb/aml/en/doc/hk-risk-assessment-report_e.pdf) and refers to Bitcoin primarily as a virtual currency. The HKMA refers to Bitcoin mainly as a "cryptocurrency" in their November 2016 ["Whitepaper on Distributed Ledger Technology."](https://www.hkma.gov.hk/media/eng/doc/key-functions/finanical-infrastructure/Whitepaper_On_Distributed_Ledger_Technology.pdf) The same goes for the ["Whitepaper 2.0"](https://www.hkma.gov.hk/media/eng/doc/key-functions/finanical-infrastructure/infrastructure/20171025e1a1.pdf) published October 2017.
 
 This terminology puts it more in line with international organizations and in our opinion does not represent a policy shift.
 
@@ -111,6 +111,8 @@ Exempt from this sandbox are all currently viable business models, including spo
 The only type of exchange qualifying for the sandbox is an OTC exchange serving institutional customers. Such an exchange doesn't require a license, but whether or not it is a sustainable business model to enter the sandbox depends on how many licensed funds require access to the OTC markets.
 
 If you are running a fund offering investment advice, futures, derivatives, margin or trading ICO tokens, consult a lawyer about whether you need a license to operate in Hong Kong. If you do need a license, the SFC won't give it to you and you will not qualify for the sandbox.
+
+[Further reading: SFC Regulates Crypto-exchanges — Party Over in Hong Kong?](https://blog.bitcoin.org.hk/sfc-regulates-crypto-exchanges-party-over-in-hong-kong-bc081100863a)
 
 ### Taxation
 
@@ -171,6 +173,8 @@ On February 9, 2018 the SFC [contacted Hong Kong exchanges](http://www.sfc.hk/ed
 Advising on token offerings, brokering tokens and letting customers trade them [may require a license from the SFC](https://www.sfc.hk/web/EN/regulatory-functions/intermediaries/licensing/guide-to-licence-application/regulated-activities.html).
 
 Security Tokens derived from "STOs" are for obvious reasons securities. [The SFC clarifies in their statement from March 28, 2019](https://www.sfc.hk/web/EN/news-and-announcements/policy-statements-and-announcements/statement-on-security-token-offerings.html): "Any person who markets and distributes Security Tokens (whether in Hong Kong or targeting Hong Kong investors) is required to be licensed or registered for Type 1 regulated activity. All usual due diligence, information and investor warnings apply.
+
+[Futher reading: Henry Yu & Associates Statement, April 2019](/media/2019/03/HYU_SFC_Statement_STO.pdf)
 
 #### Future Outlook
 
