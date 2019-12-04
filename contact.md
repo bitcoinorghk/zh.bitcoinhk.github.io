@@ -3,7 +3,7 @@ layout: "page"
 title: "Contact us"
 caption: "Learn more"
 icon: "user"
-background: "url(/images/bahk-red-skyline.png) #FF0000"
+background: "url(/images/bahk-devs-01.png) #FF0000"
 permalink: "/contact/"
 navigation: "visible"
 ---
@@ -14,7 +14,7 @@ You can also reach us by email at: [info@bitcoin.org.hk][2]
 
 ## Stay in Touch
 
-[![Meetup](/media/freq/meetup.jpg)](http://www.meetup.com/Bitcoin-HK/)
+[![Meetup](/media/freq/meetup.png)](http://www.meetup.com/Bitcoin-HK/)
 {:.text-center}
 
 [Join our Meetup Group to be alerted immediately about new events!](http://www.meetup.com/Bitcoin-HK/)
