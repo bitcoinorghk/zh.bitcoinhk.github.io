@@ -14,9 +14,9 @@ navigation: "visible"
 
 All current directors of the Bitcoin Association of Hong Kong.
 
-**Chechung Chang**
+**Clifford Choi**
 
-**Leo Weese**
+**Bryan Cheung**
 
 **Olga Kochmar**
 
@@ -77,8 +77,6 @@ Dominique Abad
 
 Elliott Hoffman
 
-Felix Mok
-
 Felix Weis
 
 Gareth Hayes
@@ -88,8 +86,6 @@ Gary Watkins
 Hon Sam Lee 李漢森
 
 Hugo Cheung
-
-Indy Cheng
 
 Jehan Chu
 
@@ -128,8 +124,6 @@ Patrick Chugh
 Qinglin Li
 
 Rajiv Seth
-
-Ronald Lam
 
 Simon Habart
 
