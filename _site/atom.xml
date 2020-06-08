@@ -9,7 +9,7 @@
 <subtitle>培育及推廣本港比特幣及其科技.</subtitle>
 <link href="http://localhost:4000/atom.xml" rel="self"/>
 <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
-<updated>2020-03-09T14:14:44+08:00</updated>
+<updated>2020-06-08T13:40:58+08:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>香港比特幣協會</name>
@@ -18,9 +18,363 @@
 
 
 <entry>
+  <title>Online Bitcoin Meetup 網上比特幣聚會</title>
+  <link href="http://localhost:4000/2020-06-monthly-online-meetup/"/>
+  <updated>2020-06-18T19:00:00+08:00</updated>
+  <id>http://localhost:4000/monthly-online-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>http://localhost:4000/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;online-bitcoin-meetup-網上比特幣聚會&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/h2&gt;
+
+&lt;p&gt;This meetup will be held virtually. Anyone is free to join.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;meet.jit.si/Bitcoin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/JJqWphmYlzGKNCxknEoMSw&quot;&gt;Join the Telegram group&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Language: English&lt;/p&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Stay at home, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。我哋將會公佈詳情，敬請留意。我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;这次是网络聚会。我们快将公告详情，敬请注意。我们每月一次的比特币聚会。於人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;p&gt;Event rules:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chatham House&lt;/li&gt;
+  &lt;li&gt;Respecting other’s privacy&lt;/li&gt;
+  &lt;li&gt;Use the chat, give feedback, contribute&lt;/li&gt;
+  &lt;li&gt;Face and voice optional&lt;/li&gt;
+  &lt;li&gt;Mute yourself when you’re not speaking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;Play Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://apps.apple.com/app/jitsi-meet/id1165103905&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-06-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>現正開始接受比特幣 Start Accepting Bitcoin Now</title>
+  <link href="http://localhost:4000/接受比特幣/"/>
+  <updated>2020-06-07T20:00:00+08:00</updated>
+  <id>http://localhost:4000/accept-bitcoin-now</id>
+  
+  <author>
+    <name>liongrass</name>
+    <uri>https://r.nametiles.co/liongrass</uri>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;現正開始接受比特幣&quot;&gt;現正開始接受比特幣&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/accept-bitcoin/&quot;&gt;Click here to see the English version of this article.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;恭喜你！您接受比特幣付款對於您的業務必定有很大的幫助：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;靈活性：您可以制定不同的用戶體驗，並有多種處理器可供選擇。您甚至可以創建自己的付款方式！&lt;/li&gt;
+  &lt;li&gt;收費低：如果您使用自己的處理器，費用可以低至0％。此服務會將您的比特幣轉換為港元或美金，並收取0.5％至2％的費用。&lt;/li&gt;
+  &lt;li&gt;不可逆轉：客戶無法逆轉比特幣交易，這大大地減低欺詐或扣費的風險。因所有退款都必須由您本人操作。&lt;/li&gt;
+  &lt;li&gt;社區：比特幣用戶經常尋找接受比特幣付款的地方和企業。如果您是一間接受比特幣的香港公司，請聯絡我們，我們可以提供免費推廣。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;選擇a-coingate&quot;&gt;選擇A: Coingate&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;(https://coingate.com/ref/accept-btc)&quot;&gt;Coingate&lt;/a&gt;是一間位於愛沙尼亞的付款處理商。&lt;a href=&quot;https://coingate.com/plugins&quot;&gt;外掛程式適&lt;/a&gt;用於 WooCommerce和Magento，或者您可以直接使用&lt;a href=&quot;https://coingate.com/buttons&quot;&gt;付款按鈕&lt;/a&gt;。如果您精通編碼技術，還可以使用&lt;a href=&quot;https://developer.coingate.com/&quot;&gt;Coingate的API&lt;/a&gt; 自訂介面。&lt;/p&gt;
+
+&lt;p&gt;如果您有實體的地方，您則可以使用Coingate的POS系統。除比特幣外，Coingate還允許您接受 &lt;a href=&quot;https://coingate.com/supported-currencies&quot;&gt;數十種的加密貨幣&lt;/a&gt;，包括比特幣現金 (BCH)、以太比 (ETH) 和 萊特幣 (LTC)。 Coingate 還支援閃電 (Lightning) 付款。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://coingate.com/pricing&quot;&gt;費用固定為1％。&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2020/06/coingate.jpeg&quot; alt=&quot;Coingate&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;選擇b-alchemy-pay&quot;&gt;選擇B: Alchemy Pay&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.alchemytech.io/alchemy_english.html&quot;&gt;Alchemy Pay&lt;/a&gt;是一家位於新加坡的金融科技公司，不但可以幫助您接受比特幣和閃電 (Lightning)，亦支援支付寶和微信支付。&lt;/p&gt;
+
+&lt;p&gt;他們目前為香港 Pricerite的二十多家商店中處理加密貨幣付款。 Alchemy Pay會將您的收入轉換為HKD並存入您的銀行帳戶。&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2020/06/alchemy.jpeg&quot; alt=&quot;Alchemy&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;選擇c-btcpay&quot;&gt;選擇C: BTCPay&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://btcpayserver.org/&quot;&gt;BTCPay&lt;/a&gt;是一個軟件產品並不是提供服務的公司。因此，軟件需要在您自己的服務器上運行（例如，在&lt;a href=&quot;https://medium.com/@BtcpayServer/launch-btcpay-server-via-web-interface-and-deploy-full-bitcoin-node-lnd-in-less-than-a-minute-dc8bc6f06a3&quot;&gt;Lunanode&lt;/a&gt;，每月收費約9美元）。與付款處理的公司不同，您無需註冊或提供個人資訊。 BTCPay不收取任何許可費用，並且所有付款均由您自己處理，無需額外收費。如您不想出售比特幣那是非常好的，但您亦可以&lt;a href=&quot;/buy-bitcoin-in-hong-kong/&quot;&gt;通過交易所或中介人出售&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;BTCPay是一個在線或離線工具，也可以使用API​​將系統連結到您的線上商店。&lt;/p&gt;
+
+&lt;p&gt;以下是付款按鈕的示例。點擊它！&lt;/p&gt;
+
+&lt;form method=&quot;POST&quot; action=&quot;https://btcpay.bitcoin.org.hk/api/v1/invoices&quot; class=&quot;text-center&quot;&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;storeId&quot; value=&quot;5fv2Vt5WEuLYBzkhFiaDN4r6xy6JdNqTbi3m1mG4ngFa&quot; /&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;price&quot; value=&quot;10&quot; /&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;currency&quot; value=&quot;USD&quot; /&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;browserRedirect&quot; value=&quot;https://www.bitcoin.org.hk/lightning/&quot; /&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;notifyEmail&quot; value=&quot;btcpay@bitcoin.org.hk&quot; /&gt;
+    &lt;input type=&quot;image&quot; src=&quot;https://btcpay.bitcoin.org.hk/img/paybutton/pay.png&quot; name=&quot;submit&quot; style=&quot;width:209px&quot; alt=&quot;Pay with BtcPay, Self-Hosted Bitcoin Payment Processor&quot; /&gt;
+&lt;/form&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2020/06/btcpay.jpeg&quot; alt=&quot;BTCPay&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;其他支付處理公司&quot;&gt;其他支付處理公司&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://commerce.coinbase.com/&quot;&gt;Coinbase commerce&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitpay.com/&quot;&gt;Bitpay&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coinpayments.net/index.php&quot;&gt;Coinpayments&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;聯絡我們&quot;&gt;聯絡我們&lt;/h4&gt;
+
+&lt;p&gt;您有興趣接受比特幣付款嗎？您是否有考慮過但遇到問題？您有嘗試將加密貨幣連結到您的業務，但是沒有人使用？電郵至&lt;a href=&quot;mailto:info@bitcoin.org.hk&quot;&gt;info@bitcoin.org.hk&lt;/a&gt;與我們聯繫，我們會盡快回覆！&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/接受比特幣/&quot; rel=&quot;nofollow&quot;&gt;現正開始接受比特幣 Start Accepting Bitcoin Now&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;liongrass&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
+  <link href="http://localhost:4000/2020-06-monthly-central-meetup/"/>
+  <updated>2020-06-04T19:00:00+08:00</updated>
+  <id>http://localhost:4000/monthly-central-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>http://localhost:4000/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9143813991827!2d114.15326731495443!3d22.28123288533352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340401e643303b33%3A0x55b3eeb92b1d0cf4!2sBootleggers%20Hong%20Kong!5e0!3m2!1sen!2shk!4v1591251617632!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; aria-hidden=&quot;false&quot; tabindex=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-06-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Virtual Bitcoin Halving Party</title>
+  <link href="http://localhost:4000/2020-05-halving/"/>
+  <updated>2020-05-12T09:00:00+08:00</updated>
+  <id>http://localhost:4000/bitcoin-halving-party</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>http://localhost:4000/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;virtual-bitcoin-halving-party&quot;&gt;Virtual Bitcoin Halving Party&lt;/h2&gt;
+
+&lt;p&gt;This event will be held virtually. Anyone is free to join the 21h live stream.&lt;/p&gt;
+
+&lt;p&gt;When Bitcoin was created, miners were awarded 50 bitcoin per block. Every 210,000 blocks (roughly four years) this block subsidy is dropped in half. Around May 12, we this amount will be ‘halved’ for the third time to 6.25 BTC. &lt;a href=&quot;https://bitcoinmagazine.com/guides/what-is-the-halvening&quot;&gt;You can read more about the halving here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We invite you to join this commemoration &lt;a href=&quot;https://www.bitcoinhalving.com/speakers&quot;&gt;with our friends from Bitcoin Magazine and all over the world&lt;/a&gt;. You can submit your own content ideas &lt;a href=&quot;https://www.bitcoinhalving.com/submission&quot;&gt;here&lt;/a&gt;, too.&lt;/p&gt;
+
+&lt;p&gt;Language: English&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-05-halving/&quot; rel=&quot;nofollow&quot;&gt;Virtual Bitcoin Halving Party&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Online Bitcoin Meetup 網上比特幣聚會</title>
+  <link href="http://localhost:4000/2020-05-monthly-online-meetup/"/>
+  <updated>2020-05-07T19:00:00+08:00</updated>
+  <id>http://localhost:4000/monthly-online-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>http://localhost:4000/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;online-bitcoin-meetup-網上比特幣聚會&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/h2&gt;
+
+&lt;p&gt;This meetup will be held virtually. Anyone is free to join.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;meet.jit.si/Bitcoin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/JJqWphmYlzGKNCxknEoMSw&quot;&gt;Join the Telegram group&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Language: English&lt;/p&gt;
+
+&lt;p&gt;Topics:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Isolation updates&lt;/li&gt;
+  &lt;li&gt;People’s Bank of China: DCEP, Stablecoin, Libra&lt;/li&gt;
+  &lt;li&gt;Bitcoin halving&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Stay at home, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。我哋將會公佈詳情，敬請留意。我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;这次是网络聚会。我们快将公告详情，敬请注意。我们每月一次的比特币聚会。於人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;p&gt;Event rules:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chatham House&lt;/li&gt;
+  &lt;li&gt;Respecting other’s privacy&lt;/li&gt;
+  &lt;li&gt;Use the chat, give feedback, contribute&lt;/li&gt;
+  &lt;li&gt;Face and voice optional&lt;/li&gt;
+  &lt;li&gt;Mute yourself when you’re not speaking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;Play Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://apps.apple.com/app/jitsi-meet/id1165103905&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-05-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Online Bitcoin Meetup 網上比特幣聚會</title>
+  <link href="http://localhost:4000/2020-04-monthly-online-meetup-2/"/>
+  <updated>2020-04-23T19:00:00+08:00</updated>
+  <id>http://localhost:4000/monthly-online-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>http://localhost:4000/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;online-bitcoin-meetup-網上比特幣聚會&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/h2&gt;
+
+&lt;p&gt;This meetup will be held virtually. Anyone is free to join.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;meet.jit.si/Bitcoin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/JJqWphmYlzGKNCxknEoMSw&quot;&gt;Join the Telegram group&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Language: English&lt;/p&gt;
+
+&lt;p&gt;Topics:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Isolation updates&lt;/li&gt;
+  &lt;li&gt;People’s Bank of China: DCEP, Stablecoin, Libra&lt;/li&gt;
+  &lt;li&gt;Bitcoin halving&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Stay at home, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。我哋將會公佈詳情，敬請留意。我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;这次是网络聚会。我们快将公告详情，敬请注意。我们每月一次的比特币聚会。於人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;p&gt;Event rules:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chatham House&lt;/li&gt;
+  &lt;li&gt;Respecting other’s privacy&lt;/li&gt;
+  &lt;li&gt;Use the chat, give feedback, contribute&lt;/li&gt;
+  &lt;li&gt;Face and voice optional&lt;/li&gt;
+  &lt;li&gt;Mute yourself when you’re not speaking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;Play Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://apps.apple.com/app/jitsi-meet/id1165103905&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-04-monthly-online-meetup-2/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Online Bitcoin Meetup 網上比特幣聚會</title>
+  <link href="http://localhost:4000/2020-04-monthly-online-meetup/"/>
+  <updated>2020-04-02T19:00:00+08:00</updated>
+  <id>http://localhost:4000/monthly-online-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>http://localhost:4000/</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;online-bitcoin-meetup-網上比特幣聚會&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/h2&gt;
+
+&lt;p&gt;This meetup will be held virtually. Anyone is free to join.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;meet.jit.si/Bitcoin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/JJqWphmYlzGKNCxknEoMSw&quot;&gt;Join the Telegram group&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Language: English&lt;/p&gt;
+
+&lt;p&gt;Topics:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Isolation updates&lt;/li&gt;
+  &lt;li&gt;People’s Bank of China: DCEP, Stablecoin, Libra&lt;/li&gt;
+  &lt;li&gt;Bitcoin halving&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Stay at home, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。我哋將會公佈詳情，敬請留意。我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;这次是网络聚会。我们快将公告详情，敬请注意。我们每月一次的比特币聚会。於人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;p&gt;Event rules:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chatham House&lt;/li&gt;
+  &lt;li&gt;Respecting other’s privacy&lt;/li&gt;
+  &lt;li&gt;Use the chat, give feedback, contribute&lt;/li&gt;
+  &lt;li&gt;Face and voice optional&lt;/li&gt;
+  &lt;li&gt;Mute yourself when you’re not speaking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;Play Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://apps.apple.com/app/jitsi-meet/id1165103905&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-04-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
   <title>Central Bitcoin Meetup 中環比特幣聚會</title>
   <link href="http://localhost:4000/2020-03-monthly-central-meetup/"/>
-  <updated>2020-03-13T19:00:00+08:00</updated>
+  <updated>2020-03-17T19:00:00+08:00</updated>
   <id>http://localhost:4000/monthly-central-meetup</id>
   
   <author>
@@ -613,36 +967,6 @@ Location: Garage Society, 4/F, &lt;strong&gt;93 Lockhart Road, Wan Chai&lt;/stro
 
 <entry>
   <title>Central Bitcoin Meetup 中環比特幣聚會</title>
-  <link href="http://localhost:4000/2018-05-monthly-central-meetup/"/>
-  <updated>2019-05-07T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-central-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9013802835693!2d114.1532278!3d22.281725299999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b0f2b3a99%3A0x58d0fc2959e411b5!2sLotus+Modern+Thai!5e0!3m2!1sen!2sus!4v1554802325357!5m2!1sen!2sus&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2018-05-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
   <link href="http://localhost:4000/2018-04-monthly-central-meetup/"/>
   <updated>2019-04-02T19:00:00+08:00</updated>
   <id>http://localhost:4000/monthly-central-meetup</id>
@@ -667,291 +991,6 @@ Location: Garage Society, 4/F, &lt;strong&gt;93 Lockhart Road, Wan Chai&lt;/stro
 &lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2018-04-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>ANXONE</title>
-  <link href="http://localhost:4000/corporate/2019/04/01/anxone/"/>
-  <updated>2019-04-01T00:00:00+08:00</updated>
-  <id>http://localhost:4000/corporate/2019/04/01/anxone</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/corporate/2019/04/01/anxone/&quot; rel=&quot;nofollow&quot;&gt;ANXONE&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Lightning Hackday</title>
-  <link href="http://localhost:4000/2019-lightning-hackday/"/>
-  <updated>2019-03-30T19:00:00+08:00</updated>
-  <id>http://localhost:4000/lightning-hackday</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;lightning-hackday&quot;&gt;Lightning Hackday&lt;/h2&gt;
-
-&lt;p&gt;The Lightning Network is a network of payment channels that already make it possible to send small amounts of Bitcoin to any participant around the globe. It is decentralized, permissionless and free and open source.&lt;/p&gt;
-
-&lt;p&gt;The Lightning Network opens up new possibilities for online payments and the way we think of Bitcoin. In many ways it functions differently to how we are used to Bitcoin, and there are plenty of new things to learn.&lt;/p&gt;
-
-&lt;p&gt;The Lightning Hackday is a two-day event for technologists, developers and those who want to be at the forefront of this new technology.&lt;/p&gt;
-
-&lt;p&gt;Anybody is welcome, and we’ll be offering workshops, demos and talks for all skill sets and levels of expertise.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://lightning.bitcoin.org.hk/register&quot;&gt;You can get a ticket for the event here.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Lunch and dinner will be provided for those with a ticket.&lt;/p&gt;
-
-&lt;p&gt;SCHEDULE:&lt;/p&gt;
-
-&lt;p&gt;10:00-10:30 Leo Weese: Introduction to the Lightning Network&lt;/p&gt;
-
-&lt;p&gt;10:30-10:50 Guillaume Verbal: Advertising is ruining the internet&lt;/p&gt;
-
-&lt;p&gt;10:50-11:30 Daniel Babbev: Building Lightning Dapps with Docker&lt;/p&gt;
-
-&lt;p&gt;11:45-12:15 Alex Males: Payment Authorization with Lightning Network&lt;/p&gt;
-
-&lt;p&gt;12:15-12:45 Kurimoto Kenichi: Introduction of Nayuta and ptarmigan&lt;/p&gt;
-
-&lt;p&gt;14:00-14:30 Takaya Imai: Lightning Community and Development in Japan&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d922.7140036986392!2d114.20980977294694!3d22.321284569181238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340401347a64fd63%3A0x4356f3f216053ef2!2sFTLife+Tower!5e0!3m2!1sen!2shk!4v1541258073617&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2019-lightning-hackday/&quot; rel=&quot;nofollow&quot;&gt;Lightning Hackday&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Lightning Hackday Meetup</title>
-  <link href="http://localhost:4000/2019-lightning-hackday-meetup/"/>
-  <updated>2019-03-29T19:00:00+08:00</updated>
-  <id>http://localhost:4000/lightning-hackday-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;lightning-hackday-meetup&quot;&gt;Lightning Hackday Meetup&lt;/h2&gt;
-
-&lt;p&gt;THIS EVENT IS FREE AND OPEN TO ALL&lt;/p&gt;
-
-&lt;p&gt;To open our Lightning Hackday (March 30 &amp;amp; 31 at Bitwork) we welcome you all to mingle with us to talk about all things Layer 2 at the Genesis Block. You can find more information about the Hackday here:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://lightning.bitcoin.org.hk/&quot;&gt;https://lightning.bitcoin.org.hk/&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9933960236476!2d114.17698159999999!3d22.27824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404005a4bfcac6f%3A0x95cca13b19d1a45!2sGenesis+Block+Office+%26+ATM+(BTC%2FETH%2FBCH)!5e0!3m2!1sen!2sus!4v1554804356229!5m2!1sen!2sus&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2019-lightning-hackday-meetup/&quot; rel=&quot;nofollow&quot;&gt;Lightning Hackday Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Gatecoin Liquidation</title>
-  <link href="http://localhost:4000/gatecoin-liquidation/"/>
-  <updated>2019-03-28T02:00:00+08:00</updated>
-  <id>http://localhost:4000/gatecoin-liquidation</id>
-  
-  <author>
-    <name>liongrass</name>
-    <uri>https://r.nametiles.co/liongrass</uri>
-  </author>
-  
-  <content type="html">
-    &lt;p&gt;last updated: 2019-03-28 &lt;a href=&quot;https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2018-03-28-gatecoin-liquidation.md&quot;&gt;version history&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;gatecoin-liqduidation&quot;&gt;Gatecoin Liqduidation&lt;/h2&gt;
-
-&lt;p&gt;Gatecoin is a Hong Kong-based cryptocurrency exchange founded in 2013. It has been ordered by the Hong Kong High Court to be liquidated on March 14, 2019.&lt;/p&gt;
-
-&lt;p&gt;You can find the liquidation order appointing a liquidator &lt;a href=&quot;/media/2019/03/2019-03-25_court_order.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The case has the case number L10/18/2019 MLL/A&lt;/p&gt;
-
-&lt;p&gt;Ms. Chi Lai Man Jocelyn and Ms. Li Chung Ngai both of Borrelli Walsh Limited are appointed as liquidators. You can find their letter to the creditors &lt;a href=&quot;/media/2019/03/2019-03-28_claims.pdf&quot;&gt;here&lt;/a&gt;. You can contact them at &lt;a href=&quot;mailto:gatecoincs@borrelliwalsh.com&quot;&gt;gatecoincs@borrelliwalsh.com&lt;/a&gt; or 852 3761 3875.&lt;/p&gt;
-
-&lt;p&gt;You can find the relevant legal framework for winding up Gatecoin under Section of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap. 32) &lt;a href=&quot;https://www.elegislation.gov.hk/hk/cap32&quot;&gt;here&lt;/a&gt;. Of interest are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Section 196(2)&lt;/li&gt;
-  &lt;li&gt;Section 200(3)&lt;/li&gt;
-  &lt;li&gt;Section 227(A)1&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you have more information on the case please contact the Bitcoin Association at &lt;a href=&quot;mailto:info@bitcoin.org.hk&quot;&gt;info@bitcoin.org.hk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Timeline of events:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2019-03-14: &lt;a href=&quot;/media/2019/03/2019-03-17_gatecoin_announcement.png&quot;&gt;Gatecoin announces liquidation on its website.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;2019-03-25: &lt;a href=&quot;/media/2019/03/2019-03-25_court_order.pdf&quot;&gt;Hong Kong High Court appoints liquidator.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;2019-03-28: &lt;a href=&quot;/media/2019/03/2019-03-28_claims.pdf&quot;&gt;Liquidator requests creditors to file their claims.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;2019-04-03: &lt;a href=&quot;https://www.info.gov.hk/gia/general/201904/03/P2019040300257.htm&quot;&gt;The case is being referenced in a question by Wu Chi-wai in Legco&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;News coverage:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2019-03-14: &lt;a href=&quot;https://hk.finance.appledaily.com/finance/realtime/article/20190314/59367584&quot;&gt;虛擬幣爆煲 港產交易所Gatecoin遭清盤　苦主十萬資產凍過水 支付服務供應商拒評&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;2019-03-17: &lt;a href=&quot;https://bitcoinist.com/gatecoin-ordered-to-cease-all-operations-enters-liquidation/&quot;&gt;Gatecoin Ordereed to Cease All Operations, Enters Liquidation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Important documents:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2019-03-26 &lt;a href=&quot;/media/2019/03/2019-03-25_court_order.pdf&quot;&gt;Appointment of Liqduidator&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;2019-03-28 &lt;a href=&quot;/media/2019/03/2019-03-28-search-on-cases-of-compulsory-winding-up-companies.pdf&quot;&gt;Search on cases of compulsory winding-up companies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/gatecoin-liquidation/&quot; rel=&quot;nofollow&quot;&gt;Gatecoin Liquidation&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;liongrass&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Bitcoin Meetup</title>
-  <link href="http://localhost:4000/2019-03-central-meetup/"/>
-  <updated>2019-03-19T19:00:00+08:00</updated>
-  <id>http://localhost:4000/central-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;bitcoin-meetup&quot;&gt;Bitcoin Meetup&lt;/h2&gt;
-
-&lt;p&gt;Sadly our Kowloon venue is unexpectedly closing. We’ll host this meetup in Central instead. Apologies for the inconvenience!&lt;/p&gt;
-
-&lt;p&gt;Lightning payments accepted!
-We meet once a month at The Crescent Moon to hang out, chat and connect.&lt;/p&gt;
-
-&lt;p&gt;Craft Brew &amp;amp; Co is located on Staunton Street, just off the escalators and next to Tai Kwun.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7383.717491606309!2d114.147804!3d22.28334!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b0f81bdfd%3A0xa6adad8d25123f98!2sCraft+Brew+%26+Co.!5e0!3m2!1sen!2sus!4v1554804156928!5m2!1sen!2sus&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2019-03-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Bitcoin Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Token2049 Pub Crawl</title>
-  <link href="http://localhost:4000/2019-token2049-pub-crawl/"/>
-  <updated>2019-03-13T19:00:00+08:00</updated>
-  <id>http://localhost:4000/pub-crawl</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;lunar-new-year-party&quot;&gt;Lunar New Year Party&lt;/h2&gt;
-
-&lt;p&gt;More than 2,000 guests are expected for Token2049, primarily from overseas. We welcome you to mingle with all of us at a massive Pub Crawl around Soho.&lt;/p&gt;
-
-&lt;p&gt;Each station is its own Meetup. You can head straight to the station you are interested in the most or visit them in any order, for as long or often as you like.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/d/embed?mid=1TO1MN_2W8bW-BgNioFhSfAmol0Uyr7QH&quot; width=&quot;100%&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;BITCOIN&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;7-Eleven, 40 Elgin Street&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;GENESIS BLOCK&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Lotus, 5 Staunton Street&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;PAXFUL&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Craft Brew &amp;amp; Co., 17 Old Bailey Street&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;ERGO&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Peak Cafe Bar, 11 Shelley Street&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;BLOCKSTACK&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Staunton’s Wine Bar, 10 Staunton Street&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;GEEK ALLIANCE TAIPEI x COOLWALLET X UNITY CHAIN x JOYSO&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Brooklyn Bar, 33 Staunton Street&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;HONG KONG BITCOIN CASH MEETUPS&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Garden Meow, PMQ, 35 Aberdeen Street&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;EOS HK&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Stazione Novella, 54 Staunton Street&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;BITWORK x BLOCKCAST&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fini’s Italian American, 49 Elgin Street&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;INFINITUS&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;McSorley’s Ale House, 46 Staunton Street&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;CRYPTOTAL&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Bouchon Bistro Francais, 49 Elgin Street&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Still need a ticket for Token2049? &lt;a href=&quot;https://www.token2049.com/&quot;&gt;You can get 20% off with the code BAHK20 here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2019-token2049-pub-crawl/&quot; rel=&quot;nofollow&quot;&gt;Token2049 Pub Crawl&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
 
   </content>
 </entry>
