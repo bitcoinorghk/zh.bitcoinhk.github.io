@@ -2,14 +2,13 @@
 layout: blog
 title: 現正開始接受比特幣 Start Accepting Bitcoin Now
 date: "2020-06-07 20:00:00"
-permalink: /接受比特幣/
+permalink: /accept-bitcoin/
 author: liongrass
 published: true
 background: "url(/media/2015/06/bitcoin.jpg) #FF0000"
 redirect_from:
   - /2015-accept-bitcoin-now/
   - /accept-bitcoin-now/
-  - /accept-bitcoin/
 
 ---
 
