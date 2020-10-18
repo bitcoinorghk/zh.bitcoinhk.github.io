@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: 在香港購買比特幣
-date: "2020-10-14 02:00:00"
+date: "2020-10-18 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
 author: sam
 published: true
@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-最近更新：2020-10-14 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+最近更新：2020-10-18 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## 在香港購買比特幣
 
@@ -112,8 +112,6 @@ Advertisement
 [Tidebit](https://www.tidebit.com/)- Tidebit是香港最新的比特幣交易所。您可以免費或通過電匯存入現金，費用為2％。
 
 [Coinsuper](https://www.coinsuper.com/) - 該香港比特幣交易所僅接受美元存款進入其銀行帳戶。
-
-[Weever](https://www.weever.com.hk/)- 香港最年輕的交易接受各種本地銀行賬戶存款，並得到已上市的時富金融服務集團的支持。
 
 #### 場外交易（OTC）交易所
 
