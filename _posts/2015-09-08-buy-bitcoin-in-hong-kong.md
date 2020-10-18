@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-最近更新：019-04-08 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+最近更新：2020-10-14 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## 在香港購買比特幣
 
