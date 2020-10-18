@@ -1,9 +1,9 @@
 ---
 layout: blog
 title: 在香港購買比特幣
-date: "2018-11-22 02:00:00"
+date: "2020-10-14 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
-author: liongrass
+author: sam
 published: true
 background: "url(/media/2015/09/b.JPG) #FF0000"
 redirect_from:
