@@ -117,25 +117,27 @@ Advertisement
 
 如果需要更大的金額，您可以去場外交易（OTC）交易所或者找經紀。經紀會為您提供單筆交易的快速報價，通常為10 BTC以上。您將可以通過電匯出售或購買比特幣。 
 
-[OSL](https://www.osl.com/) - 世界上最大的OTC交易所之一。
+**[OSL](https://www.osl.com/)** - 世界上最大的OTC交易所之一。
 
-[Genesis Block](https://www.genesisblockhk.com/) - 於2017年9月在灣仔開業，Genesis Block營運OTC交易中心和活動空間。
+**[Genesis Block](https://www.genesisblockhk.com/)** - 於2017年9月在灣仔開業，Genesis Block營運OTC交易中心和活動空間。
 
-[Circle Trading](https://www.circletrading.com/) - Circle 是總部位於波士頓的金融服務公司，其匯款應用程序最受歡迎。他們於2017年11月在香港開設了一個比特幣場外交易櫃檯。
+**[Circle Trading](https://www.circletrading.com/)** - Circle 是總部位於波士頓的金融服務公司，其匯款應用程序最受歡迎。他們於2017年11月在香港開設了一個比特幣場外交易櫃檯。
 
-[BitInsightHK](http://bitinsighthk.com/) - 位於中環，於2018年2月開業。
+**[AAX](https://www.aax.com/otc/home)** - AAX的場外交易櫃檯可將HKD，USD和CNY兌換成Bitcoin，並提供多種付款方式，包括FPS，微信或支付寶。
 
-[AAX] - AAX的場外交易櫃檯可將HKD，USD和CNY兌換成Bitcoin，並提供多種付款方式，包括FPS，微信或支付寶。
+**[CoinUnited](https://coinunited.io/en/otc)** - CoinUnited 的OTC 交易櫃檯提供OTC交易及ATM服務，並運作在銅鑼灣一個方便的地點。
 
 ##### Smaller OTC houses located in Hong Kong include:
+
+**[一宗比特幣](https://www.onesatoshi.world/)**, 旺角, 銅鑼灣。一宗比特幣提供快捷及簡便的加密貨幣買賣服務, 以現金或八達通交易。購買的加密貨幣將直接存入你指定的地址。最低交易金額為1000港元, 進行超過80,000港元以上的交易時需要提供個人資料。
+
+**[BitInsightHK](http://bitinsighthk.com/)** - 位於中環，於2018年2月開業。
 
 **[OTCXPERT](https://otcxpert.com/)**, 尖沙咀
 
 **[MyEthShop](https://www.myethshop.com/)**, 旺角
 
 **[BTC Shop HK](https://btcshop.com.hk/)**, 尖沙咀
-
-**[Coingaroo](https://coingaroo.com.hk/)**, 荔枝角
 
 #### 海外交易所
 
