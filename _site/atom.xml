@@ -4,126 +4,28 @@
 
 
 <title>香港比特幣協會</title>
-<generator uri="https://github.com/jekyll/jekyll">Jekyll v3.8.6</generator>
-<icon>http://localhost:4000/images/apple-touch-icon-precomposed.png</icon>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll v4.2.0</generator>
+<icon>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//images/apple-touch-icon-precomposed.png</icon>
 <subtitle>培育及推廣本港比特幣及其科技.</subtitle>
-<link href="http://localhost:4000/atom.xml" rel="self"/>
-<link href="http://localhost:4000/" rel="alternate" type="text/html"/>
-<updated>2020-10-18T19:12:53+08:00</updated>
-<id>http://localhost:4000/</id>
+<link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//atom.xml" rel="self"/>
+<link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//" rel="alternate" type="text/html"/>
+<updated>2021-06-24T18:14:07+08:00</updated>
+<id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</id>
 <author>
   <name>香港比特幣協會</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
 </author>
 
 
 <entry>
-  <title>Online Bitcoin Meetup 網上比特幣聚會</title>
-  <link href="http://localhost:4000/2020-08-monthly-online-meetup/"/>
-  <updated>2020-08-20T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-online-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;online-bitcoin-meetup-網上比特幣聚會&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/h2&gt;
-
-&lt;p&gt;This meetup will be held virtually. Anyone is free to join.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;meet.jit.si/Bitcoin&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/JJqWphmYlzGKNCxknEoMSw&quot;&gt;Join the Telegram group&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Language: English&lt;/p&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Stay at home, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;今次係網上聚會。我哋將會公佈詳情，敬請留意。我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;这次是网络聚会。我们快将公告详情，敬请注意。我们每月一次的比特币聚会。於人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;p&gt;Event rules:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Chatham House&lt;/li&gt;
-  &lt;li&gt;Respecting other’s privacy&lt;/li&gt;
-  &lt;li&gt;Use the chat, give feedback, contribute&lt;/li&gt;
-  &lt;li&gt;Face and voice optional&lt;/li&gt;
-  &lt;li&gt;Mute yourself when you’re not speaking&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;Play Store&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://apps.apple.com/app/jitsi-meet/id1165103905&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-08-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Online Bitcoin Meetup 網上比特幣聚會</title>
-  <link href="http://localhost:4000/2020-07-monthly-online-meetup/"/>
-  <updated>2020-07-16T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-online-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;online-bitcoin-meetup-網上比特幣聚會&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/h2&gt;
-
-&lt;p&gt;This meetup will be held virtually. Anyone is free to join.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;meet.jit.si/Bitcoin&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/JJqWphmYlzGKNCxknEoMSw&quot;&gt;Join the Telegram group&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Language: English&lt;/p&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Stay at home, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;今次係網上聚會。我哋將會公佈詳情，敬請留意。我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;这次是网络聚会。我们快将公告详情，敬请注意。我们每月一次的比特币聚会。於人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;p&gt;Event rules:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Chatham House&lt;/li&gt;
-  &lt;li&gt;Respecting other’s privacy&lt;/li&gt;
-  &lt;li&gt;Use the chat, give feedback, contribute&lt;/li&gt;
-  &lt;li&gt;Face and voice optional&lt;/li&gt;
-  &lt;li&gt;Mute yourself when you’re not speaking&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;Play Store&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://apps.apple.com/app/jitsi-meet/id1165103905&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-07-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
   <title>Central Bitcoin Meetup 中環比特幣聚會</title>
-  <link href="http://localhost:4000/2020-07-monthly-central-meetup/"/>
-  <updated>2020-07-02T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-central-meetup</id>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-07-monthly-central-meetup/"/>
+  <updated>2021-07-08T19:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-central-meetup</id>
   
   <author>
     <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
     <email>info@bitcoin.org.hk</email>
   </author>
   
@@ -136,27 +38,193 @@
 
 &lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9442603906236!2d114.15350731495433!3d22.28010118533407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007ad364f173%3A0x8062493c0c75030f!2sFringe%20Colette&amp;#39;s!5e0!3m2!1sen!2shk!4v1583731450196!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9413008057477!2d114.1535972149543!3d22.28021328533398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007ad3986fab%3A0x5eab7200cf2540da!2sFringe%20Vault!5e0!3m2!1sen!2shk!4v1618043703870!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-07-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-07-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
 
   </content>
 </entry>
 
 <entry>
-  <title>Online Bitcoin Meetup 網上比特幣聚會</title>
-  <link href="http://localhost:4000/2020-06-monthly-online-meetup/"/>
-  <updated>2020-06-18T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-online-meetup</id>
+  <title>Online Bitcoin Meetup</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-06-monthly-online-meetup/"/>
+  <updated>2021-06-24T20:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-online-meetup</id>
   
   <author>
     <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
     <email>info@bitcoin.org.hk</email>
   </author>
   
   <content type="html">
-    &lt;h2 id=&quot;online-bitcoin-meetup-網上比特幣聚會&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/h2&gt;
+    &lt;h2 id=&quot;online-bitcoin-meetup&quot;&gt;Online Bitcoin Meetup&lt;/h2&gt;
+
+&lt;p&gt;This meetup will be held virtually. Anyone is free to join.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;meet.jit.si/Bitcoin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/-oPYXHzA2ncyMDg1&quot;&gt;Join the Telegram group&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Language: English&lt;/p&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Stay at home, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。我哋將會公佈詳情，敬請留意。我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;这次是网络聚会。我们快将公告详情，敬请注意。我们每月一次的比特币聚会。於人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;p&gt;Event rules:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chatham House&lt;/li&gt;
+  &lt;li&gt;Respecting other’s privacy&lt;/li&gt;
+  &lt;li&gt;Use the chat, give feedback, contribute&lt;/li&gt;
+  &lt;li&gt;Face and voice optional&lt;/li&gt;
+  &lt;li&gt;Mute yourself when you’re not speaking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;Play Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://apps.apple.com/app/jitsi-meet/id1165103905&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-06-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>比特幣吹水網聚</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-06-monthly-online-meetup-zh/"/>
+  <updated>2021-06-24T19:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-online-meetup-zh</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;比特幣吹水網聚&quot;&gt;比特幣吹水網聚&lt;/h2&gt;
+
+&lt;p&gt;語言：本地廣東話&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。&lt;/p&gt;
+
+&lt;p&gt;我哋用jitsi meet 嚟做網聚平台，jitsi 係一個open source 嘅網絡會議平台，任何人都可以參與。歡迎任何對比特幣認識/唔認識嘅朋友&lt;/p&gt;
+
+&lt;p&gt;最Hit 話題：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;二萬銀美金一個比特幣係唔係黐線？&lt;/li&gt;
+  &lt;li&gt;比特幣 main net 有咩突破？&lt;/li&gt;
+  &lt;li&gt;港府(就嚟)要監管比特幣&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;晚上 7-8 可入&lt;a href=&quot;https://t.me/joinchat/-oPYXHzA2ncyMDg1&quot;&gt;TG group&lt;/a&gt; 尋求技術支援&lt;/p&gt;
+
+&lt;p&gt;點入去jitsi Chatroom?&lt;/p&gt;
+
+&lt;p&gt;(Play Store)[https://play.google.com/store/apps/details?id=org.jitsi.meet]&lt;/p&gt;
+
+&lt;p&gt;(App Store)[https://apps.apple.com/app/jitsi-meet/id1165103905]&lt;/p&gt;
+
+&lt;p&gt;chatroom 名： Bitcoin&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;或者直接用browser&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;主要吹水講比特幣(Bitcoin)&lt;/p&gt;
+
+&lt;p&gt;規則：
+可選擇講嘢/唔講嘢
+可選擇露面/唔露面
+普通禮儀
+唔好sale嘢
+唔好透露私隱/夢遊內容
+盡量唔好疊聲/唔講嘢時最好熄咪&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-06-monthly-online-meetup-zh/&quot; rel=&quot;nofollow&quot;&gt;比特幣吹水網聚&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-06-monthly-central-meetup-2/"/>
+  <updated>2021-06-17T19:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-central-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9413008057477!2d114.1535972149543!3d22.28021328533398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007ad3986fab%3A0x5eab7200cf2540da!2sFringe%20Vault!5e0!3m2!1sen!2shk!4v1618043703870!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-06-monthly-central-meetup-2/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-06-monthly-central-meetup/"/>
+  <updated>2021-06-03T19:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-central-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9413008057477!2d114.1535972149543!3d22.28021328533398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007ad3986fab%3A0x5eab7200cf2540da!2sFringe%20Vault!5e0!3m2!1sen!2shk!4v1618043703870!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-06-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Online Bitcoin Meetup</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-05-monthly-online-meetup/"/>
+  <updated>2021-05-27T20:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-online-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;online-bitcoin-meetup&quot;&gt;Online Bitcoin Meetup&lt;/h2&gt;
 
 &lt;p&gt;This meetup will be held virtually. Anyone is free to join.&lt;/p&gt;
 
@@ -187,16 +255,716 @@
 
 &lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-06-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-05-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
 
   </content>
 </entry>
 
 <entry>
-  <title>現正開始接受比特幣 Start Accepting Bitcoin Now</title>
-  <link href="http://localhost:4000/accept-bitcoin/"/>
-  <updated>2020-06-07T20:00:00+08:00</updated>
-  <id>http://localhost:4000/accept-bitcoin-now</id>
+  <title>比特幣吹水網聚</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-05-monthly-online-meetup-zh/"/>
+  <updated>2021-05-27T19:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-online-meetup-zh</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;比特幣吹水網聚&quot;&gt;比特幣吹水網聚&lt;/h2&gt;
+
+&lt;p&gt;語言：本地廣東話&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。&lt;/p&gt;
+
+&lt;p&gt;我哋用jitsi meet 嚟做網聚平台，jitsi 係一個open source 嘅網絡會議平台，任何人都可以參與。歡迎任何對比特幣認識/唔認識嘅朋友&lt;/p&gt;
+
+&lt;p&gt;最Hit 話題：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;二萬銀美金一個比特幣係唔係黐線？&lt;/li&gt;
+  &lt;li&gt;比特幣 main net 有咩突破？&lt;/li&gt;
+  &lt;li&gt;港府(就嚟)要監管比特幣&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;晚上 7-8 可入&lt;a href=&quot;https://t.me/joinchat/JJqWplQBAqRjS3APAYHL-w&quot;&gt;TG group&lt;/a&gt; 尋求技術支援&lt;/p&gt;
+
+&lt;p&gt;點入去jitsi Chatroom?&lt;/p&gt;
+
+&lt;p&gt;(Play Store)[https://play.google.com/store/apps/details?id=org.jitsi.meet]&lt;/p&gt;
+
+&lt;p&gt;(App Store)[https://apps.apple.com/app/jitsi-meet/id1165103905]&lt;/p&gt;
+
+&lt;p&gt;chatroom 名： Bitcoin&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;或者直接用browser&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;主要吹水講比特幣(Bitcoin)&lt;/p&gt;
+
+&lt;p&gt;規則：
+可選擇講嘢/唔講嘢
+可選擇露面/唔露面
+普通禮儀
+唔好sale嘢
+唔好透露私隱/夢遊內容
+盡量唔好疊聲/唔講嘢時最好熄咪&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-05-monthly-online-meetup-zh/&quot; rel=&quot;nofollow&quot;&gt;比特幣吹水網聚&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-05-monthly-central-meetup-2/"/>
+  <updated>2021-05-20T19:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-central-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9413008057477!2d114.1535972149543!3d22.28021328533398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007ad3986fab%3A0x5eab7200cf2540da!2sFringe%20Vault!5e0!3m2!1sen!2shk!4v1618043703870!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-05-monthly-central-meetup-2/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>以比特幣付款</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//pay-with-bitcoin/"/>
+  <updated>2021-05-07T02:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//pay-with-bitcoin</id>
+  
+  <author>
+    <name>sam</name>
+    <uri>https://r.nametiles.co/sam</uri>
+  </author>
+  
+  <content type="html">
+    &lt;p&gt;last updated: 2021-05-07 &lt;a href=&quot;https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2021-05-07-pay-with-bitcoin.md&quot;&gt;version history&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/pay-with-bitcoin/&quot;&gt;Click here to see the English version of this article.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;以比特幣付款&quot;&gt;以比特幣付款&lt;/h2&gt;
+
+&lt;p&gt;我們愛比特幣；我們買比特幣；我們賺取比特幣作為薪金；同時我們喜歡接受比特幣。有些在香港的商販亦如此，以下列出如何在香港花費你的比特幣。&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/d/u/1/embed?mid=1SG7zsgk0ZDjGfWv0Z99CN-c5eHZIsZOY&quot; width=&quot;100%&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;顧客適用&quot;&gt;顧客適用&lt;/h3&gt;
+
+&lt;p&gt;使用比特幣付款會使你知道比特幣如何能夠運作或如何不能夠運作，而使用加密貨幣是作為「自行硏究」的重要部份，這亦鞏固我們的信念及期望。我們特別推薦嘗些閃電(Lightning)付款，因為這是快速及費用便宜。&lt;/p&gt;
+
+&lt;h3 id=&quot;商販適用&quot;&gt;商販適用&lt;/h3&gt;
+
+&lt;p&gt;如果你想開始使用比特幣收款，&lt;a href=&quot;/accept-bitcoin/&quot;&gt;請跟從此指引&lt;/a&gt;。如果你有疑問或想將你的商號加入此商販名單，請聯絡我們 &lt;a href=&quot;mailto:info@bitcoin.org.hk&quot;&gt;info@bitcoin.org.hk&lt;/a&gt;。&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//pay-with-bitcoin/&quot; rel=&quot;nofollow&quot;&gt;以比特幣付款&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;sam&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-05-monthly-central-meetup/"/>
+  <updated>2021-05-06T19:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-central-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9413008057477!2d114.1535972149543!3d22.28021328533398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007ad3986fab%3A0x5eab7200cf2540da!2sFringe%20Vault!5e0!3m2!1sen!2shk!4v1618043703870!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-05-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-04-monthly-central-meetup-2/"/>
+  <updated>2021-04-22T19:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-central-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9413008057477!2d114.1535972149543!3d22.28021328533398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007ad3986fab%3A0x5eab7200cf2540da!2sFringe%20Vault!5e0!3m2!1sen!2shk!4v1618043703870!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-04-monthly-central-meetup-2/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Online Bitcoin Meetup</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-04-monthly-online-meetup/"/>
+  <updated>2021-04-15T20:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-online-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;online-bitcoin-meetup&quot;&gt;Online Bitcoin Meetup&lt;/h2&gt;
+
+&lt;p&gt;This meetup will be held virtually. Anyone is free to join.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;meet.jit.si/Bitcoin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/JJqWphmYlzGKNCxknEoMSw&quot;&gt;Join the Telegram group&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Language: English&lt;/p&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Stay at home, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。我哋將會公佈詳情，敬請留意。我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;这次是网络聚会。我们快将公告详情，敬请注意。我们每月一次的比特币聚会。於人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;p&gt;Event rules:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chatham House&lt;/li&gt;
+  &lt;li&gt;Respecting other’s privacy&lt;/li&gt;
+  &lt;li&gt;Use the chat, give feedback, contribute&lt;/li&gt;
+  &lt;li&gt;Face and voice optional&lt;/li&gt;
+  &lt;li&gt;Mute yourself when you’re not speaking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;Play Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://apps.apple.com/app/jitsi-meet/id1165103905&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-04-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>比特幣吹水網聚</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-04-monthly-online-meetup-zh/"/>
+  <updated>2021-04-15T19:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-online-meetup-zh</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;比特幣吹水網聚&quot;&gt;比特幣吹水網聚&lt;/h2&gt;
+
+&lt;p&gt;語言：本地廣東話&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。&lt;/p&gt;
+
+&lt;p&gt;我哋用jitsi meet 嚟做網聚平台，jitsi 係一個open source 嘅網絡會議平台，任何人都可以參與。歡迎任何對比特幣認識/唔認識嘅朋友&lt;/p&gt;
+
+&lt;p&gt;最Hit 話題：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;二萬銀美金一個比特幣係唔係黐線？&lt;/li&gt;
+  &lt;li&gt;比特幣 main net 有咩突破？&lt;/li&gt;
+  &lt;li&gt;港府(就嚟)要監管比特幣&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;晚上 7-8 可入&lt;a href=&quot;https://t.me/joinchat/JJqWplQBAqRjS3APAYHL-w&quot;&gt;TG group&lt;/a&gt; 尋求技術支援&lt;/p&gt;
+
+&lt;p&gt;點入去jitsi Chatroom?&lt;/p&gt;
+
+&lt;p&gt;(Play Store)[https://play.google.com/store/apps/details?id=org.jitsi.meet]&lt;/p&gt;
+
+&lt;p&gt;(App Store)[https://apps.apple.com/app/jitsi-meet/id1165103905]&lt;/p&gt;
+
+&lt;p&gt;chatroom 名： Bitcoin&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;或者直接用browser&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;主要吹水講比特幣(Bitcoin)&lt;/p&gt;
+
+&lt;p&gt;規則：
+可選擇講嘢/唔講嘢
+可選擇露面/唔露面
+普通禮儀
+唔好sale嘢
+唔好透露私隱/夢遊內容
+盡量唔好疊聲/唔講嘢時最好熄咪&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-04-monthly-online-meetup-zh/&quot; rel=&quot;nofollow&quot;&gt;比特幣吹水網聚&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-04-monthly-central-meetup/"/>
+  <updated>2021-04-08T19:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-central-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;New location&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9413008057477!2d114.1535972149543!3d22.28021328533398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007ad3986fab%3A0x5eab7200cf2540da!2sFringe%20Vault!5e0!3m2!1sen!2shk!4v1618043703870!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-04-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Online Bitcoin Meetup</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-03-monthly-online-meetup/"/>
+  <updated>2021-03-18T20:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-online-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;online-bitcoin-meetup&quot;&gt;Online Bitcoin Meetup&lt;/h2&gt;
+
+&lt;p&gt;This meetup will be held virtually. Anyone is free to join.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;meet.jit.si/Bitcoin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/JJqWphmYlzGKNCxknEoMSw&quot;&gt;Join the Telegram group&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Language: English&lt;/p&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Stay at home, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。我哋將會公佈詳情，敬請留意。我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;这次是网络聚会。我们快将公告详情，敬请注意。我们每月一次的比特币聚会。於人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;p&gt;Event rules:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chatham House&lt;/li&gt;
+  &lt;li&gt;Respecting other’s privacy&lt;/li&gt;
+  &lt;li&gt;Use the chat, give feedback, contribute&lt;/li&gt;
+  &lt;li&gt;Face and voice optional&lt;/li&gt;
+  &lt;li&gt;Mute yourself when you’re not speaking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;Play Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://apps.apple.com/app/jitsi-meet/id1165103905&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-03-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>比特幣吹水網聚</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-03-monthly-online-meetup-zh/"/>
+  <updated>2021-03-18T19:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-online-meetup-zh</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;比特幣吹水網聚&quot;&gt;比特幣吹水網聚&lt;/h2&gt;
+
+&lt;p&gt;語言：本地廣東話&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。&lt;/p&gt;
+
+&lt;p&gt;我哋用jitsi meet 嚟做網聚平台，jitsi 係一個open source 嘅網絡會議平台，任何人都可以參與。歡迎任何對比特幣認識/唔認識嘅朋友&lt;/p&gt;
+
+&lt;p&gt;最Hit 話題：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;二萬銀美金一個比特幣係唔係黐線？&lt;/li&gt;
+  &lt;li&gt;比特幣 main net 有咩突破？&lt;/li&gt;
+  &lt;li&gt;港府(就嚟)要監管比特幣&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;晚上 7-8 可入&lt;a href=&quot;https://t.me/joinchat/JJqWplQBAqRjS3APAYHL-w&quot;&gt;TG group&lt;/a&gt; 尋求技術支援&lt;/p&gt;
+
+&lt;p&gt;點入去jitsi Chatroom?&lt;/p&gt;
+
+&lt;p&gt;(Play Store)[https://play.google.com/store/apps/details?id=org.jitsi.meet]&lt;/p&gt;
+
+&lt;p&gt;(App Store)[https://apps.apple.com/app/jitsi-meet/id1165103905]&lt;/p&gt;
+
+&lt;p&gt;chatroom 名： Bitcoin&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;或者直接用browser&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;主要吹水講比特幣(Bitcoin)&lt;/p&gt;
+
+&lt;p&gt;規則：
+可選擇講嘢/唔講嘢
+可選擇露面/唔露面
+普通禮儀
+唔好sale嘢
+唔好透露私隱/夢遊內容
+盡量唔好疊聲/唔講嘢時最好熄咪&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-03-monthly-online-meetup-zh/&quot; rel=&quot;nofollow&quot;&gt;比特幣吹水網聚&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-02-monthly-central-meetup/"/>
+  <updated>2021-02-25T19:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-central-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;New location&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9413008057477!2d114.1535972149543!3d22.28021328533398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007ad3986fab%3A0x5eab7200cf2540da!2sFringe%20Vault!5e0!3m2!1sen!2shk!4v1618043703870!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-02-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Online Bitcoin Meetup</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-02-monthly-online-meetup/"/>
+  <updated>2021-02-18T20:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-online-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;online-bitcoin-meetup&quot;&gt;Online Bitcoin Meetup&lt;/h2&gt;
+
+&lt;p&gt;This meetup will be held virtually. Anyone is free to join.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;meet.jit.si/Bitcoin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/JJqWphmYlzGKNCxknEoMSw&quot;&gt;Join the Telegram group&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Language: English&lt;/p&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Stay at home, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。我哋將會公佈詳情，敬請留意。我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;这次是网络聚会。我们快将公告详情，敬请注意。我们每月一次的比特币聚会。於人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;p&gt;Event rules:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chatham House&lt;/li&gt;
+  &lt;li&gt;Respecting other’s privacy&lt;/li&gt;
+  &lt;li&gt;Use the chat, give feedback, contribute&lt;/li&gt;
+  &lt;li&gt;Face and voice optional&lt;/li&gt;
+  &lt;li&gt;Mute yourself when you’re not speaking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;Play Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://apps.apple.com/app/jitsi-meet/id1165103905&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-02-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>比特幣吹水網聚</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-02-monthly-online-meetup-zh/"/>
+  <updated>2021-02-18T19:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-online-meetup-zh</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;比特幣吹水網聚&quot;&gt;比特幣吹水網聚&lt;/h2&gt;
+
+&lt;p&gt;語言：本地廣東話&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。&lt;/p&gt;
+
+&lt;p&gt;我哋用jitsi meet 嚟做網聚平台，jitsi 係一個open source 嘅網絡會議平台，任何人都可以參與。歡迎任何對比特幣認識/唔認識嘅朋友&lt;/p&gt;
+
+&lt;p&gt;最Hit 話題：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;二萬銀美金一個比特幣係唔係黐線？&lt;/li&gt;
+  &lt;li&gt;比特幣 main net 有咩突破？&lt;/li&gt;
+  &lt;li&gt;港府(就嚟)要監管比特幣&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;晚上 7-8 可入&lt;a href=&quot;https://t.me/joinchat/JJqWplQBAqRjS3APAYHL-w&quot;&gt;TG group&lt;/a&gt; 尋求技術支援&lt;/p&gt;
+
+&lt;p&gt;點入去jitsi Chatroom?&lt;/p&gt;
+
+&lt;p&gt;(Play Store)[https://play.google.com/store/apps/details?id=org.jitsi.meet]&lt;/p&gt;
+
+&lt;p&gt;(App Store)[https://apps.apple.com/app/jitsi-meet/id1165103905]&lt;/p&gt;
+
+&lt;p&gt;chatroom 名： Bitcoin&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;或者直接用browser&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;主要吹水講比特幣(Bitcoin)&lt;/p&gt;
+
+&lt;p&gt;規則：
+可選擇講嘢/唔講嘢
+可選擇露面/唔露面
+普通禮儀
+唔好sale嘢
+唔好透露私隱/夢遊內容
+盡量唔好疊聲/唔講嘢時最好熄咪&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-02-monthly-online-meetup-zh/&quot; rel=&quot;nofollow&quot;&gt;比特幣吹水網聚&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>2nd Global Bitcoin Meetup</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-2nd-global-bitcoin-meetup/"/>
+  <updated>2021-01-23T20:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//global-bitcoin-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;2nd-global-bitcoin-meetup&quot;&gt;2nd Global Bitcoin Meetup&lt;/h2&gt;
+
+&lt;p&gt;This global meetup brings together 4 communities to exchange knowledge and ideas with regard to the technology that we are so font of!&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2021/01/global.jpg&quot; alt=&quot;2nd Global Bitcoin Meetup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All talks will be 20 minutes (in English) plus 5 minute for questions:&lt;/p&gt;
+
+&lt;p&gt;1) Representing Bitcoin Sydney:
+“Bitcoin Blocks from Space: Setting up a Blockstream Satellite node”
+By John Pratt, organiser of Bitcoin Sydney &amp;amp; Ketan Gulabdas, Ministry of Nodes.&lt;/p&gt;
+
+&lt;p&gt;2) Representing Bitcoin Hong Kong:
+“Improving the Lightning user experience with LNURL”
+by Leo Weese - BitcoinHK&lt;/p&gt;
+
+&lt;p&gt;3) Representing Thessaloniki’s Bitcoin Meetup:
+“An overview of Schnorr/Taproot”
+by Dr. Kostas Karasavvas, Organiser, CTO at Block.co, Faculty at UNic &amp;amp; AUTh.&lt;/p&gt;
+
+&lt;p&gt;4) Representing Bitcoin Toronto:
+“DIY Bitcoin: Do It Yourself”
+by KryptoKidz, Organizer of Bitcoin Toronto Meetup&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-2nd-global-bitcoin-meetup/&quot; rel=&quot;nofollow&quot;&gt;2nd Global Bitcoin Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Online Bitcoin Meetup</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-01-monthly-online-meetup/"/>
+  <updated>2021-01-21T20:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-online-meetup</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;online-bitcoin-meetup&quot;&gt;Online Bitcoin Meetup&lt;/h2&gt;
+
+&lt;p&gt;This meetup will be held virtually. Anyone is free to join.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;meet.jit.si/Bitcoin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/JJqWphmYlzGKNCxknEoMSw&quot;&gt;Join the Telegram group&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Language: English&lt;/p&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Stay at home, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。我哋將會公佈詳情，敬請留意。我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+
+&lt;p&gt;这次是网络聚会。我们快将公告详情，敬请注意。我们每月一次的比特币聚会。於人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+
+&lt;p&gt;Event rules:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chatham House&lt;/li&gt;
+  &lt;li&gt;Respecting other’s privacy&lt;/li&gt;
+  &lt;li&gt;Use the chat, give feedback, contribute&lt;/li&gt;
+  &lt;li&gt;Face and voice optional&lt;/li&gt;
+  &lt;li&gt;Mute yourself when you’re not speaking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;Play Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://apps.apple.com/app/jitsi-meet/id1165103905&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-01-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>比特幣吹水網聚</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-01-monthly-online-meetup-zh/"/>
+  <updated>2021-01-21T19:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-online-meetup-zh</id>
+  
+  <author>
+    <name>香港比特幣協會</name>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
+    <email>info@bitcoin.org.hk</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;比特幣吹水網聚&quot;&gt;比特幣吹水網聚&lt;/h2&gt;
+
+&lt;p&gt;語言：本地廣東話&lt;/p&gt;
+
+&lt;p&gt;今次係網上聚會。&lt;/p&gt;
+
+&lt;p&gt;我哋用jitsi meet 嚟做網聚平台，jitsi 係一個open source 嘅網絡會議平台，任何人都可以參與。歡迎任何對比特幣認識/唔認識嘅朋友&lt;/p&gt;
+
+&lt;p&gt;最Hit 話題：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;二萬銀美金一個比特幣係唔係黐線？&lt;/li&gt;
+  &lt;li&gt;比特幣 main net 有咩突破？&lt;/li&gt;
+  &lt;li&gt;港府(就嚟)要監管比特幣&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;晚上 7-8 可入&lt;a href=&quot;https://t.me/joinchat/JJqWplQBAqRjS3APAYHL-w&quot;&gt;TG group&lt;/a&gt; 尋求技術支援&lt;/p&gt;
+
+&lt;p&gt;點入去jitsi Chatroom?&lt;/p&gt;
+
+&lt;p&gt;(Play Store)[https://play.google.com/store/apps/details?id=org.jitsi.meet]&lt;/p&gt;
+
+&lt;p&gt;(App Store)[https://apps.apple.com/app/jitsi-meet/id1165103905]&lt;/p&gt;
+
+&lt;p&gt;chatroom 名： Bitcoin&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;或者直接用browser&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;主要吹水講比特幣(Bitcoin)&lt;/p&gt;
+
+&lt;p&gt;規則：
+可選擇講嘢/唔講嘢
+可選擇露面/唔露面
+普通禮儀
+唔好sale嘢
+唔好透露私隱/夢遊內容
+盡量唔好疊聲/唔講嘢時最好熄咪&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-01-monthly-online-meetup-zh/&quot; rel=&quot;nofollow&quot;&gt;比特幣吹水網聚&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Consultation Response</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-consultation-response/"/>
+  <updated>2021-01-20T08:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//consultation-response</id>
   
   <author>
     <name>liongrass</name>
@@ -204,140 +972,170 @@
   </author>
   
   <content type="html">
-    &lt;h2 id=&quot;現正開始接受比特幣&quot;&gt;現正開始接受比特幣&lt;/h2&gt;
+    &lt;h2 id=&quot;public-consultation-on-legislative-proposals-to-enhance-anti-money-laundering-and-counter-terrorist-financing-regulation-in-hong-kong&quot;&gt;Public Consultation on Legislative Proposals to Enhance Anti-Money Laundering and Counter-Terrorist Financing Regulation in Hong Kong&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.bitcoin.org.hk/accept-bitcoin/&quot;&gt;Click here to see the English version of this article.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On 3 November 2020, the Hong Kong Securities and Futures Commission (SFC) together with the Financial Services and the Treasury Bureau (FSTB) &lt;a href=&quot;https://www.sfc.hk/-/media/EN/files/ER/PDF/CEO_speech_FinTechWeek_Nov2020.pdf&quot;&gt;announced&lt;/a&gt; a proposal to establish a mandatory licensing regime for cryptocurrency exchanges, and to prevent non-institutional investors from buying or selling Bitcoin.&lt;/p&gt;
 
-&lt;p&gt;恭喜你！您接受比特幣付款對於您的業務必定有很大的幫助：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.bitcoin.org.hk/hong-kong-takes-steps-to-restrict-bitcoin-access-for-end-users-2207c8b36021&quot;&gt;You can read our initial take and analysis of this proposal here.&lt;/a&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;靈活性：您可以制定不同的用戶體驗，並有多種處理器可供選擇。您甚至可以創建自己的付款方式！&lt;/li&gt;
-  &lt;li&gt;收費低：如果您使用自己的處理器，費用可以低至0％。此服務會將您的比特幣轉換為港元或美金，並收取0.5％至2％的費用。&lt;/li&gt;
-  &lt;li&gt;不可逆轉：客戶無法逆轉比特幣交易，這大大地減低欺詐或扣費的風險。因所有退款都必須由您本人操作。&lt;/li&gt;
-  &lt;li&gt;社區：比特幣用戶經常尋找接受比特幣付款的地方和企業。如果您是一間接受比特幣的香港公司，請聯絡我們，我們可以提供免費推廣。&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&quot;response-from-the-bitcoin-association-of-hong-kong&quot;&gt;Response from the Bitcoin Association of Hong Kong&lt;/h3&gt;
 
-&lt;h3 id=&quot;選擇a-coingate&quot;&gt;選擇A: Coingate&lt;/h3&gt;
+&lt;p&gt;The Bitcoin Association is submitting a response to this public consultation, which we encourage everyone to do. You can find the details &lt;a href=&quot;https://www.fstb.gov.hk/fsb/en/ppr/consult/doc/consult_amlo_e.pdf&quot;&gt;in the proposal&lt;/a&gt;, submissions will be accepted until 31 January 2021.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;(https://coingate.com/ref/accept-btc)&quot;&gt;Coingate&lt;/a&gt;是一間位於愛沙尼亞的付款處理商。&lt;a href=&quot;https://coingate.com/plugins&quot;&gt;外掛程式適&lt;/a&gt;用於 WooCommerce和Magento，或者您可以直接使用&lt;a href=&quot;https://coingate.com/buttons&quot;&gt;付款按鈕&lt;/a&gt;。如果您精通編碼技術，還可以使用&lt;a href=&quot;https://developer.coingate.com/&quot;&gt;Coingate的API&lt;/a&gt; 自訂介面。&lt;/p&gt;
+&lt;h4 id=&quot;dear-sir-or-madam&quot;&gt;Dear Sir or Madam,&lt;/h4&gt;
 
-&lt;p&gt;如果您有實體的地方，您則可以使用Coingate的POS系統。除比特幣外，Coingate還允許您接受 &lt;a href=&quot;https://coingate.com/supported-currencies&quot;&gt;數十種的加密貨幣&lt;/a&gt;，包括比特幣現金 (BCH)、以太比 (ETH) 和 萊特幣 (LTC)。 Coingate 還支援閃電 (Lightning) 付款。&lt;/p&gt;
+&lt;p&gt;We are submitting our views on the Legislative Proposal to enhance Anti-Money Laundering and Counter-Terrorist Financing Regulation (the Proposal).&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://coingate.com/pricing&quot;&gt;費用固定為1％。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We are &lt;a href=&quot;https://www.bitcoin.org.hk/about/&quot;&gt;香港比特幣協會 the Bitcoin Association of Hong Kong&lt;/a&gt;, a community-driven organization founded in 2014 to promote, educate and foster Bitcoin and its technology in Hong Kong. We represent individuals and organizations that use Bitcoin and offer related products and services. Over the years we have organized and co-hosted close to &lt;a href=&quot;https://www.bitcoin.org.hk/meetups/&quot;&gt;300 events&lt;/a&gt;, including industry conferences, hackathons and fairs.&lt;/p&gt;
 
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2020/06/coingate.jpeg&quot; alt=&quot;Coingate&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Since &lt;a href=&quot;http://library.legco.gov.hk:1080/record=b11621780&quot;&gt;December 2014&lt;/a&gt; Bitcoin has been regarded as a virtual commodity, and as such has been subject to regulation by the Customs &amp;amp; Excise Department (C&amp;amp;ED). Bitcoin is &lt;a href=&quot;https://www.hkma.gov.hk/eng/news-and-media/speeches/2018/09/20180921-1/&quot;&gt;neither regarded as money&lt;/a&gt;, nor as a security or futures contract. This is not true for all cryptographic tokens, which may resemble securities, futures, payment vehicles, stored value facilities, debt obligations, customer loyalty programs or other more creative arrangements.&lt;/p&gt;
 
-&lt;h3 id=&quot;選擇b-alchemy-pay&quot;&gt;選擇B: Alchemy Pay&lt;/h3&gt;
+&lt;p&gt;As our members have &lt;a href=&quot;https://blog.bitcoin.org.hk/sfc-regulates-crypto-exchanges-party-over-in-hong-kong-bc081100863a&quot;&gt;pointed out as early as 2018&lt;/a&gt;, the definition of a “Virtual Asset” does not make any meaningful distinctions between such mechanisms. In fact, the only common denominator for “Virtual Assets” seems to be the existence of a trading pair to Bitcoin through a “Virtual Assets Service Provider,” commonly referred to in the media as a cryptocurrency exchange.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.alchemytech.io/alchemy_english.html&quot;&gt;Alchemy Pay&lt;/a&gt;是一家位於新加坡的金融科技公司，不但可以幫助您接受比特幣和閃電 (Lightning)，亦支援支付寶和微信支付。&lt;/p&gt;
+&lt;p&gt;Firstly we believe it is most appropriate to regulate each phenomenon according to its own facts, as is already the case. “Virtual Assets” representing securities and futures are already under the supervisory regime of the SFC, while those constituting currencies or stored value facilities are already under scrutiny from the HKMA, and virtual commodities are regulated by C&amp;amp;ED. We believe it is not helpful to define a token as both a “Virtual Asset” and something else, while placing it under two contradictory regulatory regimes from two departments at the same time.&lt;/p&gt;
 
-&lt;p&gt;他們目前為香港 Pricerite的二十多家商店中處理加密貨幣付款。 Alchemy Pay會將您的收入轉換為HKD並存入您的銀行帳戶。&lt;/p&gt;
+&lt;p&gt;Under the Proposal a very broad range of activity would suddenly fall under the supervision of the SFC, which we do not think is a suitable arrangement under the legal principles that Hong Kong operates under as well as practical concerns.&lt;/p&gt;
 
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2020/06/alchemy.jpeg&quot; alt=&quot;Alchemy&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;More importantly, we believe it is paramount that Bitcoin remains accessible to every Hong Kong resident. Any barrier put in place to restrict the sale or purchase of Bitcoin needs to be reasonable and well justified. Individuals as well as corporates need to be able to use and accept Bitcoin as payment and calculate their tax obligations easily, as is the status quo. There is no justification for why a resident’s interaction with Bitcoin should be fundamentally different to interaction with precious metals, gift cards or foreign currency.&lt;/p&gt;
 
-&lt;h3 id=&quot;選擇c-btcpay&quot;&gt;選擇C: BTCPay&lt;/h3&gt;
+&lt;p&gt;“No foreign exchange control policies shall be applied in the Hong Kong Special Administrative Region. The Hong Kong dollar shall be freely convertible. Markets for foreign exchange, gold, securities, futures and the like shall continue.” - Article 112 of the Basic Law&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://btcpayserver.org/&quot;&gt;BTCPay&lt;/a&gt;是一個軟件產品並不是提供服務的公司。因此，軟件需要在您自己的服務器上運行（例如，在&lt;a href=&quot;https://medium.com/@BtcpayServer/launch-btcpay-server-via-web-interface-and-deploy-full-bitcoin-node-lnd-in-less-than-a-minute-dc8bc6f06a3&quot;&gt;Lunanode&lt;/a&gt;，每月收費約9美元）。與付款處理的公司不同，您無需註冊或提供個人資訊。 BTCPay不收取任何許可費用，並且所有付款均由您自己處理，無需額外收費。如您不想出售比特幣那是非常好的，但您亦可以&lt;a href=&quot;/buy-bitcoin-in-hong-kong/&quot;&gt;通過交易所或中介人出售&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;We fear that restricting non-institutional investors from converting their Bitcoin into Hong Kong dollars constitutes capital controls. At a time where ordinary residents and government officials are denied access to basic banking services, we must not further restrict access to tools that reduce dependency on foreign institutions.&lt;/p&gt;
 
-&lt;p&gt;BTCPay是一個在線或離線工具，也可以使用API​​將系統連結到您的線上商店。&lt;/p&gt;
+&lt;p&gt;According to a &lt;a href=&quot;https://www.citibank.com.hk/english/info/pdf/Citibank_Announces_Results_of_Hong_Kong_Affluent_Study_2019-2020_Eng_final.pdf&quot;&gt;2020 study by Citibank&lt;/a&gt;, only about 1.3% of the population (100,000 individuals) qualify for the status of ‘institutional investor.’ Restricting access to Bitcoin to all other Hong Kong residents comes close to a blanket ban on Bitcoin and is without precedent among FATF members.&lt;/p&gt;
 
-&lt;p&gt;以下是付款按鈕的示例。點擊它！&lt;/p&gt;
+&lt;p&gt;As such, we strictly oppose the Proposal and its definition of “Virtual Assets.” We suggest that instead of delegating a broad and varied field of contracts to a single department, the HKMA, C&amp;amp;ED and SFC each retain jurisdiction over their own respective fields. Any potential future regulatory loopholes or uncertainties can and should be addressed by the relevant departments.&lt;/p&gt;
 
-&lt;form method=&quot;POST&quot; action=&quot;https://btcpay.bitcoin.org.hk/api/v1/invoices&quot; class=&quot;text-center&quot;&gt;
-    &lt;input type=&quot;hidden&quot; name=&quot;storeId&quot; value=&quot;5fv2Vt5WEuLYBzkhFiaDN4r6xy6JdNqTbi3m1mG4ngFa&quot; /&gt;
-    &lt;input type=&quot;hidden&quot; name=&quot;price&quot; value=&quot;10&quot; /&gt;
-    &lt;input type=&quot;hidden&quot; name=&quot;currency&quot; value=&quot;USD&quot; /&gt;
-    &lt;input type=&quot;hidden&quot; name=&quot;browserRedirect&quot; value=&quot;https://www.bitcoin.org.hk/lightning/&quot; /&gt;
-    &lt;input type=&quot;hidden&quot; name=&quot;notifyEmail&quot; value=&quot;btcpay@bitcoin.org.hk&quot; /&gt;
-    &lt;input type=&quot;image&quot; src=&quot;https://btcpay.bitcoin.org.hk/img/paybutton/pay.png&quot; name=&quot;submit&quot; style=&quot;width:209px&quot; alt=&quot;Pay with BtcPay, Self-Hosted Bitcoin Payment Processor&quot; /&gt;
-&lt;/form&gt;
+&lt;h4 id=&quot;submit-your-views&quot;&gt;Submit your views&lt;/h4&gt;
 
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2020/06/btcpay.jpeg&quot; alt=&quot;BTCPay&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;其他支付處理公司&quot;&gt;其他支付處理公司&lt;/h3&gt;
+&lt;p&gt;You are welcome to copy, change or amend the above text and submit it as your own, independent of whether you are an individual or instution and regardless of your affiliation with the Bitcoin Association. If you would like to further go on the record, please write us at &lt;a href=&quot;mailto:info@bitcoin.org.hk&quot;&gt;info@bitcoin.org.hk&lt;/a&gt; with a hyperlink or pdf of your response. We will collect them here:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://commerce.coinbase.com/&quot;&gt;Coinbase commerce&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bitpay.com/&quot;&gt;Bitpay&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.coinpayments.net/index.php&quot;&gt;Coinpayments&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/media/2021/01/consult-bahk.pdf&quot;&gt;Bitcoin Association (as submitted electronically)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ftahk.org/publication/ftahk-response-public-consultation-legislative-proposals-enhance-anti-money-laundering&quot;&gt;Fintech Association&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/posts/ftahkofficial_ftahk-response-to-fstb-public-consultation-activity-6761920931855163392-89rz&quot;&gt;Fintech Association&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/media/2021/01/consult-gdf.pdf&quot;&gt;Global Digital Finance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/media/2021/01/consult-wang.pdf&quot;&gt;Joseph Wang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.bitcoin.org.hk/public-consultation-on-legislative-proposals-ee563d95275&quot;&gt;Leo Weese&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/media/2021/01/consult-anon1.pdf&quot;&gt;Anonymous&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/media/2021/01/consult-npc.pdf&quot;&gt;Group of Fintech Guys&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;聯絡我們&quot;&gt;聯絡我們&lt;/h4&gt;
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
 
-&lt;p&gt;您有興趣接受比特幣付款嗎？您是否有考慮過但遇到問題？您有嘗試將加密貨幣連結到您的業務，但是沒有人使用？電郵至&lt;a href=&quot;mailto:info@bitcoin.org.hk&quot;&gt;info@bitcoin.org.hk&lt;/a&gt;與我們聯繫，我們會盡快回覆！&lt;/p&gt;
+&lt;p&gt;The public consultation concluded in May 2021, the final report was published &lt;a href=&quot;https://www.info.gov.hk/gia/general/202105/21/P2021052100532.htm?fontSize=1&quot;&gt;on 21 May 2021&lt;/a&gt; and &lt;a href=&quot;/media/2021/05/consultation_results.pdf&quot;&gt;can be read here&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/accept-bitcoin/&quot; rel=&quot;nofollow&quot;&gt;現正開始接受比特幣 Start Accepting Bitcoin Now&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;liongrass&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;79 individuals and organizations took part in the consultation, most notably in addition to the above:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Baker &amp;amp; Mckenzie&lt;/li&gt;
+  &lt;li&gt;Diginex Limited&lt;/li&gt;
+  &lt;li&gt;Hashkey Group&lt;/li&gt;
+  &lt;li&gt;HK Bitcoin ATM&lt;/li&gt;
+  &lt;li&gt;Hong Kong Digital Asset Exchange&lt;/li&gt;
+  &lt;li&gt;Hong Kong Virtual Asset Exchange&lt;/li&gt;
+  &lt;li&gt;King &amp;amp; Wood Mallesons&lt;/li&gt;
+  &lt;li&gt;Matrixport&lt;/li&gt;
+  &lt;li&gt;MyEthShop&lt;/li&gt;
+  &lt;li&gt;ONC Lawyers&lt;/li&gt;
+  &lt;li&gt;PricewaterhouseCoopers Limited&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.bitcoin.org.hk/consultation-response-summary-6c1c405e4fb7&quot;&gt;You can read our TLDR here&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2021-consultation-response/&quot; rel=&quot;nofollow&quot;&gt;Consultation Response&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;liongrass&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
 
   </content>
 </entry>
 
 <entry>
-  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
-  <link href="http://localhost:4000/2020-06-monthly-central-meetup/"/>
-  <updated>2020-06-04T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-central-meetup</id>
+  <title>Bitcoin Laisee</title>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//laisee/"/>
+  <updated>2021-01-17T08:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//bitcoin-laisee</id>
   
   <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
+    <name>liongrass</name>
+    <uri>https://r.nametiles.co/liongrass</uri>
   </author>
   
   <content type="html">
-    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
+    &lt;h2 id=&quot;bitcoin-laisee&quot;&gt;Bitcoin Laisee&lt;/h2&gt;
 
-&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+&lt;p&gt;In Hong Kong it is customary to gift money for special occasions, especially Lunar New Year, weddings and births. The cash is typically enclosed in a red envelope (also called red pocket, 紅包, 利是 or 利事). The envelope is gifted, the recipient takes out the cash from the envelope. The Bitcoin Laisee achieves the same experience using LNURL-withdrawal QR codes that can be gifted electronically of physically.&lt;/p&gt;
 
-&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
+&lt;p&gt;Happy year of the bull!&lt;/p&gt;
 
-&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2021/01/laisee.jpg&quot; alt=&quot;Bitcoin Laisee&quot; /&gt;&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9143813991827!2d114.15326731495443!3d22.28123288533352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340401e643303b33%3A0x55b3eeb92b1d0cf4!2sBootleggers%20Hong%20Kong!5e0!3m2!1sen!2shk!4v1591251617632!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; aria-hidden=&quot;false&quot; tabindex=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;h3 id=&quot;redeeming-your-bitcoin-laisee&quot;&gt;Redeeming Your Bitcoin Laisee&lt;/h3&gt;
 
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;To redeem your Laisee, you need a Lightning wallet that supports LNURL-withdrawal, such as &lt;a href=&quot;https://breez.technology/&quot;&gt;Breez&lt;/a&gt;, &lt;a href=&quot;https://lightning-wallet.com/&quot;&gt;BLW&lt;/a&gt;, &lt;a href=&quot;https://bluewallet.io/&quot;&gt;Bluewallet&lt;/a&gt;, &lt;a href=&quot;https://www.walletofsatoshi.com/&quot;&gt;Wallet of Satoshi&lt;/a&gt; or &lt;a href=&quot;https://phoenix.acinq.co/&quot;&gt;Phoenix&lt;/a&gt;. You can find &lt;a href=&quot;https://github.com/fiatjaf/awesome-lnurl/#wallets&quot;&gt;a complete list here.&lt;/a&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-06-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Simply scan the QR code of your Bitcoin Laisee. You are shown the amount you are able to withdraw. Confirm, and the funds should appear in your wallet.&lt;/p&gt;
 
-  </content>
-</entry>
+&lt;p&gt;&lt;em&gt;Have you received a Bitcoin Laisee and have trouble redeeming it? &lt;a href=&quot;/2020-new-chats/&quot;&gt;Join our Bitcoin helpdesk on Telegram&lt;/a&gt; or write us at &lt;a href=&quot;mailto:helpdesk@bitcoin.org.hk&quot;&gt;helpdesk@bitcoin.org.hk&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-<entry>
-  <title>Virtual Bitcoin Halving Party</title>
-  <link href="http://localhost:4000/2020-05-halving/"/>
-  <updated>2020-05-12T09:00:00+08:00</updated>
-  <id>http://localhost:4000/bitcoin-halving-party</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;virtual-bitcoin-halving-party&quot;&gt;Virtual Bitcoin Halving Party&lt;/h2&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Uok4k0jQ0Vw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;This event will be held virtually. Anyone is free to join the 21h live stream.&lt;/p&gt;
+&lt;h3 id=&quot;making-your-own-bitcoin-laisee&quot;&gt;Making Your Own Bitcoin Laisee&lt;/h3&gt;
 
-&lt;p&gt;When Bitcoin was created, miners were awarded 50 bitcoin per block. Every 210,000 blocks (roughly four years) this block subsidy is dropped in half. Around May 12, we this amount will be ‘halved’ for the third time to 6.25 BTC. &lt;a href=&quot;https://bitcoinmagazine.com/guides/what-is-the-halvening&quot;&gt;You can read more about the halving here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you would like to make your own Bitcoin Laisee, you are welcome to do so and we are happy to share how we did it.&lt;/p&gt;
 
-&lt;p&gt;We invite you to join this commemoration &lt;a href=&quot;https://www.bitcoinhalving.com/speakers&quot;&gt;with our friends from Bitcoin Magazine and all over the world&lt;/a&gt;. You can submit your own content ideas &lt;a href=&quot;https://www.bitcoinhalving.com/submission&quot;&gt;here&lt;/a&gt;, too.&lt;/p&gt;
+&lt;h4 id=&quot;use-lnbits&quot;&gt;Use LNbits&lt;/h4&gt;
 
-&lt;p&gt;Language: English&lt;/p&gt;
+&lt;p&gt;We are using LNbits to create our Bitcoin Laisee. You can make use of &lt;a href=&quot;https://bits.bitcoin.org.hk/&quot;&gt;our LNbits installation&lt;/a&gt;, &lt;a href=&quot;https://lnbits.com/&quot;&gt;or use the offical service&lt;/a&gt;. You can also &lt;a href=&quot;https://lnbits.org/&quot;&gt;install LNbits yourself&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-05-halving/&quot; rel=&quot;nofollow&quot;&gt;Virtual Bitcoin Halving Party&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Simply navigate to the front page, give your wallet a name and ‘add a new wallet.’&lt;/p&gt;
+
+&lt;p&gt;Under ‘Manage extensions’ you can enable LNURLw.&lt;/p&gt;
+
+&lt;p&gt;In LNbits you can find your wallet in the top left corner. You will need to fund it using a Lightning wallet. Simply ‘Create Invoice’ and set an amount. Pay the invoice with your Lightning wallet and the funds will appear in your LNbits wallet. You should deposit enough Satoshi into the wallet for your Bitcoin Laisee, e.g. the amount of Laisee you want to create multiplied with the amount of Satoshi per Laisee. You can add more funds to the wallet later anytime.&lt;/p&gt;
+
+&lt;h4 id=&quot;generate-laisee-qr-codes&quot;&gt;Generate Laisee QR codes&lt;/h4&gt;
+
+&lt;p&gt;You can create Laisee manually in LNbits by navigating to the LNURLw extension, then selecting ‘Quick Voucher.’ Choose your wallet, select the withdrawal amount and set the ‘number of vouchers’ to 1. Please note that even when choosing ‘number of vouchers’ to be larger than 1, this will still only create a single voucher, yet will allow the recipient to withdraw more than once from the QR code.&lt;/p&gt;
+
+&lt;p&gt;We have created a simple Python script for you to create more than one Bitcoin Laisee at a time. &lt;a href=&quot;https://github.com/liongrass/lntools&quot;&gt;You can find it here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The script will return a list of urls as well as lightning invoices, beginning with LN. You can navigate to the urls manually and copy the QR code, or generate them manually from the lightning invoices. We recommend you convert the invoices to lower case for maximum compatibility with lightning wallets.&lt;/p&gt;
+
+&lt;h4 id=&quot;print-laisee-qr-codes&quot;&gt;Print Laisee QR codes&lt;/h4&gt;
+
+&lt;p&gt;Our Bitcoin Laisee are printed on sticker labels found in a stationary shop. They are stuck on an explanatory note printed similarly to business cards on 250g matt laminated paper. You can find the template here (&lt;a href=&quot;/media/2021/01/card_front.pdf&quot;&gt;front&lt;/a&gt;, &lt;a href=&quot;/media/2021/01/card_back.pdf&quot;&gt;back&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h4 id=&quot;get-red-pockets&quot;&gt;Get Red Pockets&lt;/h4&gt;
+
+&lt;p&gt;You can find red pockets in any well sorted stationary shop. You can alternatively buy Bitcoin-themed Laisee &lt;a href=&quot;https://toofreetofail.com/collections/too-free-to-fail/products/bitcoin-red-pocket-laisee-with-bull-design-10pc&quot;&gt;at Too Free To Fail&lt;/a&gt; or pick some up from &lt;a href=&quot;https://twitter.com/genesisblockhk/status/1350011878420971521&quot;&gt;Genesis Block&lt;/a&gt; or reprint our &lt;a href=&quot;/media/2021/01/laisee.pdf&quot;&gt;template&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Do you have trouble making your own Bitcoin Laisee? &lt;a href=&quot;/2020-new-chats/&quot;&gt;Join our Bitcoin helpdesk on Telegram&lt;/a&gt; or write us at &lt;a href=&quot;mailto:helpdesk@bitcoin.org.hk&quot;&gt;helpdesk@bitcoin.org.hk&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;acknowledgements&quot;&gt;Acknowledgements&lt;/h3&gt;
+
+&lt;p&gt;Thank you to the countless teams working on the Lightning Network, specifically LND, the team at LNbits as well as Bitcarrot.&lt;/p&gt;
+
+&lt;h4 id=&quot;more-laisee&quot;&gt;More Laisee&lt;/h4&gt;
+
+&lt;p&gt;Want us to make more Laisee? You can use the lnurl-pay link below to re-fill our wallet!&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2021/01/lnurl.png&quot; alt=&quot;Laisee Donation URL&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;lnurl1dp68gurn8ghj7cnfw3ejucnfw33k76tw9ehhyeewdp4j7mrww4excup0v9cxjtmkxyhkcmn4wfkz7dqlfeksr&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//laisee/&quot; rel=&quot;nofollow&quot;&gt;Bitcoin Laisee&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;liongrass&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
 
   </content>
 </entry>
 
 <entry>
   <title>Online Bitcoin Meetup 網上比特幣聚會</title>
-  <link href="http://localhost:4000/2020-05-monthly-online-meetup/"/>
-  <updated>2020-05-07T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-online-meetup</id>
+  <link href="https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2020-12-monthly-online-meetup/"/>
+  <updated>2020-12-17T20:00:00+08:00</updated>
+  <id>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//monthly-online-meetup</id>
   
   <author>
     <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//</uri>
     <email>info@bitcoin.org.hk</email>
   </author>
   
@@ -351,13 +1149,6 @@
 &lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/JJqWphmYlzGKNCxknEoMSw&quot;&gt;Join the Telegram group&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Language: English&lt;/p&gt;
-
-&lt;p&gt;Topics:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Isolation updates&lt;/li&gt;
-  &lt;li&gt;People’s Bank of China: DCEP, Stablecoin, Libra&lt;/li&gt;
-  &lt;li&gt;Bitcoin halving&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;p&gt;Our monthly casual Bitcoin meetup. Stay at home, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
 
@@ -380,653 +1171,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-05-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Online Bitcoin Meetup 網上比特幣聚會</title>
-  <link href="http://localhost:4000/2020-04-monthly-online-meetup-2/"/>
-  <updated>2020-04-23T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-online-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;online-bitcoin-meetup-網上比特幣聚會&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/h2&gt;
-
-&lt;p&gt;This meetup will be held virtually. Anyone is free to join.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;meet.jit.si/Bitcoin&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/JJqWphmYlzGKNCxknEoMSw&quot;&gt;Join the Telegram group&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Language: English&lt;/p&gt;
-
-&lt;p&gt;Topics:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Isolation updates&lt;/li&gt;
-  &lt;li&gt;People’s Bank of China: DCEP, Stablecoin, Libra&lt;/li&gt;
-  &lt;li&gt;Bitcoin halving&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Stay at home, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;今次係網上聚會。我哋將會公佈詳情，敬請留意。我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;这次是网络聚会。我们快将公告详情，敬请注意。我们每月一次的比特币聚会。於人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;p&gt;Event rules:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Chatham House&lt;/li&gt;
-  &lt;li&gt;Respecting other’s privacy&lt;/li&gt;
-  &lt;li&gt;Use the chat, give feedback, contribute&lt;/li&gt;
-  &lt;li&gt;Face and voice optional&lt;/li&gt;
-  &lt;li&gt;Mute yourself when you’re not speaking&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;Play Store&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://apps.apple.com/app/jitsi-meet/id1165103905&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-04-monthly-online-meetup-2/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Online Bitcoin Meetup 網上比特幣聚會</title>
-  <link href="http://localhost:4000/2020-04-monthly-online-meetup/"/>
-  <updated>2020-04-02T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-online-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;online-bitcoin-meetup-網上比特幣聚會&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/h2&gt;
-
-&lt;p&gt;This meetup will be held virtually. Anyone is free to join.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/Bitcoin&quot;&gt;meet.jit.si/Bitcoin&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/JJqWphmYlzGKNCxknEoMSw&quot;&gt;Join the Telegram group&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Language: English&lt;/p&gt;
-
-&lt;p&gt;Topics:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Isolation updates&lt;/li&gt;
-  &lt;li&gt;People’s Bank of China: DCEP, Stablecoin, Libra&lt;/li&gt;
-  &lt;li&gt;Bitcoin halving&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Stay at home, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;今次係網上聚會。我哋將會公佈詳情，敬請留意。我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;这次是网络聚会。我们快将公告详情，敬请注意。我们每月一次的比特币聚会。於人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;p&gt;Event rules:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Chatham House&lt;/li&gt;
-  &lt;li&gt;Respecting other’s privacy&lt;/li&gt;
-  &lt;li&gt;Use the chat, give feedback, contribute&lt;/li&gt;
-  &lt;li&gt;Face and voice optional&lt;/li&gt;
-  &lt;li&gt;Mute yourself when you’re not speaking&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.jitsi.meet&quot;&gt;Play Store&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jitsi meet on the &lt;a href=&quot;https://apps.apple.com/app/jitsi-meet/id1165103905&quot;&gt;App Store&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://meet.jit.si/&quot;&gt;Jitsi meet on the web (recommended)&lt;/a&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-04-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
-  <link href="http://localhost:4000/2020-03-monthly-central-meetup/"/>
-  <updated>2020-03-17T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-central-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9442603906236!2d114.15350731495433!3d22.28010118533407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007ad364f173%3A0x8062493c0c75030f!2sFringe%20Colette&amp;#39;s!5e0!3m2!1sen!2shk!4v1583731450196!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-03-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Crypto Assets Conference</title>
-  <link href="http://localhost:4000/2020-cac2020/"/>
-  <updated>2020-03-09T09:00:00+08:00</updated>
-  <id>http://localhost:4000/cac2020</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;crypto-assets-conference-2020&quot;&gt;&lt;a href=&quot;https://crypto-assets-conference.de/&quot;&gt;Crypto Assets Conference 2020&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;On 9/10 March 2020, the Frankfurt School Blockchain Center is organizing the Crypto Asset Conference on the campus of the Frankfurt School of Finance &amp;amp; Management for the third time. Blockchain technology was born through the invention of Bitcoin and has since then created hundreds of digital assets and spurred the development of business models building on decentralized networks. The conference covers both the public blockchain (crypto assets) and the enterprise blockchain domain (DLT). CAC20 makes the audience familiar with the current trends in DLT, blockchain and crypto assets:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Custody of digital assets, Bitcoin and other crypto assets, token protocols, decentralized finance (DeFi)&lt;/li&gt;
-  &lt;li&gt;Blueprint DLT-based capital market, tokenized securities, securitized tokens (ETFs)&lt;/li&gt;
-  &lt;li&gt;Digital euro, tokenizations of cash flows, machine-2-machine payment processes&lt;/li&gt;
-  &lt;li&gt;Investors’/VCs preferences, security tokens&lt;/li&gt;
-  &lt;li&gt;Regulatory developments in Germany (new crypto law, blockchain strategy) and the Liechtenstein Blockchain Act.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class=&quot;text-center&quot;&gt;&lt;a href=&quot;https://crypto-assets-conference.de/&quot;&gt;&lt;img src=&quot;/media/2020/03/cac2020.PNG&quot; alt=&quot;SPOT Conference&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Prof. Dr. Philipp Sandner, Head of the Frankfurt School Blockchain Center describes the aim of the event:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“As in the previous years, our conference in March 2020 aims to bring together leading experts, thought leaders, founders and decision makers to jointly shape the future of Blockchain, Crypto Assets and DLT. In addition to the European Central Bank, the European Commission and BaFin, the most important protagonists from corporations and start-ups that Germany has to offer will be guests at the conference.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Participants will get firsthand insights on the latest market developments, trends &amp;amp; research results, completed with valuable discussions and a networking platform that brings together established &amp;amp; new market participants in a professional context.&lt;/p&gt;
-
-&lt;p&gt;In 2020, the hot topics of the blockchain world will again be discussed and debated by renowned speakers, including:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dirk Bullmann, European Central Bank (ECB)&lt;/li&gt;
-  &lt;li&gt;Joachim Schwerin, European Commission&lt;/li&gt;
-  &lt;li&gt;Jacek Czarnecki, Maker DAO&lt;/li&gt;
-  &lt;li&gt;Dr. Günther Dobrauz, PwC&lt;/li&gt;
-  &lt;li&gt;Michael Spitz, Commerzbank&lt;/li&gt;
-  &lt;li&gt;Thomas Dünser, Regierung Liechtenstein (Government Liechtenstein)&lt;/li&gt;
-  &lt;li&gt;Alexander Höptner, Börse Stuttgart&lt;/li&gt;
-  &lt;li&gt;Dr. Ulli Spankowski, BISON&lt;/li&gt;
-  &lt;li&gt;Mauro Casellini, Bitcoin Suisse&lt;/li&gt;
-  &lt;li&gt;Simon Seiter, Deutsche Boerse&lt;/li&gt;
-  &lt;li&gt;Mike Ward, R3&lt;/li&gt;
-  &lt;li&gt;Felix Holtermann, Handelsblatt&lt;/li&gt;
-  &lt;li&gt;Dr. Harry Behrens, Daimler&lt;/li&gt;
-  &lt;li&gt;Rudolf Siebel, BVI (German Fund Association)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;topics-of-the-conference&quot;&gt;Topics of the conference&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Crypto assets&lt;/strong&gt;: How important will digital assets be in the future and how will digital property rights influence mass adaptation? &lt;br /&gt;
-&lt;strong&gt;Investment&lt;/strong&gt;: Should investment funds consider digital assets in their investment strategy? In what form should this be done?  &lt;br /&gt;
-&lt;strong&gt;Securitization&lt;/strong&gt;: How is securitization via block chain or distributed ledger technologies (DLT) carried out? What is the status quo in the financial market - primary vs. secondary market? &lt;br /&gt;
-&lt;strong&gt;Cash-on-ledger&lt;/strong&gt;: Digital Euro (CBDC) vs. Libra vs. digital Yuan - opportunities, risks and challenges. &lt;br /&gt;
-&lt;strong&gt;Token issuance and regulation&lt;/strong&gt;: How should different types of tokens be regulated &amp;amp; which strategy should a jurisdiction choose to position themself as a winner, especially with regard to the innovative “Liechtenstein Blockchain Act”? &lt;br /&gt;
-&lt;strong&gt;Asset management&lt;/strong&gt;: How do traditional financial institutions view the advance of crypto-custody regulations and what new business models are available for asset managers and brokers?  &lt;br /&gt;
-&lt;strong&gt;Venture capital&lt;/strong&gt;: Will STOs and tokens redefine traditional venture capital?  &lt;br /&gt;
-&lt;strong&gt;Start-ups&lt;/strong&gt;: Which block-chain start-ups should you keep an eye on?&lt;/p&gt;
-
-&lt;p&gt;300+ participants are expected on this outstanding event.
-Tickets can be purchased via this &lt;a href=&quot;https://www.eventbrite.de/e/crypto-assets-conference-2020-tickets-64173275996?aff=ebdssbdestsearch&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For speaking, collaboration or questions, please contact &lt;a href=&quot;mailto: hi@crypto-assets-conference.de&quot;&gt;hi@crypto-assets-conference.de&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2557.506598762753!2d8.678631615719924!3d50.132954079432835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd0ecc1ce6c2af%3A0x3e0778828d7e65f9!2sFrankfurt%20School%20of%20Finance%20%26%20Management!5e0!3m2!1sen!2shk!4v1583733527235!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-cac2020/&quot; rel=&quot;nofollow&quot;&gt;Crypto Assets Conference&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
-  <link href="http://localhost:4000/2020-02-monthly-central-meetup-2/"/>
-  <updated>2020-02-28T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-central-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.90750878979!2d114.15130031495434!3d22.281493185333307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b0f81bdfd%3A0xa6adad8d25123f98!2sCraft%20Brew%20%26%20Co.!5e0!3m2!1sen!2shk!4v1570515426151!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-02-monthly-central-meetup-2/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
-  <link href="http://localhost:4000/2020-02-monthly-central-meetup/"/>
-  <updated>2020-02-06T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-central-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.90750878979!2d114.15130031495434!3d22.281493185333307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b0f81bdfd%3A0xa6adad8d25123f98!2sCraft%20Brew%20%26%20Co.!5e0!3m2!1sen!2shk!4v1570515426151!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-02-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
-  <link href="http://localhost:4000/2020-01-monthly-central-meetup/"/>
-  <updated>2020-01-07T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-central-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.90750878979!2d114.15130031495434!3d22.281493185333307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b0f81bdfd%3A0xa6adad8d25123f98!2sCraft%20Brew%20%26%20Co.!5e0!3m2!1sen!2shk!4v1570515426151!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2020-01-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Bitcoin Block Party</title>
-  <link href="http://localhost:4000/2019-bitcoin-block-party/"/>
-  <updated>2019-12-05T19:00:00+08:00</updated>
-  <id>http://localhost:4000/bitcoin-block-party</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;bitcoin-block-party&quot;&gt;Bitcoin Block Party&lt;/h2&gt;
-
-&lt;p&gt;Nothing can stop Bitcoin! You are welcome to join us celebrating 53’000 new blocks being added to the Bitcoin Blockchain in 2019.
-Join us for pizza, pasta and other delicacies to celebrate another successful year.&lt;/p&gt;
-
-&lt;p&gt;Tickets include free flow of food and two drinks.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Prebook now with Bitcoin/Lightning: &lt;strong&gt;HK$50&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Get your ticket on the spot with cash: HK$200&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;/join&quot;&gt;Free for members of the Bitcoin Association.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pre-registration his now open. We have limited space available.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;buy-a-ticket&quot;&gt;Buy a Ticket&lt;/h4&gt;
-&lt;div&gt;
-  &lt;form method=&quot;POST&quot; action=&quot;https://btcpay.bitcoin.org.hk/apps/3Qwmbn2F7Ftc62eRgizKPgzU38rK/pos&quot;&gt;
-  &lt;input type=&quot;hidden&quot; name=&quot;amount&quot; value=&quot;50&quot; /&gt;
-  &lt;input type=&quot;hidden&quot; name=&quot;orderId&quot; value=&quot;Ticket&quot; /&gt;
-  &lt;input type=&quot;hidden&quot; name=&quot;notificationUrl&quot; value=&quot;/2019-12-bitcoin-bubble-bash/&quot; /&gt;
-  &lt;input type=&quot;text&quot; name=&quot;email&quot; placeholder=&quot;Your Email Address&quot; /&gt;
-  &lt;button class=&quot;BTCPayButton&quot; type=&quot;submit&quot;&gt;Ticket: $50&lt;/button&gt;
-	&lt;/form&gt;
-&lt;/div&gt;
-
-&lt;h4 id=&quot;location&quot;&gt;Location&lt;/h4&gt;
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.8673065926673!2d114.15026435096536!3d22.28301578526057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b9b5c0001%3A0xa80f0e22d61e16a4!2sThe%20Italian%20Club%20Wine%20Bar%20Steak%20House%20Pizza%20Gourmet!5e0!3m2!1sen!2shk!4v1573806211111!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2019-bitcoin-block-party/&quot; rel=&quot;nofollow&quot;&gt;Bitcoin Block Party&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
-  <link href="http://localhost:4000/2019-11-monthly-central-meetup/"/>
-  <updated>2019-11-07T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-central-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.90750878979!2d114.15130031495434!3d22.281493185333307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b0f81bdfd%3A0xa6adad8d25123f98!2sCraft%20Brew%20%26%20Co.!5e0!3m2!1sen!2shk!4v1570515426151!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2019-11-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
-  <link href="http://localhost:4000/2019-10-monthly-central-meetup/"/>
-  <updated>2019-10-03T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-central-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.90750878979!2d114.15130031495434!3d22.281493185333307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b0f81bdfd%3A0xa6adad8d25123f98!2sCraft%20Brew%20%26%20Co.!5e0!3m2!1sen!2shk!4v1570515426151!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2019-10-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Devs Meetup</title>
-  <link href="http://localhost:4000/2019-09-devs-meetup/"/>
-  <updated>2019-09-26T19:00:00+08:00</updated>
-  <id>http://localhost:4000/devs-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;amir-taaki-on-the-darktech-renaissance&quot;&gt;Amir Taaki on the DarkTech Renaissance&lt;/h2&gt;
-
-&lt;p&gt;The original dream of cryptocurrency exposing power, replacing finance and ushering new forms of social organization is yet to materialize. Faced with this failure, instead of reorientating their strategy, crypto orgs keep throwing ever huger amounts of capital, leading to massive corruption and misallocation of capital. It is unsustainable.&lt;/p&gt;
-
-&lt;p&gt;What possibilites exist in the market today? How can we leverage black markets such as Venezuela or Syria for spreading cryptocurrency? What can we do differently? The crypto orgs today are simply doing random things. They lack any coherent strategy. They cannot connect the dots, and are purely focused on mechanisms and techniques.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YD5htYPcVqE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;This talk will also explore anonymization techniques to create anonymous crypto-systems and solve scalability. These systems can create markets which empower humans to work together at scale and solve the centralizing problems of corporations and the state.&lt;/p&gt;
-
-&lt;p&gt;The paradigm of computing has not changed in over 50 years. Devices have become faster and smaller, but are stuck on a linear path. The paradigm has become stagnant and is desperate for reinvention.&lt;/p&gt;
-
-&lt;p&gt;We need to create a modern paradigm of technology as more than consumer products, but as integral social infrastructure. For this we must create the idea of the renaissance hacker and spread our philosophy through a system of academies which train people in sports, philosophy and technology. These centers serve as generative centers of thought and invention. And the concepts we create, must then be turned into practical products which serve a market need and bring income to expand our mission.&lt;/p&gt;
-
-&lt;p&gt;Our goal is to develop the platform that will deliver the dark economy by leveraging emerging anonymous techniques for innovative decentralized &amp;amp; dark financial products. We are firmly committed to transitioning humanity to the non-state ethical-philosophical paradigm through markets and technology.&lt;/p&gt;
-
-&lt;p&gt;Speaker: Amir Taaki
-Amir has spent 15 years as an open source developer and systems dev specializing in async and crypto algorithms. He currently works on anonymous mix nets and crypto wallets. He created the first alt implementation of Bitcoin with the fastest blockchain, was the lead for Electrum in 2011, created Dark Wallet, started the Bitcoin BIP process and founded a UK Bitcoin exchange which had the 2nd biggest market by volume in 2012 before it was forcibly closed by the banks.&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2019-09-devs-meetup/&quot; rel=&quot;nofollow&quot;&gt;Devs Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Kowloon Bitcoin Meetup 九龍比特幣聚會</title>
-  <link href="http://localhost:4000/2019-09-monthly-kowloon-meetup/"/>
-  <updated>2019-09-24T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-kowloon-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;How to get there:
-Prosit Bar &amp;amp; Restaurant
-1/F, Honytex Building, 22 Ashley Road, Tsim Sha Tsui
-尖沙咀亞士厘道22號好利時大廈1樓&lt;/p&gt;
-
-&lt;p&gt;Note: The restaurant is on the upper (1st) floor - walk up the stairs and make a U-Turn to the right. If in doubt ask the staff about the “Bitcoin Meetup”.&lt;/p&gt;
-
-&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;我们每月一次的比特币聚会。於人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.491047077142!2d114.16842021495464!3d22.297261285325128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34040122ae66f935%3A0x3adde3ac9c0a89e1!2sProsit%20Bar%20%26%20Restaurant!5e0!3m2!1sen!2shk!4v1570515328473!5m2!1sen!2shk&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2019-09-monthly-kowloon-meetup/&quot; rel=&quot;nofollow&quot;&gt;Kowloon Bitcoin Meetup 九龍比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
-  <link href="http://localhost:4000/2019-09-monthly-central-meetup/"/>
-  <updated>2019-09-03T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-central-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9013802835693!2d114.1532278!3d22.281725299999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b0f2b3a99%3A0x58d0fc2959e411b5!2sLotus+Modern+Thai!5e0!3m2!1sen!2sus!4v1554802325357!5m2!1sen!2sus&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2019-09-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
-  <link href="http://localhost:4000/2018-08-monthly-central-meetup/"/>
-  <updated>2019-08-06T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-central-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9013802835693!2d114.1532278!3d22.281725299999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b0f2b3a99%3A0x58d0fc2959e411b5!2sLotus+Modern+Thai!5e0!3m2!1sen!2sus!4v1554802325357!5m2!1sen!2sus&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2018-08-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>SPOT</title>
-  <link href="http://localhost:4000/2019-spot/"/>
-  <updated>2019-07-29T09:00:00+08:00</updated>
-  <id>http://localhost:4000/spot</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;spot-conference&quot;&gt;SPOT Conference&lt;/h2&gt;
-
-&lt;p&gt;250 decision makers from the world’s leading bitcoin, cryptocurrency and token exchanges are coming together at SPOT 2018 to discuss collaboration, industry standards, technology and regulation.&lt;/p&gt;
-
-&lt;p&gt;For speaking, collaboration or questions, please contact &lt;a href=&quot;mailto:july23@spotconf.com&quot;&gt;july29@spotconf.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3691.8486590600755!2d114.158197!3d22.283722!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc36c3967db819c4c!2z5Lqk5piT5omA5bGV6Ka96aSo!5e0!3m2!1sen!2shk!4v1529072953297&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p class=&quot;text-center&quot;&gt;&lt;a href=&quot;https://www.spotconf.com/&quot;&gt;&lt;img src=&quot;/media/2018/07/SPOT_logo.png&quot; alt=&quot;SPOT Conference&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2019-spot/&quot; rel=&quot;nofollow&quot;&gt;SPOT&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Central Bitcoin Meetup 中環比特幣聚會</title>
-  <link href="http://localhost:4000/2018-07-monthly-central-meetup/"/>
-  <updated>2019-07-02T19:00:00+08:00</updated>
-  <id>http://localhost:4000/monthly-central-meetup</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h2 id=&quot;central-bitcoin-meetup-中環比特幣聚會&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/h2&gt;
-
-&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
-
-&lt;p&gt;我哋每個月一次嘅吹水比特幣(Bitcoin)聚會。人群中相聚、飲杯嘢、食吓嘢、八卦吓區塊鏈(Blockchain)啲料。&lt;/p&gt;
-
-&lt;p&gt;我们每月一次的比特币聚会。于人群里相聚丶喝的吃的丶了解区块链的事情。&lt;/p&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9013802835693!2d114.1532278!3d22.281725299999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b0f2b3a99%3A0x58d0fc2959e411b5!2sLotus+Modern+Thai!5e0!3m2!1sen!2sus!4v1554802325357!5m2!1sen!2sus&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p class=&quot;text-center&quot;&gt;&lt;img src=&quot;/media/2017/01/accepted.png&quot; alt=&quot;Bitcoin Accepted Here&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2018-07-monthly-central-meetup/&quot; rel=&quot;nofollow&quot;&gt;Central Bitcoin Meetup 中環比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
-
-  </content>
-</entry>
-
-<entry>
-  <title>Crypto Career Day 2019</title>
-  <link href="http://localhost:4000/2019-career-day/"/>
-  <updated>2019-06-15T14:00:00+08:00</updated>
-  <id>http://localhost:4000/career-day</id>
-  
-  <author>
-    <name>香港比特幣協會</name>
-    <uri>http://localhost:4000/</uri>
-    <email>info@bitcoin.org.hk</email>
-  </author>
-  
-  <content type="html">
-    &lt;h3 id=&quot;crypto-career-day-2019&quot;&gt;Crypto Career Day 2019&lt;/h3&gt;
-
-&lt;p&gt;Date: &lt;strong&gt;June 15, 2019 14:00 - 19:00&lt;/strong&gt;   &lt;br /&gt;
-Location: Garage Society, 4/F, &lt;strong&gt;93 Lockhart Road, Wan Chai&lt;/strong&gt;, Hong Kong   &lt;br /&gt;
-(Short walk from &lt;strong&gt;Exit A1, Wan Chai&lt;/strong&gt;)&lt;/p&gt;
-
-&lt;p&gt;Crypto Career Day is an event for those who are considering a career in Bitcoin, Cryptocurrencies or Blockchain. No matter if you are at the beginning of your career or are considering to change your path, at the Crypto Career Day you will be able to find professionals and companies to engage with.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.cryptocareer.hk/&quot;&gt;https://www.cryptocareer.hk/&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;schedule&quot;&gt;Schedule&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;14:00 Event starts&lt;/li&gt;
-  &lt;li&gt;14:30 Raman Shalupau (Cryptojoblist.com): The Blockchain Industry - Skills, opportunities and challenges&lt;/li&gt;
-  &lt;li&gt;17:00 Julian Beltran: Being an independent trader&lt;/li&gt;
-  &lt;li&gt;17:30 Bryan Cheung (Horangi), Clement Ip (Genesis Block), Dominique Frances (Bitcoin Association), Elliot Hoffman (Paxful): Working in the Bitcoin industry&lt;/li&gt;
-  &lt;li&gt;18:00 Drinks and snacks&lt;/li&gt;
-  &lt;li&gt;19:00 Event ends&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14767.437764230222!2d114.16268035739651!3d22.28331366945022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x852f3124641b51c8!2sGarage+Wan+Chai!5e0!3m2!1sen!2shk!4v1526045730244&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p class=&quot;text-center&quot;&gt;&lt;a href=&quot;http://www.thegaragesociety.com/&quot;&gt;&lt;img src=&quot;/media/2017/05/garagesociety.png&quot; alt=&quot;Garage Society&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2019-career-day/&quot; rel=&quot;nofollow&quot;&gt;Crypto Career Day 2019&lt;/a&gt; was originally published by &lt;a href=&quot;http://localhost:4000/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;http://localhost:4000&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//2020-12-monthly-online-meetup/&quot; rel=&quot;nofollow&quot;&gt;Online Bitcoin Meetup 網上比特幣聚會&lt;/a&gt; was originally published by &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g//about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/&quot; rel=&quot;nofollow&quot;&gt;香港比特幣協會&lt;/a&gt;.&lt;/p&gt;
 
   </content>
 </entry>

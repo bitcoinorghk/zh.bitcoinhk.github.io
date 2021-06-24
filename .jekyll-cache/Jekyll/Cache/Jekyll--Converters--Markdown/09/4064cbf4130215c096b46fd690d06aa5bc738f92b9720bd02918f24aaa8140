@@ -1,0 +1,62 @@
+I"z<h2 id="bitcoin-laisee">Bitcoin Laisee</h2>
+
+<p>In Hong Kong it is customary to gift money for special occasions, especially Lunar New Year, weddings and births. The cash is typically enclosed in a red envelope (also called red pocket, 紅包, 利是 or 利事). The envelope is gifted, the recipient takes out the cash from the envelope. The Bitcoin Laisee achieves the same experience using LNURL-withdrawal QR codes that can be gifted electronically of physically.</p>
+
+<p>Happy year of the bull!</p>
+
+<p class="text-center"><img src="/media/2021/01/laisee.jpg" alt="Bitcoin Laisee" /></p>
+
+<h3 id="redeeming-your-bitcoin-laisee">Redeeming Your Bitcoin Laisee</h3>
+
+<p>To redeem your Laisee, you need a Lightning wallet that supports LNURL-withdrawal, such as <a href="https://breez.technology/">Breez</a>, <a href="https://lightning-wallet.com/">BLW</a>, <a href="https://bluewallet.io/">Bluewallet</a>, <a href="https://www.walletofsatoshi.com/">Wallet of Satoshi</a> or <a href="https://phoenix.acinq.co/">Phoenix</a>. You can find <a href="https://github.com/fiatjaf/awesome-lnurl/#wallets">a complete list here.</a></p>
+
+<p>Simply scan the QR code of your Bitcoin Laisee. You are shown the amount you are able to withdraw. Confirm, and the funds should appear in your wallet.</p>
+
+<p><em>Have you received a Bitcoin Laisee and have trouble redeeming it? <a href="/2020-new-chats/">Join our Bitcoin helpdesk on Telegram</a> or write us at <a href="mailto:helpdesk@bitcoin.org.hk">helpdesk@bitcoin.org.hk</a></em></p>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Uok4k0jQ0Vw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h3 id="making-your-own-bitcoin-laisee">Making Your Own Bitcoin Laisee</h3>
+
+<p>If you would like to make your own Bitcoin Laisee, you are welcome to do so and we are happy to share how we did it.</p>
+
+<h4 id="use-lnbits">Use LNbits</h4>
+
+<p>We are using LNbits to create our Bitcoin Laisee. You can make use of <a href="https://bits.bitcoin.org.hk/">our LNbits installation</a>, <a href="https://lnbits.com/">or use the offical service</a>. You can also <a href="https://lnbits.org/">install LNbits yourself</a>.</p>
+
+<p>Simply navigate to the front page, give your wallet a name and ‘add a new wallet.’</p>
+
+<p>Under ‘Manage extensions’ you can enable LNURLw.</p>
+
+<p>In LNbits you can find your wallet in the top left corner. You will need to fund it using a Lightning wallet. Simply ‘Create Invoice’ and set an amount. Pay the invoice with your Lightning wallet and the funds will appear in your LNbits wallet. You should deposit enough Satoshi into the wallet for your Bitcoin Laisee, e.g. the amount of Laisee you want to create multiplied with the amount of Satoshi per Laisee. You can add more funds to the wallet later anytime.</p>
+
+<h4 id="generate-laisee-qr-codes">Generate Laisee QR codes</h4>
+
+<p>You can create Laisee manually in LNbits by navigating to the LNURLw extension, then selecting ‘Quick Voucher.’ Choose your wallet, select the withdrawal amount and set the ‘number of vouchers’ to 1. Please note that even when choosing ‘number of vouchers’ to be larger than 1, this will still only create a single voucher, yet will allow the recipient to withdraw more than once from the QR code.</p>
+
+<p>We have created a simple Python script for you to create more than one Bitcoin Laisee at a time. <a href="https://github.com/liongrass/lntools">You can find it here</a>.</p>
+
+<p>The script will return a list of urls as well as lightning invoices, beginning with LN. You can navigate to the urls manually and copy the QR code, or generate them manually from the lightning invoices. We recommend you convert the invoices to lower case for maximum compatibility with lightning wallets.</p>
+
+<h4 id="print-laisee-qr-codes">Print Laisee QR codes</h4>
+
+<p>Our Bitcoin Laisee are printed on sticker labels found in a stationary shop. They are stuck on an explanatory note printed similarly to business cards on 250g matt laminated paper. You can find the template here (<a href="/media/2021/01/card_front.pdf">front</a>, <a href="/media/2021/01/card_back.pdf">back</a>).</p>
+
+<h4 id="get-red-pockets">Get Red Pockets</h4>
+
+<p>You can find red pockets in any well sorted stationary shop. You can alternatively buy Bitcoin-themed Laisee <a href="https://toofreetofail.com/collections/too-free-to-fail/products/bitcoin-red-pocket-laisee-with-bull-design-10pc">at Too Free To Fail</a> or pick some up from <a href="https://twitter.com/genesisblockhk/status/1350011878420971521">Genesis Block</a> or reprint our <a href="/media/2021/01/laisee.pdf">template</a>.</p>
+
+<p><em>Do you have trouble making your own Bitcoin Laisee? <a href="/2020-new-chats/">Join our Bitcoin helpdesk on Telegram</a> or write us at <a href="mailto:helpdesk@bitcoin.org.hk">helpdesk@bitcoin.org.hk</a></em></p>
+
+<h3 id="acknowledgements">Acknowledgements</h3>
+
+<p>Thank you to the countless teams working on the Lightning Network, specifically LND, the team at LNbits as well as Bitcarrot.</p>
+
+<h4 id="more-laisee">More Laisee</h4>
+
+<p>Want us to make more Laisee? You can use the lnurl-pay link below to re-fill our wallet!</p>
+
+<p class="text-center"><img src="/media/2021/01/lnurl.png" alt="Laisee Donation URL" /></p>
+
+<p class="text-center">lnurl1dp68gurn8ghj7cnfw3ejucnfw33k76tw9ehhyeewdp4j7mrww4excup0v9cxjtmkxyhkcmn4wfkz7dqlfeksr</p>
+:ET
