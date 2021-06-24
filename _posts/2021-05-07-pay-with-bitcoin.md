@@ -3,7 +3,7 @@ layout: blog
 title: 以比特幣付款
 date: "2021-05-07 02:00:00"
 permalink: /pay-with-bitcoin/
-author: liongrass
+author: sam
 published: true
 background: "url(/media/2021/05/btcpay.jpeg) #FF0000"
 
