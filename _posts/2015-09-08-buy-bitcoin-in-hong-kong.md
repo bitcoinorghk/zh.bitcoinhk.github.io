@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-最近更新：2020-10-18 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+最近更新：2021-07-01 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoin-in-hong-kong.md)
 
 ## 在香港購買比特幣
 
@@ -22,7 +22,7 @@ redirect_from:
 
 與出售比特幣相比，購買比特幣幾乎沒有欺詐風險。不幸的是，比特幣在香港仍然沒有應有的法律地位，銀行不願意與比特幣相關的公司和個人做交易。在這種環境下，騙徒很容易嘗試在某些類型的交易中騙取您的港幣或比特幣。
 
-[![HK Bitcoin ATM](http://hkbitcoinatm.com/wp-content/uploads/2018/07/HKBITCOINATM_LOGO.jpg)](http://hkbitcoinatm.com/)
+[![One Satoshi](https://cdn.onesatoshi.world/bitcoin-org/bitcoin-org-banner-01.jpg)](https://www.onesatoshi.world/)
 {:.text-center}
 
 Advertisement
