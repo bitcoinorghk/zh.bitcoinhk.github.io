@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: 在香港購買比特幣
-date: "2020-10-18 02:00:00"
+date: "2021-07-01 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
 author: sam
 published: true
@@ -36,72 +36,23 @@ Advertisement
 
 ### 比特幣ATM
 
-購買比特幣最方便的方法是使用ATM。通常您只需要在ATM上為顯示你的比特幣地址QR碼，放入鈔票並確認兌換價格即可。該過程耗時不到30秒，也是匿名的，但可能需要8％的手續費。請提前準備好錢包，並準備好零錢。比特幣ATM通常只接受港元銀行紙幣，有些ATM堅持需要第一張鈔票的面額為500港元或以上。
+購買比特幣最方便的方法是使用 ATM(比特幣自動櫃員機)。 通常你只需要在ATM上顯示你的比特幣地址二維碼，放入鈔票並確認比特幣匯率。 這過程不到 30 秒並且是匿名的，但費用可能高達 8%。 提前準備好你的錢包，帶備準確兌換金額。 ATM一般只接受港幣，有的更要求首張紙幣面額為港幣500元或以上。
 
-比特幣自動櫃員機位於：  
+香港目前有超過 100 台比特幣ATM，而且它們的位置經常轉變。
 
-#### 九龍區
+你可以透過[Coin ATM Radar](http://coinatmradar.com/)找到香港比特幣ATM及其運營商的最新地圖
 
-**[佐敦彌敦道222號大堂 - Prudential Hotel](http://ncxnet.com/)**   
-**[九龍灣常悅道18號富時大廈7樓01-04室 - Bitwork](https://www.coinhere.io/)**    
-**[九龍灣宏照道38號MegaBox L5號 - 實惠](http://ncxnet.com/ourservices/location)**    
-**[觀塘鴻圖道75號KOHO 6樓 - Tencent WeStart](https://www.coinhere.io/)**    
-**[觀塘鴻圖道35號29樓 - FunTower](http://ncxnet.com/)**    
-**[旺角新填地街470F號1樓 - S Tattoo Studio](https://www.instagram.com/s.tattoostudio/)**   
-**[旺角砵蘭街196號地下](https://www.coinhere.io/)**    
-**[旺角亞皆老街83號2樓S32 - 先達廣場](https://www.facebook.com/E-COIN-CASH-1732516800201173/)**   
-**[旺角亞皆老街83號1樓S15 - 先達廣場](https://coinatmradar.com/bitcoin_atm/7379/bitcoin-atm-general-bytes-kowloon-sin-tat-plaza/)**    
-**[旺角彌敦道608號3樓322號舖 - 總統商業中心](http://hkbitcoinatm.com/)**    
-**[旺角彌敦道602-608號Chic之堡W廣場 - 總統商業中心](https://nitroswap.com/#location)**    
-**[旺角彌敦道582-592號19樓 - 信和中心](https://www.coinhere.io/)**    
-**[旺角花園街2-6號1樓30號 - 好景商業中心](https://coinatmradar.com/bitcoin_atm/7388/bitcoin-atm-general-bytes-kowloon-ho-king-commercial-centre/)**   
-**[牛頭角馬蹄徑1號地下 - 寶恩大廈](https://www.coinhere.io/)**    
-**[大角咀鐵樹街15號地下 - Golden Luzon Agency](https://www.coinhere.io/)**    
-**[深水涉長沙灣道226-242號金華大廈3樓038號舖](https://nitroswap.com/#location)**    
-**[深水涉長沙灣道226-242號金華大廈2樓160號舖](http://bitmac.org/)**    
-**[深水涉長沙灣道226-242號金華大廈2樓25號舖](http://hkbitcoinatm.com/)**    
-**[深水涉元州街85-95號新正都電腦中心117號舖](https://www.coinhere.io/)**   
-**[尖沙咀彌敦道132號美麗華廣場2樓206號小學校](https://www.coinhere.io/)**    
-**[尖沙咀金巴利道35A號 - Color Rich](https://coinatmradar.com/bitcoin_atm/5438/bitcoin-atm-general-bytes-hong-kong-color-rich/)**    
-**[尖沙咀加拿分道41-43號12樓1216號舖 - Solo Building](https://www.facebook.com/E-COIN-CASH-1732516800201173/)**    
-**[尖沙咀290號重慶大廈36號舖 - Cke Mall](https://nitroswap.com/#location)**    
-**[尖沙咀Hart Ave 4號4樓 - Hotel Hart](http://ncxnet.com/ourservices/location)**    
-**[油麻地彌敦道387號星巴克咖啡 - Nathan Hotel](http://ncxnet.com/)**   
+一些較大的香港比特幣ATM運營商包括：
 
-#### Hong Kong
+**[CoinHere](https://coinhere.io/atm-locations/)**: (上水、上環、九龍城、九龍灣、佐敦、元朗、北角、大圍、大角咀、太子、將軍澳、尖沙咀、屯門、旺角、油麻地、深水埗、灣仔、牛頭角、紅磡、荃灣、荔枝角、葵芳、西灣、西營盤、西貢、觀塘、跑馬地、銅鑼灣、長沙灣、長洲、馬鞍山、鴨脷洲)
 
-**[中環鴨巴甸街35號B座Garden Meow地下HG01-HG05 - PMQ](https://www.coinhere.io/)**   
-**[中環永吉街6號1樓19號舖 -  誠利購物商場](http://hkbitcoinatm.com/)**    
-**[銅鑼灣記利佐治街1號富康中心23樓 - Worktech](https://www.coinhere.io/)**    
-**[銅鑼灣摩理臣山摩理臣山道86號- VELA HOTEL](http://ncxnet.com/)**    
-**[銅鑼灣波斯富街108-120號地下D1鋪](https://www.coinhere.io/)**    
-**[柴灣安業街1號信和中心7樓](https://coinatmradar.com/bitcoin_atm/5437/bitcoin-atm-general-bytes-hong-kong-7f-sino-favour-centre/)**    
-**[北角電氣道233號1-3座Maxibase 31號舖 - 城市花園](http://bitmac.org/)**    
-**[上環希利街33-35號](https://www.coinhere.io/)**    
-**[上環文咸東街40-44號地下](https://www.coinhere.io/)**    
-**[灣仔軒尼詩道273號U / G創世紀大廈 - Genesis Block](https://www.coinhere.io/)**    
-**[灣仔駱克道405-419號地下聯歡晚會 - Gala Club](http://ncxnet.com/ourservices/location)**    
-**[灣仔駱克道283號華興商業大廈25樓2502室 - 華興商業中心](https://www.coinxtm.com/)**    
+**[CoinUnited](https://coinunited.io/en/atm)**: (上環、佐敦、北角、半山區、土瓜灣、大角咀、天后、尖沙咀、旺角、柴灣、灣仔、紅磡、西灣、西灣河、西營盤、觀塘、銅鑼灣、青衣)
 
+**[HK Bitcoin ATM](http://hkbitcoinatm.com)**: (中環、旺角、深水埗、粉嶺、荃灣)
 
-#### New Territories
+**[Kernel ATM](https://kernelatm.hk/)**: (尖沙咀)
 
-**[赤鱲角暢達路9號2樓216-217號 - 富豪機場酒店](https://www.coinhere.io/)**    
-**[H粉嶺聯和市場和泰街17D地下 - 香港比特幣ATM](http://hkbitcoinatm.com/fanling-shop/)**   
-**[葵芳興芳路177號地下8號舖 - 葵芳廣場](https://www.coinhere.io/)**    
-**[馬鞍山寧泰路31號1樓105號舖 - 錦泰購物中心](https://www.coinhere.io/)**    
-**[屯門建泰街6號地下(A2電梯大堂入口 - 恒威工業中心)](https://www.coinhere.io/)**    
-**[屯門青山廣場14,2號舖壹號總站 - 一號客運大樓](https://nitroswap.com/#location)**    
-**[將軍澳志信街3號地下G08A號舖 - Savannah](https://www.coinhere.io/)**    
-**[荃灣大河路18號3樓329號舖 - T.mark](http://hkbitcoinatm.com/)**    
-**[2荃灣美運街23號地下](https://www.coinhere.io/)**    
-**[西貢德龍後街1號地下A 2-3號舖](https://www.coinhere.io/)**    
-**[元朗教育路1號2樓60號商舖](https://www.coinhere.io/)**    
-**[元朗又新街37-51號 - 又一新城](https://nitroswap.com/#location)**       
-
-你亦可以瀏覽 [coinatmradar.com](http://coinatmradar.com/) 知道最新地點資訊、營運時間及比特幣ATM手續費
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1bQBtLOmBUyg372DEkpIQFe3Ql3KwnRnz" width="100%" height="480"></iframe>
+**[Nitroswap](https://nitroswap.com/location-2/index.html)**: (元朗、寶琳、尖沙咀、屯門、旺角、深水埗、觀塘、銅鑼灣)
 
 ### 比特幣交易所
 在交易所購買比特幣通常是收費最便宜的選擇，並且相對來說也快捷方便。但這通常需要幾天時間才能建立帳戶並獲得驗證，並且您會預期香港的交易所在您開始使用帳戶前會要求您提供諸如HKID或地址證明之類的個人信息。請注意，比特幣交易所不能被視為銀行。我們建議您在購買後迅速將比特幣提取到自己控制的錢包中，並且切勿將任何資金長時間存放在交易所中。
@@ -127,7 +78,7 @@ Advertisement
 
 **[CoinUnited](https://coinunited.io/en/otc)** - CoinUnited 的OTC 交易櫃檯提供OTC交易及ATM服務，並運作在銅鑼灣一個方便的地點。
 
-##### Smaller OTC houses located in Hong Kong include:
+##### 較小型的香港OTC(over-the-counter) 交易商包括：
 
 **[一宗比特幣](https://www.onesatoshi.world/)**, 旺角, 銅鑼灣。一宗比特幣提供快捷及簡便的加密貨幣買賣服務, 以現金或八達通交易。購買的加密貨幣將直接存入你指定的地址。最低交易金額為1000港元, 進行超過80,000港元以上的交易時需要提供個人資料。
 
@@ -138,6 +89,8 @@ Advertisement
 **[MyEthShop](https://www.myethshop.com/)**, 旺角
 
 **[BTC Shop HK](https://btcshop.com.hk/)**, 尖沙咀
+
+**[香港加密資產公司](https://www.cryptocurrencyhongkong.com/)**, 金鐘
 
 #### 海外交易所
 
