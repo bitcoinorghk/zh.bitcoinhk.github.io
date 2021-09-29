@@ -46,7 +46,7 @@ Advertisement
 
 **[CoinHere](https://coinhere.io/atm-locations/)**: (上水、上環、九龍城、九龍灣、佐敦、元朗、北角、大圍、大角咀、太子、將軍澳、尖沙咀、屯門、旺角、油麻地、深水埗、灣仔、牛頭角、紅磡、荃灣、荔枝角、葵芳、西灣、西營盤、西貢、觀塘、跑馬地、銅鑼灣、長沙灣、長洲、馬鞍山、鴨脷洲)
 
-**[CoinUnited](https://coinunited.io/en/atm)**: (上環、佐敦、北角、半山區、土瓜灣、大角咀、天后、尖沙咀、旺角、柴灣、灣仔、紅磡、西灣、西灣河、西營盤、觀塘、銅鑼灣、青衣)
+**[CoinUnited](https://coinunited.io/tc/atm)**: (上環、佐敦、北角、半山區、土瓜灣、大角咀、天后、尖沙咀、旺角、柴灣、灣仔、紅磡、西灣、西灣河、西營盤、觀塘、銅鑼灣、青衣)
 
 **[HK Bitcoin ATM](http://hkbitcoinatm.com)**: (中環、旺角、深水埗、粉嶺、荃灣)
 
