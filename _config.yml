@@ -8,7 +8,8 @@ url: "https://xn--zvt121a27e.xn--uc0atv.xn--j6w193g/"
 
 future: true
 
-
+include:
+ - .well-known
 
 
 
