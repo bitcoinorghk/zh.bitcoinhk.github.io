@@ -1,8 +1,8 @@
 {
-  "callback": "https://send.laisee.org/lnurlp/api/v1/lnurl/cb/14", 
-  "commentAllowed": 30, 
-  "maxSendable": 100000000, 
-  "metadata": "[[\"text/plain\", \"leo@\\u6bd4\\u7279\\u5e63.\\u7d44\\u7e54.\\u9999\\u6e2f\"]]", 
-  "minSendable": 1000, 
-  "tag": "payRequest"
+  "tag":"payRequest",
+  "callback":"https://fast.laisee.org/lnurlp/api/v1/lnurl/cb/213",
+  "minSendable":1000000,
+  "maxSendable":1000000000,
+  "metadata":"[[\"text/plain\", \"leo@\\u6bd4\\u7279\\u5e63.\\u7d44\\u7e54.\\u9999\\u6e2f\"]]",
+  "commentAllowed":30
 }
